@@ -1,0 +1,26 @@
+BUNDLE 2 — ANIMATION KIT IMAGES (Reconciled Library Assets)
+
+Reused Existing Assets (from Reusable Asset Library & supplied images):
+1. STICK_NEUTRAL_SIT: Character sitting, contemplative (Character_contact_sheet_grid_adac6e46)
+2. STICK_REACHING_UP: Character reaching / striving upward (Stickman_grid_contact_sheet_actions_8b193ba1)
+3. STICK_SCROLL_BED: Character scrolling phone in bed (Stickman_scrolling_phone_in_bed_19bf8523)
+4. STICK_VOID_FLOOR: Character discovering void in floor (Stickman_discovering_void_in_floor_9d3eb64d)
+5. STICK_POUR_CUP: Character pouring water through cracked cup (Stickman_pouring_water_through_cup_f2b68a47)
+6. STICK_SPRINT_FINISH: Character sprinting towards finish line (Stickman_sprinting_towards_finish_e4966f14)
+7. STICK_HOURGLASS: Character watching hourglass empty (Stickman_watching_hourglass_empty_6e1d2ca4)
+8. PROP_CAR_KEY: Key prop held in hand (Stickman_holding_car_key_9cfdaf55)
+9. PROP_PHONE_GLOW: Glowing smartphone slab (Stickman_looking_at_glowing_phone_08186c3c)
+
+Missing Kit Category 1: Three.js 3D Metaphor Objects (Procedurally Baked in fx/):
+- OBJ3D_TROPHY_HOLLOW_01: Procedural 3D golden-rust trophy with toon paper fill and charcoal edge outline.
+- OBJ3D_HOURGLASS_3D_02: Procedural 3D hourglass with falling particle sand.
+- OBJ3D_PHONE_SLAB_03: Procedural 3D rotating smartphone slab.
+
+Missing Kit Category 2: Dynamic JS Effect Layers (Verified in Playbook):
+- Anime.js: Word-timed pop-in curves (cubic-bezier(0.2, 0, 0, 1), 250ms with 4% overshoot).
+- Paper.js: Animated charcoal ink callouts and brush reveal masks.
+- Matter.js: Toppling achievement block stack physics.
+- tsParticles: Contact dust puffs and ink fleck burst on trophy drop.
+- Tone.js: Synchronized pencil scratch, soft contact thud, and glass ping.
+
+Status: All required 2D animation kit character poses and props are 100% COVERED by your supplied image collection. No additional image sheets need to be generated for Bundle 2!

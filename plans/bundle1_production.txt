@@ -1,0 +1,295 @@
+BUNDLE 1 — PRODUCTION IMAGES (Google Flow). Attach assets/stickman-reference-sheet.jpeg as the character reference for every prompt.
+
+=== A. LANDSCAPE SCENE CONTACT SHEETS (17 × 3x3 = 153 panels) ===
+
+--- SHEET 01/17 · Act 1: The Unnamed Emptiness (00:00 - 00:48) · save as sheet-01.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C watercolor wash; obsidian panels #16150F, warm rim light. Canonical stickman from reference (round white head, charcoal hoodie, rust lining) in every panel unless noted. Bracket = side kept 40% empty (L/R/T/TL/TR). Bottom 20% clean. No text.
+P1: Sitting on modern couch in quiet apartment staring upward blankly. [L]
+P2: Looking into open refrigerator illuminated by gentle interior glow. [R]
+P3: Surrounded by floating comfortable objects (keys, mug, phone) looking detached. [T]
+P4: Walking along sunny street while other pedestrians are blurred ink shadows. [L]
+P5: Lying in bed in dark room, smartphone screen casting cool blue-white light on face. Obsidian. [TR]
+P6: Sitting at desk staring at clock whose hands are motionless. [R]
+P7: Close-up of chest showing faint rust-orange hollow circle. [L]
+P8: Looking at reflection in mirror while wearing clean new sweater, neutral gaze. [R]
+P9: Standing on balcony at dusk looking into wide empty cityscape. [TL]
+
+--- SHEET 02/17 · Act 1: Yearning for the Next Fix (00:48 - 01:35) · save as sheet-02.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Staring at laptop screen displaying job listings with hopeful longing. [R]
+P2: Browsing luxury real estate photos with chin resting in hand. [L]
+P3: Imagining glowing silhouette of romantic partner in empty chair opposite. [T]
+P4: Packing cardboard boxes with energetic smile, anticipating a new life. [R]
+P5: Standing at airport departure gate holding passport and ticket. [L]
+P6: Arriving in new city with suitcase, looking up at tall buildings with wide eyes. [TR]
+P7: Unpacking books onto fresh shelf in new apartment with satisfied grin. [TL]
+P8: Sitting on floor of new room three weeks later, looking around numbly. [R]
+P9: Shrugging shoulders at a mountain of unpacked aspirations. [T]
+
+--- SHEET 03/17 · Act 2: The Memory of Wanting (01:35 - 02:22) · save as sheet-03.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Younger stickman kneeling on bare floor, looking at old laptop longing for better gear. [L]
+P2: Stickman checking empty bank account on old cracked phone, tense posture. Obsidian. [R]
+P3: Stickman working late under flickering lamp dreaming of a clean private office. [T]
+P4: Looking up at apartment building with lit windows whispering a wish. [TR]
+P5: Receiving acceptance email with fist pumped in celebration. [L]
+P6: Holding brand new smartphone in box, untying ribbon with reverent care. [R]
+P7: First night in current apartment, sitting on floor eating takeout happily. [TL]
+P8: Touching the painted wall of new home with genuine gratitude. [R]
+P9: Writing 'I finally made it' into diary under warm desk lamp. [L]
+
+--- SHEET 04/17 · Act 2: Hedonic Adaptation Takes Hold (02:22 - 03:10) · save as sheet-04.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Calendar pages flipping rapidly from month 1 to month 3. [T]
+P2: Walking into the same apartment now cluttered with laundry and mail, blank look. [R]
+P3: Dropping once-treasured smartphone onto table like an ordinary pebble. [L]
+P4: Sitting in ergonomic office chair staring at spreadsheets with slumped shoulders. [TR]
+P5: Standing in car dealership admiring new vehicle while ignoring his own car. [R]
+P6: Walking past beautiful artwork on his own wall without even glancing at it. [L]
+P7: Hands holding once-coveted gadget while eyes look past it into distance. [T]
+P8: Stickman inside a luxurious bubble that is drawn in increasingly pale lines. [TL]
+P9: Stickman standing on moving walkway of rising expectations. [R]
+
+--- SHEET 05/17 · Act 2: The Biological Machine (03:10 - 04:00) · save as sheet-05.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Anatomical doodle of brain with rust gears turning inside forehead. [L]
+P2: Caveman stickman scanning dark horizon for danger with alert posture. Obsidian. [R]
+P3: Primitive campfire with predator eyes glowing in background ink. [T]
+P4: Brain graph showing high spike in dopamine dropping back to flat line. [TR]
+P5: Stickman on treadmill where the speed dial keeps automatically increasing. [R]
+P6: Stickman building taller and taller brick walls to feel safe. [L]
+P7: Thermostat dial labeled 'baseline' automatically resetting to room temp. [T]
+P8: Stickman adjusting glasses as vibrant colors fade into monochrome ink. [TL]
+P9: Stickman looking at his hands, realizing the brain adapted too well. [R]
+
+--- SHEET 06/17 · Act 3: The Morning Coffee (04:00 - 04:45) · save as sheet-06.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Close-up of hot coffee cup with curling steam on wooden kitchen table. [L]
+P2: Morning sunlight casting warm amber watercolor rectangle on floorboards. [R]
+P3: Stickman sitting peacefully taking first warm sip with relaxed shoulders. [T]
+P4: Hand reaching for smartphone lying face up next to breakfast plate. [R]
+P5: Screen turning on with bright white glow illuminating fingertips. [L]
+P6: Thumbnail grid of endless social feeds reflected in stickman's eyes. Obsidian. [TR]
+P7: Facial posture stiffening slightly as thumb begins scrolling downward. [TL]
+P8: Steam vanishing from coffee cup as it goes cold untouched. [R]
+P9: Peaceful morning room fading into faint ghost lines around stickman. [T]
+
+--- SHEET 07/17 · Act 3: The Curated Showcase (04:45 - 05:35) · save as sheet-07.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Glamorous stickman silhouette sipping champagne on yacht deck at sunset. [R]
+P2: Stickman couple embracing in front of Eiffel Tower with vibrant golden wash. [L]
+P3: Young tech founder receiving giant novelty check on conference stage. [TR]
+P4: Athlete stickman crossing triathlon finish line with perfect heroic form. [T]
+P5: Pristine minimalist loft with floor-to-ceiling windows overlooking skyline. [R]
+P6: Luxury sports car parked on coastal mountain winding road. [L]
+P7: Endless stream of graduation caps tossing into blue sky. [TL]
+P8: Stickman scrolling through these images, shrinking smaller in bottom corner. [R]
+P9: Giant glowing phone screen towering over lone stickman like monolith. Obsidian. [T]
+
+--- SHEET 08/17 · Act 3: The Contrast Trap (05:35 - 06:25) · save as sheet-08.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Split panel: luxury penthouse on left vs stickman's cozy modest room on right. [T]
+P2: Measuring tape stretching between stickman's desk and a faraway castle. [R]
+P3: Scale tipping heavily toward digital images while physical reality sinks. [L]
+P4: Stickman looking at his worn winter coat with sudden embarrassment. [TR]
+P5: Looking at friendly text message from mother but feeling disconnected. [TL]
+P6: Compass needle spinning erratically between conflicting influencer lives. [R]
+P7: Stickman standing in front of funhouse mirror that distorts his normal body. [L]
+P8: Two arrows pointing in opposite directions: 'What is' vs 'What you saw'. [T]
+P9: Stickman putting phone down with heavy sigh, feeling ten years behind. Obsidian. [R]
+
+--- SHEET 09/17 · Act 3: Behind The Curtain (06:25 - 07:15) · save as sheet-09.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Smiling couple posing for photo in front of camera tripod. [L]
+P2: Reverse angle: immediately after photo, both look down at phones in silence. [R]
+P3: Successful entrepreneur sitting alone on hotel bed at midnight with head in hands. [T]
+P4: Luxury car owner looking at stack of overdue leasing bills. Obsidian. [TR]
+P5: Stage with single bright spotlight and huge dark chaotic backstage behind it. [L]
+P6: Stickman holding magnifying glass seeing cracks running through marble statue. [R]
+P7: Pile of discarded draft photos and fake smiles surrounding one final post. [TL]
+P8: Stickman peeking behind cardboard theater backdrop to see plain wood stands. [R]
+P9: Stickman looking at his own genuine uncurated life with emerging clarity. [T]
+
+--- SHEET 10/17 · Act 4: The Wrong Definition of Success (07:15 - 08:05) · save as sheet-10.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Crowd of faceless gray figures pointing stickman toward a narrow staircase. [R]
+P2: Stickman carrying heavy sack of expectations labeled with status symbols. [L]
+P3: Parent figures clapping proudly while stickman looks strained and tired. [T]
+P4: Giant corporate ladder leaning against the wrong building. [TR]
+P5: Stickman accepting a heavy bronze medal that pulls his neck down. [L]
+P6: Golden trophy on pedestal that turns out to be hollow plastic inside. [R]
+P7: Signpost with ten conflicting arrows all labeled 'Should'. [TL]
+P8: Stickman standing at crossroad between quiet wooded path and crowded neon highway. [T]
+P9: Stickman touching his chest, searching for personal resonance. [R]
+
+--- SHEET 11/17 · Act 4: Chasing The Emotion, Not The Object (08:05 - 08:55) · save as sheet-11.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Stickman stacking shiny gold coins believing they will build a fortress. [L]
+P2: Cold rain pouring down, coins do not stop the water from dripping on head. Obsidian. [R]
+P3: Chasing a floating butterfly made of pure golden light labeled 'Security'. [T]
+P4: Reaching into treasure chest only to find a hand mirror reflecting his own tired face. [TR]
+P5: Stickman buying expensive watch, then checking it repeatedly with anxiety. [R]
+P6: Handshake in high-rise boardroom, but inner stickman sits alone in dark corner. [L]
+P7: Stickman pouring water into ceramic bowl with holes in the bottom. [TL]
+P8: Stickman trying to hug a stone pillar of status, feeling only cold marble. [T]
+P9: Stickman sitting quietly with open hands, wondering what he actually desires. [R]
+
+--- SHEET 12/17 · Act 4: The Arrival Fallacy (08:55 - 09:45) · save as sheet-12.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Stickman sprinting furiously toward red finish line ribbon on mountain summit. [L]
+P2: Ribbon snapping across chest, brief explosive burst of golden confetti. [R]
+P3: Confetti settling on ground, crowd noise fading into total stillness. [T]
+P4: Stickman holding trophy above head on 1st place podium, looking confused. [TR]
+P5: Looking inside the trophy cup: completely hollow and dark. [L]
+P6: Next morning: standing in kitchen, trophy sitting on counter like ordinary mug. [R]
+P7: The finish line banner in distance shifting into a new starting gate. [TL]
+P8: Horizon revealing ten more identical summits ahead. [T]
+P9: Stickman sitting on summit edge realizing the destination was never a final state. [R]
+
+--- SHEET 13/17 · Act 5: Pausing Before Chasing (09:45 - 10:35) · save as sheet-13.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Stickman putting running shoes away in closet and sitting down calmly. [L]
+P2: Deep breath visual: charcoal lines expanding outward like gentle ocean ripples. [R]
+P3: Stickman placing hands on current apartment table feeling the real wood grain. [T]
+P4: Looking at worn bookshelves with warmth and recognition. [TR]
+P5: Turning off phone and sliding it into closed desk drawer. [L]
+P6: Watching rain drops trace paths down windowpane without rushing anywhere. [R]
+P7: Drawing a circle around current life on a map and writing 'Enough for today'. [TL]
+P8: Stickman gently placing hand on past self's shoulder in memory. [T]
+P9: Quiet cup of warm tea emitting gentle steam in peaceful lamplight. [R]
+
+--- SHEET 14/17 · Act 5: Filtering The Noise (10:35 - 11:25) · save as sheet-14.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Stickman installing an ink filter screen that blocks out flashing neon ads. [L]
+P2: Unfollowing digital avatars, watching clutter disappear from room. [R]
+P3: Choosing one single book from a wall of shouting billboards. [T]
+P4: Walking with hands in pockets down quiet side alley, away from roaring main street. [TR]
+P5: Shield made of warm paper deflecting noise arrows from crowd. [L]
+P6: Stickman having honest laugh with one genuine lifelong friend. [R]
+P7: Checking his own inner compass instead of asking passersby for direction. [TL]
+P8: Sitting in garden sketching what actually brings peace without audience. [T]
+P9: Stickman smiling at simple home-cooked meal with relaxed posture. [R]
+
+--- SHEET 15/17 · Act 5: Active Gratitude vs Settling (11:25 - 12:15) · save as sheet-15.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Stickman standing between two balance scales: 'Ambition' and 'Gratitude' in harmony. [T]
+P2: Looking back down hiking trail at base camp, honoring how far he has walked. [L]
+P3: Watering a small bonsai tree growing in sturdy ceramic pot. [R]
+P4: Writing three genuine memories from the week in unadorned notebook. [TR]
+P5: Planting seeds in soil with patient smile, not digging them up to check roots. [TL]
+P6: Stickman celebrating a modest personal milestone alone with cup of tea. [R]
+P7: Two hands working together: one holding a map, one holding a walking stick. [L]
+P8: Stickman looking at sunrise with grounded posture, neither frantic nor complacent. [T]
+P9: Warm rust-orange watercolor bloom spreading outward from stickman's chest. [R]
+
+--- SHEET 16/17 · Act 5: The Anchor in the Everyday (12:15 - 13:00) · save as sheet-16.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Hands chopping fresh vegetables on wooden cutting board with focused presence. [L]
+P2: Walking through neighborhood park listening to birds in autumn trees. [R]
+P3: Laughing freely during simple phone call with family member. [T]
+P4: Reading well-worn paperback novel in comfortable armchair by window. [TR]
+P5: Stickman stretching arms out wide on mountain crest under vast open sky. [TL]
+P6: Looking into bathroom mirror and meeting own eyes with deep self-respect. [R]
+P7: Organizing workspace with deliberate care, enjoying the tactile process. [L]
+P8: Evening stroll under warm streetlights with hands casually in hoodie pockets. [T]
+P9: Stickman turning out nightstand lamp with peaceful, grounded countenance. [R]
+
+--- SHEET 17/17 · Closing Thesis & Brand Resolve (13:00 - 13:27) · save as sheet-17.png ---
+16:9 1920x1080, exact 3x3 grid, thin black borders. Ink doodle, warm paper #F7F4EE, charcoal lines, rust #C8623C wash.
+P1: Stickman looking at past milestones on a trail, smiling with quiet acceptance. [L]
+P2: Stickman walking forward with balanced posture, no heavy burden. [R]
+P3: Geometric diagram in code showing convergence of Meaning, Effort, and Presence. [T]
+P4: Stickman standing in warm dawn light, mountain range in distance. [TR]
+P5: Canonical Why We Become stickman standing center-frame looking directly forward. [L]
+P6: Canonical end card composition: warm paper background, obsidian graphic frame. [R]
+P7: Stickman stepping through doorway into wide bright world of real presence. [TL]
+P8: Soft rust watercolor wash framing the final resolution. [T]
+P9: Master subscribe end card framing, canonical brand silhouette. [R]
+
+
+=== B. 3 NICHE-SPECIFIC YOUTUBE THUMBNAILS (16:9, 1920x1080) ===
+
+Concept 1 (Hook Angle: Contradiction — *RECOMMENDED PICK*)
+Hook Text: "HAVE EVERYTHING. FEEL NOTHING." (added in code)
+Format: 16:9 landscape thumbnail, 1920x1080, single story scene, no grid, no text, no letters.
+Style: Bold editorial ink doodle on warm off-white paper (#F7F4EE), heavy charcoal outlines, rich rust-orange (#C8623C) watercolor wash.
+Character: Canonical stickman in dark charcoal hoodie with rust collar, large on right side (50% frame height), seated at a luxurious table filled with glowing trophies, new keys, and modern gadgets, but head resting slumped in hands with exhausted, vacant expression.
+Focal detail: A large golden-rust trophy right in front of him is cracked down the center, completely empty inside.
+Composition: High value contrast, left 35% completely clean paper reserved for hook text, bottom-right corner kept clear of details.
+Mood: Relatable, unsettling, immediately recognizable psychological friction.
+
+Concept 2 (Hook Angle: Hidden Truth)
+Hook Text: "THE INVISIBLE TRAP" (added in code)
+Format: 16:9 landscape thumbnail, 1920x1080, single scene, no grid, no text, no letters.
+Style: Obsidian background (#16150F) with warm rim lighting and charcoal ink doodle on off-white central stage.
+Character: Canonical stickman walking inside a beautiful glass cage that resembles a luxury penthouse, reaching for the door that has no handle.
+Focal detail: A single rust-orange thread tied to his wrist pulling him backward toward an endless treadmill.
+Composition: High drama, right 35% clean obsidian space for white hook typography, bottom-right clear.
+
+Concept 3 (Hook Angle: Consequence / Self-Recognition)
+Hook Text: "WHY IT FADES" (added in code)
+Format: 16:9 landscape thumbnail, 1920x1080, single scene, no grid, no text, no letters.
+Style: Editorial doodle on warm paper (#F7F4EE), charcoal lines, rust watercolor bleed.
+Story: Stickman looking at a mirror reflection that is entirely hollowed out, while his physical self is surrounded by checked-off life achievement boxes.
+Composition: One focal story, top-left 35% clean space for bold typography.
+
+
+=== C. 3 SHORTS 2x2 PORTRAIT CONTACT SHEETS (9:16, 1080x1920) ===
+
+--- SHORT 1: The Arrival Fallacy (Why Finishing Leaves You Empty) · save as short1_sheet.png ---
+Format: 9:16 vertical portrait canvas (1080x1920), exact 2x2 grid (4 distinct 9:16 panels with thin ink borders), no text, no letters.
+Style: Master editorial doodle on warm off-white paper (#F7F4EE), charcoal ink outlines, rust-orange (#C8623C) watercolor wash.
+Character: Canonical stickman in charcoal hoodie with rust trim.
+Panel 1 (Top-Left): Stickman sprinting upward on steep incline toward a glowing rust flag. Top 40% clean paper. Bottom 25% clear.
+Panel 2 (Top-Right): Stickman snapping finish line ribbon with ecstatic leap. Right 40% open space for caption pill. Bottom 25% clear.
+Panel 3 (Bottom-Left): Stickman holding trophy, looking inside with bewildered expression. Top 40% clean. Bottom 25% clear.
+Panel 4 (Bottom-Right): Stickman sitting on podium looking at vast empty horizon, realizing nothing changed inside. Upper-left 40% clean open air. Bottom 25% clear.
+
+--- SHORT 2: Hedonic Adaptation (Why Good Things Turn Invisible) · save as short2_sheet.png ---
+Format: 9:16 vertical portrait canvas (1080x1920), exact 2x2 grid (4 distinct 9:16 panels with thin ink borders), no text, no letters.
+Style: Editorial doodle on warm paper (#F7F4EE), charcoal outlines, rust-orange accents.
+Panel 1 (Top-Left): Stickman holding brand new car key with joyful glow. Top 40% clean. Bottom 25% clear.
+Panel 2 (Top-Right): Stickman sitting in traffic with same car key looking bored and numb. Upper-right 40% clean paper. Bottom 25% clear.
+Panel 3 (Bottom-Left): Stickman on ascending staircase where each step dissolves into fog behind him. Left 40% clean. Bottom 25% clear.
+Panel 4 (Bottom-Right): Stickman standing in middle of circle of normalized luxuries, realizing baseline reset. Top 40% clean. Bottom 25% clear.
+
+--- SHORT 3: The Contrast Trap (Comparing Your Reality to Highlights) · save as short3_sheet.png ---
+Format: 9:16 vertical portrait canvas (1080x1920), exact 2x2 grid (4 distinct 9:16 panels with thin ink borders), no text, no letters.
+Style: Split paper (#F7F4EE) and obsidian (#16150F) editorial doodle.
+Panel 1 (Top-Left): Stickman scrolling phone in dark bedroom at 1 AM. Top 40% clean. Bottom 25% clear.
+Panel 2 (Top-Right): Phone screen displaying glowing avatar on pedestal with crowd cheering. Right 40% clean. Bottom 25% clear.
+Panel 3 (Bottom-Left): Stickman looking at his ordinary room feeling inadequate. Left 40% clean. Bottom 25% clear.
+Panel 4 (Bottom-Right): Reality reveal: backstage of avatar showing mess and exhaustion. Upper 40% clean. Bottom 25% clear.
+
+
+=== D. 2 VERTICAL COVERS PER SHORT (9:16, 1080x1920) ===
+
+--- Short 1 Cover Concept A (*RECOMMENDED PICK*) ---
+Hook Text: "THE FINISH LINE LIE"
+Format: 9:16 vertical portrait cover, 1080x1920, single scene, no grid, no text, no letters.
+Style: Bold editorial ink doodle on warm off-white paper (#F7F4EE), thick charcoal strokes, rust-orange (#C8623C) watercolor splash.
+Character: Canonical stickman in hoodie standing on the very peak of a golden podium with a medal around neck, staring down at empty hands with a profound look of emptiness. Top 35% clean paper for bold vertical hook text. Bottom 25% clean.
+
+--- Short 1 Cover Concept B ---
+Hook Text: "WHY GOALS FAIL YOU"
+Format: 9:16 vertical portrait cover, single scene, stickman holding a giant trophy that has a gaping hole straight through its core, rust accents. Top 35% clean paper.
+
+--- Short 2 Cover Concept A (*RECOMMENDED PICK*) ---
+Hook Text: "WHY IT FADES SO FAST"
+Format: 9:16 vertical portrait cover, 1080x1920, single scene, no grid, no text, no letters.
+Style: Obsidian (#16150F) with warm paper window in center, charcoal ink doodle.
+Character: Stickman walking forward while the vibrant rust-colored world behind him turns into chalk dust and fades away. Upper third clean for hook typography.
+
+--- Short 2 Cover Concept B ---
+Hook Text: "THE RESET TRAP"
+Format: 9:16 vertical portrait cover, stickman standing on rising elevator whose floor constantly drops back down, rust watercolor wash.
+
+--- Short 3 Cover Concept A (*RECOMMENDED PICK*) ---
+Hook Text: "STOP COMPARING"
+Format: 9:16 vertical portrait cover, 1080x1920, single scene, no grid, no text, no letters.
+Style: Warm off-white paper (#F7F4EE), bold ink doodle.
+Character: Stickman holding phone up like a mask over half his face—the phone side has a painted wide smile, but his real face behind it is neutral and tired. Top 35% clean paper.
+
+--- Short 3 Cover Concept B ---
+Hook Text: "IT'S NOT REAL"
+Format: 9:16 vertical portrait cover, stickman pulling back a giant poster of a luxury mansion to reveal an ordinary brick wall.

@@ -30,14 +30,14 @@ def hook(f, words, x, y, size, cols, width, backing=None, center=False):
         blit(f, g, gx, yy); yy += round(sz * 1.08)
     return yy
 def thumbnail(out):
-    f = cover_fit(art(MAP['thumb']), 1280, 720)  # L01: obsidian room, left 35% kept empty for hook text
-    y = hook(f, ['NOT', 'EMPTY'], 64, 210, 168, [WHITE, GOLD], 430)
-    cv2.line(f, (70, y + 14), (250, y + 14), RUST, 10, cv2.LINE_AA)
+    f = cover_fit(art(MAP['thumb']), 1280, 720)  # L01
+    y = hook(f, ['HAVE EVERYTHING.', 'FEEL NOTHING.'], 64, 210, 110, [INK, RUST], 520)
+    cv2.line(f, (70, y + 14), (280, y + 14), RUST, 10, cv2.LINE_AA)
     cv2.imwrite(os.path.join(out, 'thumbnail.jpg'), f, [cv2.IMWRITE_JPEG_QUALITY, 92])
     small = cv2.resize(f, (160, 90), interpolation=cv2.INTER_AREA); cv2.imwrite(os.path.join(out, 'thumbnail_160x90_check.png'), small)
-COVERS = {'SH1': ('SH1-A', ['ALONE', '≠ LONELY'], [INK, RUST], None),
-          'SH2': ('SH2-A', ['PEACE', 'OR FEAR?'], [WHITE, GOLD], None),
-          'SH3': ('SH3-A', ['WHOSE', 'DREAM?'], [INK, RUST], (238, 244, 247))}
+COVERS = {'SH1': ('SH1-A', ['THE', 'FINISH LINE', 'LIE'], [INK, RUST, INK], None),
+          'SH2': ('SH2-A', ['WHY IT', 'FADES', 'SO FAST'], [WHITE, GOLD, WHITE], None),
+          'SH3': ('SH3-A', ['STOP', 'COMPARING'], [INK, RUST], (238, 244, 247))}
 def covers(out):
     for sid, (ck, words, cols, back) in COVERS.items():
         a = art(MAP['covers'][ck]); f = cover_fit(a, 1080, 1920)

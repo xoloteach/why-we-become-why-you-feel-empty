@@ -6,10 +6,11 @@ sys.path.insert(0, os.path.dirname(__file__)); from common import ROOT, WORK, FP
 from align import norm
 from extract import darkset
 VO_END = 1226.515; END_CARD = 5.0; SHORT_END = 2.5; LEAD = 0.10
-CHAPTERS = ['Why some people enjoy being alone', 'Being alone vs. being lonely', 'How you process the world', 'Do intelligent people prefer solitude?',
-            'Deep work needs uninterrupted time', 'Joy without an audience', 'Hearing your own thoughts', 'When reflection becomes rumination',
-            'The emotional work of socialising', 'Preference or fear?', 'Choosing solitude vs. hiding in it', 'Depth over frequency',
-            "Independence isn't the absence of others", 'Why solitude grows with self-knowledge', 'The value of quiet']
+CHAPTERS = [
+    'The Quiet Void', 'The Endless Search', 'The Memory of Wanting', 'Hedonic Adaptation',
+    'The Baseline Reset', 'The Glass Screen', 'The Contrast Trap', 'The Arrival Fallacy',
+    'The Hollow Trophy', 'Chasing Feelings, Not Objects', 'Reclaiming Presence'
+]
 REGION = {'landscape': {'w': 440, 'h': 410}, 'portrait': {'w': 420, 'h': 320}}
 def load_align():
     a = json.load(open(os.path.join(WORK, 'align.json'))); return a['tokens'], a['lines'], a
@@ -83,6 +84,7 @@ def fx_job(s, spec, toks, fmt, eid, warn):
             'cue_words': spec['cues'], 'cue_times_abs': [round(c, 3) for c in cues], 'view': spec.get('view', {})}
 def main():
     toks, lines, A = load_align(); warn = []; dark = darkset(); sides = open_sides(); specs = json.load(open(os.path.join(ROOT, 'plan', 'fx_specs.json')))
+    VO_END = round(toks[-1]['end'] + 0.2, 3)
     rows, _ = parse_dsl(os.path.join(ROOT, 'plan', 'scenes.dsl'))
     L = resolve_scenes(rows, toks, lines, 0.0, VO_END, warn)
     ch = 0; chapters = []; jobs = []

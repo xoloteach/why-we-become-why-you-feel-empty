@@ -2,3 +2,7 @@ node_modules/
 __pycache__/
 *.pyc
 work/
+output/
+perf/
+audio/
+flow_images.zip

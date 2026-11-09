@@ -143,8 +143,7 @@ def main(only=None):
             name = f'{key}-{p}'
             # Reviewed subject crops from locked 768x1376 P04/P07 sheets. Remove blank
             # lower paper strips and disconnected blocks, not connected subject details.
-            reviewed = {'SH2B-1': (65, 310, 330, 490), 'SH2B-2': (402, 276, 737, 611),
-                        'SH2A-3': (24, 704, 373, 1234), 'SH2A-4': (399, 704, 744, 1234)}
+            reviewed = {}
             if name in reviewed:
                 x0, y0, x1, y1 = reviewed[name]
             a = img[y0:y1, x0:x1].copy() if name in reviewed else trim_cell(img[y0:y1, x0:x1]); cv2.imwrite(os.path.join(WORK, 'native', name + '.png'), a)

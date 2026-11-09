@@ -1,0 +1,26 @@
+{
+  "schema": "wwb-fx-specs/1",
+  "note": "Cue words are looked up in the aligned narration inside each scene; times become scene-local seconds.",
+  "landscape": {
+    "S02-1": { "object": "clock", "params": { "speed": 1.2 }, "cues": ["what"] },
+    "S03-2": { "object": "stairs", "params": { "steps": 6 }, "cues": ["changed"] },
+    "S04-3": { "object": "scale", "params": { "tilt": 0.4 }, "cues": ["problem"] },
+    "S05-4": { "object": "globe", "params": { "rot": 1.5 }, "cues": ["someone"] },
+    "S06-5": { "object": "phone", "params": { "glow": true }, "cues": ["bill"] },
+    "S07-6": { "object": "briefcase", "params": { "snap": true }, "cues": ["think"] },
+    "S08-7": { "object": "battery", "params": { "mode": "drain", "from": 0.9, "to": 0.1 }, "cues": ["disconnected"] },
+    "S09-8": { "object": "door", "params": { "open": 0.8 }, "cues": ["again"] },
+    "S10-9": { "object": "books", "params": { "stack": 4 }, "cues": ["important"] },
+    "S12-1": { "object": "window", "params": { "light": true }, "cues": ["stimulation"] },
+    "S13-2": { "object": "phone", "params": { "screen": "on" }, "cues": ["media"] },
+    "S14-3": { "object": "envelope", "params": { "count": 1 }, "cues": ["online"] },
+    "S15-4": { "object": "clock", "params": { "speed": 0.8 }, "cues": ["connection"] },
+    "S16-5": { "object": "scale", "params": { "tilt": -0.3 }, "cues": ["nothing"] },
+    "S17-6": { "object": "door", "params": { "open": 1.0 }, "cues": ["improve"] }
+  },
+  "shorts": {
+    "SH1-A2": { "object": "clock", "params": { "speed": 1.0 }, "cues": ["feeling"] },
+    "SH2-A3": { "object": "stairs", "params": { "steps": 5 }, "cues": ["ordinary"] },
+    "SH3-A2": { "object": "phone", "params": { "glow": true }, "cues": ["open"] }
+  }
+}

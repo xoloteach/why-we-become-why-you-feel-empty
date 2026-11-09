@@ -1,0 +1,171 @@
+# sheet|panel lines: "open-side|description"  (D: prefix = obsidian panel)
+== S01 Act 1: The Unnamed Emptiness (00:00 - 00:48)
+L|Sitting on modern couch in quiet apartment staring upward blankly.
+R|Looking into open refrigerator illuminated by gentle interior glow.
+T|Surrounded by floating comfortable objects (keys, mug, phone) looking detached.
+L|Walking along sunny street while other pedestrians are blurred ink shadows.
+D:TR|Lying in bed in dark room, smartphone screen casting cool blue-white light on face.
+R|Sitting at desk staring at clock whose hands are motionless.
+L|Close-up of chest showing faint rust-orange hollow circle.
+R|Looking at reflection in mirror while wearing clean new sweater, neutral gaze.
+TL|Standing on balcony at dusk looking into wide empty cityscape.
+== S02 Act 1: Yearning for the Next Fix (00:48 - 01:35)
+R|Staring at laptop screen displaying job listings with hopeful longing.
+L|Browsing luxury real estate photos with chin resting in hand.
+T|Imagining glowing silhouette of romantic partner in empty chair opposite.
+R|Packing cardboard boxes with energetic smile, anticipating a new life.
+L|Standing at airport departure gate holding passport and ticket.
+TR|Arriving in new city with suitcase, looking up at tall buildings with wide eyes.
+TL|Unpacking books onto fresh shelf in new apartment with satisfied grin.
+R|Sitting on floor of new room three weeks later, looking around numbly.
+T|Shrugging shoulders at a mountain of unpacked aspirations.
+== S03 Act 2: The Memory of Wanting (01:35 - 02:22)
+L|Younger stickman kneeling on bare floor, looking at old laptop longing for better gear.
+D:R|Stickman checking empty bank account on old cracked phone, tense posture.
+T|Stickman working late under flickering lamp dreaming of a clean private office.
+TR|Looking up at apartment building with lit windows whispering a wish.
+L|Receiving acceptance email with fist pumped in celebration.
+R|Holding brand new smartphone in box, untying ribbon with reverent care.
+TL|First night in current apartment, sitting on floor eating takeout happily.
+R|Touching the painted wall of new home with genuine gratitude.
+L|Writing 'I finally made it' into diary under warm desk lamp.
+== S04 Act 2: Hedonic Adaptation Takes Hold (02:22 - 03:10)
+T|Calendar pages flipping rapidly from month 1 to month 3.
+R|Walking into the same apartment now cluttered with laundry and mail, blank look.
+L|Dropping once-treasured smartphone onto table like an ordinary pebble.
+TR|Sitting in ergonomic office chair staring at spreadsheets with slumped shoulders.
+R|Standing in car dealership admiring new vehicle while ignoring his own car.
+L|Walking past beautiful artwork on his own wall without even glancing at it.
+T|Hands holding once-coveted gadget while eyes look past it into distance.
+TL|Stickman inside a luxurious bubble that is drawn in increasingly pale lines.
+R|Stickman standing on moving walkway of rising expectations.
+== S05 Act 2: The Biological Machine (03:10 - 04:00)
+L|Anatomical doodle of brain with rust gears turning inside forehead.
+D:R|Caveman stickman scanning dark horizon for danger with alert posture.
+T|Primitive campfire with predator eyes glowing in background ink.
+TR|Brain graph showing high spike in dopamine dropping back to flat line.
+R|Stickman on treadmill where the speed dial keeps automatically increasing.
+L|Stickman building taller and taller brick walls to feel safe.
+T|Thermostat dial labeled 'baseline' automatically resetting to room temp.
+TL|Stickman adjusting glasses as vibrant colors fade into monochrome ink.
+R|Stickman looking at his hands, realizing the brain adapted too well.
+== S06 Act 3: The Morning Coffee (04:00 - 04:45)
+L|Close-up of hot coffee cup with curling steam on wooden kitchen table.
+R|Morning sunlight casting warm amber watercolor rectangle on floorboards.
+T|Stickman sitting peacefully taking first warm sip with relaxed shoulders.
+R|Hand reaching for smartphone lying face up next to breakfast plate.
+L|Screen turning on with bright white glow illuminating fingertips.
+D:TR|Thumbnail grid of endless social feeds reflected in stickman's eyes.
+TL|Facial posture stiffening slightly as thumb begins scrolling downward.
+R|Steam vanishing from coffee cup as it goes cold untouched.
+T|Peaceful morning room fading into faint ghost lines around stickman.
+== S07 Act 3: The Curated Showcase (04:45 - 05:35)
+R|Glamorous stickman silhouette sipping champagne on yacht deck at sunset.
+L|Stickman couple embracing in front of Eiffel Tower with vibrant golden wash.
+TR|Young tech founder receiving giant novelty check on conference stage.
+T|Athlete stickman crossing triathlon finish line with perfect heroic form.
+R|Pristine minimalist loft with floor-to-ceiling windows overlooking skyline.
+L|Luxury sports car parked on coastal mountain winding road.
+TL|Endless stream of graduation caps tossing into blue sky.
+R|Stickman scrolling through these images, shrinking smaller in bottom corner.
+D:T|Giant glowing phone screen towering over lone stickman like monolith.
+== S08 Act 3: The Contrast Trap (05:35 - 06:25)
+T|Split panel: luxury penthouse on left vs stickman's cozy modest room on right.
+R|Measuring tape stretching between stickman's desk and a faraway castle.
+L|Scale tipping heavily toward digital images while physical reality sinks.
+TR|Stickman looking at his worn winter coat with sudden embarrassment.
+TL|Looking at friendly text message from mother but feeling disconnected.
+R|Compass needle spinning erratically between conflicting influencer lives.
+L|Stickman standing in front of funhouse mirror that distorts his normal body.
+T|Two arrows pointing in opposite directions: 'What is' vs 'What you saw'.
+D:R|Stickman putting phone down with heavy sigh, feeling ten years behind.
+== S09 Act 3: Behind The Curtain (06:25 - 07:15)
+L|Smiling couple posing for photo in front of camera tripod.
+R|Reverse angle: immediately after photo, both look down at phones in silence.
+T|Successful entrepreneur sitting alone on hotel bed at midnight with head in hands.
+D:TR|Luxury car owner looking at stack of overdue leasing bills.
+L|Stage with single bright spotlight and huge dark chaotic backstage behind it.
+R|Stickman holding magnifying glass seeing cracks running through marble statue.
+TL|Pile of discarded draft photos and fake smiles surrounding one final post.
+R|Stickman peeking behind cardboard theater backdrop to see plain wood stands.
+T|Stickman looking at his own genuine uncurated life with emerging clarity.
+== S10 Act 4: The Wrong Definition of Success (07:15 - 08:05)
+R|Crowd of faceless gray figures pointing stickman toward a narrow staircase.
+L|Stickman carrying heavy sack of expectations labeled with status symbols.
+T|Parent figures clapping proudly while stickman looks strained and tired.
+TR|Giant corporate ladder leaning against the wrong building.
+L|Stickman accepting a heavy bronze medal that pulls his neck down.
+R|Golden trophy on pedestal that turns out to be hollow plastic inside.
+TL|Signpost with ten conflicting arrows all labeled 'Should'.
+T|Stickman standing at crossroad between quiet wooded path and crowded neon highway.
+R|Stickman touching his chest, searching for personal resonance.
+== S11 Act 4: Chasing The Emotion, Not The Object (08:05 - 08:55)
+L|Stickman stacking shiny gold coins believing they will build a fortress.
+D:R|Cold rain pouring down, coins do not stop the water from dripping on head.
+T|Chasing a floating butterfly made of pure golden light labeled 'Security'.
+TR|Reaching into treasure chest only to find a hand mirror reflecting his own tired face.
+R|Stickman buying expensive watch, then checking it repeatedly with anxiety.
+L|Handshake in high-rise boardroom, but inner stickman sits alone in dark corner.
+TL|Stickman pouring water into ceramic bowl with holes in the bottom.
+T|Stickman trying to hug a stone pillar of status, feeling only cold marble.
+R|Stickman sitting quietly with open hands, wondering what he actually desires.
+== S12 Act 4: The Arrival Fallacy (08:55 - 09:45)
+L|Stickman sprinting furiously toward red finish line ribbon on mountain summit.
+R|Ribbon snapping across chest, brief explosive burst of golden confetti.
+T|Confetti settling on ground, crowd noise fading into total stillness.
+TR|Stickman holding trophy above head on 1st place podium, looking confused.
+L|Looking inside the trophy cup: completely hollow and dark.
+R|Next morning: standing in kitchen, trophy sitting on counter like ordinary mug.
+TL|The finish line banner in distance shifting into a new starting gate.
+T|Horizon revealing ten more identical summits ahead.
+R|Stickman sitting on summit edge realizing the destination was never a final state.
+== S13 Act 5: Pausing Before Chasing (09:45 - 10:35)
+L|Stickman putting running shoes away in closet and sitting down calmly.
+R|Deep breath visual: charcoal lines expanding outward like gentle ocean ripples.
+T|Stickman placing hands on current apartment table feeling the real wood grain.
+TR|Looking at worn bookshelves with warmth and recognition.
+L|Turning off phone and sliding it into closed desk drawer.
+R|Watching rain drops trace paths down windowpane without rushing anywhere.
+TL|Drawing a circle around current life on a map and writing 'Enough for today'.
+T|Stickman gently placing hand on past self's shoulder in memory.
+R|Quiet cup of warm tea emitting gentle steam in peaceful lamplight.
+== S14 Act 5: Filtering The Noise (10:35 - 11:25)
+L|Stickman installing an ink filter screen that blocks out flashing neon ads.
+R|Unfollowing digital avatars, watching clutter disappear from room.
+T|Choosing one single book from a wall of shouting billboards.
+TR|Walking with hands in pockets down quiet side alley, away from roaring main street.
+L|Shield made of warm paper deflecting noise arrows from crowd.
+R|Stickman having honest laugh with one genuine lifelong friend.
+TL|Checking his own inner compass instead of asking passersby for direction.
+T|Sitting in garden sketching what actually brings peace without audience.
+R|Stickman smiling at simple home-cooked meal with relaxed posture.
+== S15 Act 5: Active Gratitude vs Settling (11:25 - 12:15)
+T|Stickman standing between two balance scales: 'Ambition' and 'Gratitude' in harmony.
+L|Looking back down hiking trail at base camp, honoring how far he has walked.
+R|Watering a small bonsai tree growing in sturdy ceramic pot.
+TR|Writing three genuine memories from the week in unadorned notebook.
+TL|Planting seeds in soil with patient smile, not digging them up to check roots.
+R|Stickman celebrating a modest personal milestone alone with cup of tea.
+L|Two hands working together: one holding a map, one holding a walking stick.
+T|Stickman looking at sunrise with grounded posture, neither frantic nor complacent.
+R|Warm rust-orange watercolor bloom spreading outward from stickman's chest.
+== S16 Act 5: The Anchor in the Everyday (12:15 - 13:00)
+L|Hands chopping fresh vegetables on wooden cutting board with focused presence.
+R|Walking through neighborhood park listening to birds in autumn trees.
+T|Laughing freely during simple phone call with family member.
+TR|Reading well-worn paperback novel in comfortable armchair by window.
+TL|Stickman stretching arms out wide on mountain crest under vast open sky.
+R|Looking into bathroom mirror and meeting own eyes with deep self-respect.
+L|Organizing workspace with deliberate care, enjoying the tactile process.
+T|Evening stroll under warm streetlights with hands casually in hoodie pockets.
+R|Stickman turning out nightstand lamp with peaceful, grounded countenance.
+== S17 Closing Thesis & Brand Resolve (13:00 - 13:27)
+L|Stickman looking at past milestones on a trail, smiling with quiet acceptance.
+R|Stickman walking forward with balanced posture, no heavy burden.
+T|Geometric diagram in code showing convergence of Meaning, Effort, and Presence.
+TR|Stickman standing in warm dawn light, mountain range in distance.
+L|Canonical Why We Become stickman standing center-frame looking directly forward.
+R|Canonical end card composition: warm paper background, obsidian graphic frame.
+TL|Stickman stepping through doorway into wide bright world of real presence.
+T|Soft rust watercolor wash framing the final resolution.
+R|Master subscribe end card framing, canonical brand silhouette.
