@@ -1,0 +1,16 @@
+baked L-S03-2 161f 16.5s 9.8fps contacts={"s0":0,"s1":0,"s2":0,"s3":0} settle=106
+baked L-S04-3 319f 28.6s 11.2fps contacts={"w0":0,"w1":null} settle=82
+baked L-S05-4 150f 13.5s 11.1fps
+baked L-S02-1 422f 35.1s 12.0fps
+baked L-S07-6 168f 12.1s 13.8fps contacts={"case":0} settle=14
+baked L-S06-5 211f 14.9s 14.2fps contacts={"phone":0} settle=56
+baked L-S08-7 122f 8.9s 13.8fps
+baked L-S10-9 74f 6.8s 10.9fps contacts={"b0":0,"b1":0,"b2":0,"b3":null} settle=null
+baked L-S12-1 96f 8.7s 11.0fps
+baked L-S09-8 174f 13.6s 12.8fps
+baked L-S13-2 98f 6.9s 14.1fps contacts={"phone":0} settle=41
+baked L-S14-3 257f 17.8s 14.5fps contacts={"env0":0} settle=211
+baked L-S16-5 173f 13.6s 12.7fps contacts={"w0":0,"w1":null} settle=142
+baked L-S15-4 223f 16.2s 13.8fps
+baked L-S17-6 170f 6.4s 26.8fps
+[perf] fx: rc=0 77.5s maxrss=477MB on AMD EPYC 9V74 80-Core Processor x4

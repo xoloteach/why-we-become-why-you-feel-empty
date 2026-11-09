@@ -1,0 +1,103 @@
+{
+ "seconds": 77.134,
+ "workers": 3,
+ "versions": {
+  "three": "0.186.1",
+  "rapier": "0.21.0",
+  "playwright": "1.64.1",
+  "node": "v24.22.2",
+  "chromium": "156.0.8078.4"
+ },
+ "jobs": [
+  {
+   "id": "L-S03-2",
+   "frames": 161,
+   "seconds": 16.51,
+   "fps": 9.75
+  },
+  {
+   "id": "L-S04-3",
+   "frames": 319,
+   "seconds": 28.59,
+   "fps": 11.16
+  },
+  {
+   "id": "L-S05-4",
+   "frames": 150,
+   "seconds": 13.5,
+   "fps": 11.11
+  },
+  {
+   "id": "L-S02-1",
+   "frames": 422,
+   "seconds": 35.14,
+   "fps": 12.01
+  },
+  {
+   "id": "L-S07-6",
+   "frames": 168,
+   "seconds": 12.14,
+   "fps": 13.84
+  },
+  {
+   "id": "L-S06-5",
+   "frames": 211,
+   "seconds": 14.88,
+   "fps": 14.18
+  },
+  {
+   "id": "L-S08-7",
+   "frames": 122,
+   "seconds": 8.86,
+   "fps": 13.77
+  },
+  {
+   "id": "L-S10-9",
+   "frames": 74,
+   "seconds": 6.76,
+   "fps": 10.95
+  },
+  {
+   "id": "L-S12-1",
+   "frames": 96,
+   "seconds": 8.71,
+   "fps": 11.02
+  },
+  {
+   "id": "L-S09-8",
+   "frames": 174,
+   "seconds": 13.61,
+   "fps": 12.78
+  },
+  {
+   "id": "L-S13-2",
+   "frames": 98,
+   "seconds": 6.94,
+   "fps": 14.13
+  },
+  {
+   "id": "L-S14-3",
+   "frames": 257,
+   "seconds": 17.78,
+   "fps": 14.46
+  },
+  {
+   "id": "L-S16-5",
+   "frames": 173,
+   "seconds": 13.63,
+   "fps": 12.69
+  },
+  {
+   "id": "L-S15-4",
+   "frames": 223,
+   "seconds": 16.2,
+   "fps": 13.76
+  },
+  {
+   "id": "L-S17-6",
+   "frames": 170,
+   "seconds": 6.35,
+   "fps": 26.77
+  }
+ ]
+}

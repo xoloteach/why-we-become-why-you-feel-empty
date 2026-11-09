@@ -1,0 +1,121 @@
+{
+ "schema": "wwb-fx-edges/1",
+ "pass": false,
+ "jobs": [
+  {
+   "id": "L-S02-1",
+   "frames": 422,
+   "edge_violations": []
+  },
+  {
+   "id": "L-S03-2",
+   "frames": 161,
+   "edge_violations": [
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91
+   ]
+  },
+  {
+   "id": "L-S04-3",
+   "frames": 319,
+   "edge_violations": []
+  },
+  {
+   "id": "L-S05-4",
+   "frames": 150,
+   "edge_violations": []
+  },
+  {
+   "id": "L-S06-5",
+   "frames": 211,
+   "edge_violations": []
+  },
+  {
+   "id": "L-S07-6",
+   "frames": 168,
+   "edge_violations": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "L-S08-7",
+   "frames": 122,
+   "edge_violations": []
+  },
+  {
+   "id": "L-S09-8",
+   "frames": 174,
+   "edge_violations": []
+  },
+  {
+   "id": "L-S10-9",
+   "frames": 74,
+   "edge_violations": []
+  },
+  {
+   "id": "L-S12-1",
+   "frames": 96,
+   "edge_violations": []
+  },
+  {
+   "id": "L-S13-2",
+   "frames": 98,
+   "edge_violations": []
+  },
+  {
+   "id": "L-S14-3",
+   "frames": 257,
+   "edge_violations": [
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203
+   ]
+  },
+  {
+   "id": "L-S15-4",
+   "frames": 223,
+   "edge_violations": []
+  },
+  {
+   "id": "L-S16-5",
+   "frames": 173,
+   "edge_violations": []
+  },
+  {
+   "id": "L-S17-6",
+   "frames": 170,
+   "edge_violations": []
+  }
+ ]
+}
