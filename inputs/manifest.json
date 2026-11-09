@@ -1,0 +1,483 @@
+{
+ "schema": "wwb-inputs/1",
+ "note": "User-supplied locked inputs: Google AI Studio narration (processed with the vocal chain below; never edited) and Google Flow images. Chunks are base85 on inputs-* branches.",
+ "files": [
+  {
+   "name": "narration_processed.flac",
+   "bytes": 40940705,
+   "sha256": "29bcdfc8be80f70c938ece3de4c4a393fc37d888f6b1b832c8594f9a39762d31",
+   "chunks": [
+    {
+     "name": "c000.b85",
+     "branch": "inputs-0",
+     "sha256": "d5bf106992b5273c69f511b8ce32e92dcc3d28ac355798e4943e4ca9339261df",
+     "bytes": 800000
+    },
+    {
+     "name": "c001.b85",
+     "branch": "inputs-1",
+     "sha256": "dd38d3da8a5b05ee0f4838235490857539516c3ba744ee6f94d91df93d7f8541",
+     "bytes": 800000
+    },
+    {
+     "name": "c002.b85",
+     "branch": "inputs-2",
+     "sha256": "ba7a676b8fb26a2024c2721acaebe2f4b8f68a1d54d62a84e5266fff58270d77",
+     "bytes": 800000
+    },
+    {
+     "name": "c003.b85",
+     "branch": "inputs-3",
+     "sha256": "8c1d491cb9f1c10f185ca7b20b2e8d0082a5d1802637493a918a1e36764f47ba",
+     "bytes": 800000
+    },
+    {
+     "name": "c004.b85",
+     "branch": "inputs-4",
+     "sha256": "655f5a5231385c6c1243a644d506aadf867c1b2f399dbe76d7c1b414df55902b",
+     "bytes": 800000
+    },
+    {
+     "name": "c005.b85",
+     "branch": "inputs-5",
+     "sha256": "377d28b58ab9cb95da60d4c5267c6a3914e2cc561b025b9a2b8aab78e73f9d43",
+     "bytes": 800000
+    },
+    {
+     "name": "c006.b85",
+     "branch": "inputs-6",
+     "sha256": "a18aea56d98d74b08654b515fc6cb1dbb461165f273ff4b18411477fc87c5fb8",
+     "bytes": 800000
+    },
+    {
+     "name": "c007.b85",
+     "branch": "inputs-7",
+     "sha256": "14428d116e8ca0ed2be79de3b9e4738f674183273bc1f630bbe7205357d9db9f",
+     "bytes": 800000
+    },
+    {
+     "name": "c008.b85",
+     "branch": "inputs-8",
+     "sha256": "7e500088cd7c89f8ad80f9fc7e7efa64db8060c5c0ea668d0f11558739a82a46",
+     "bytes": 800000
+    },
+    {
+     "name": "c009.b85",
+     "branch": "inputs-9",
+     "sha256": "b403498e1085c2d28a2bc3762c636cfc54197a635e4006ab8b54c4279164dd31",
+     "bytes": 800000
+    },
+    {
+     "name": "c010.b85",
+     "branch": "inputs-0",
+     "sha256": "98b865231011b579032a0be1947d27ed747ad797a77ca084574a65bb86b7dc43",
+     "bytes": 800000
+    },
+    {
+     "name": "c011.b85",
+     "branch": "inputs-1",
+     "sha256": "20ac4c647518efa44c2b030179900e36a8ea53c195727e24947b88c849971857",
+     "bytes": 800000
+    },
+    {
+     "name": "c012.b85",
+     "branch": "inputs-2",
+     "sha256": "e893d159bf526c0719d9dc6ca1503212d800202e186103874676dd97bd962614",
+     "bytes": 800000
+    },
+    {
+     "name": "c013.b85",
+     "branch": "inputs-3",
+     "sha256": "56a738e049ebd44174b0840cfe7873abaeb53b6d7bb587914a144ad2dc265307",
+     "bytes": 800000
+    },
+    {
+     "name": "c014.b85",
+     "branch": "inputs-4",
+     "sha256": "c09699a6f26f18ba6db54021d052a5ceef16ed79a8d023b0a390556516751740",
+     "bytes": 800000
+    },
+    {
+     "name": "c015.b85",
+     "branch": "inputs-5",
+     "sha256": "dc21109144c5f268ad439c366452f0f32dad385fe706b6d9463b0a8cc261132e",
+     "bytes": 800000
+    },
+    {
+     "name": "c016.b85",
+     "branch": "inputs-6",
+     "sha256": "9da98f1c4945ed0f3e6a186298df8fc05149430d97855d64e8c6fc00691cfe06",
+     "bytes": 800000
+    },
+    {
+     "name": "c017.b85",
+     "branch": "inputs-7",
+     "sha256": "43e51c1d6f252894a5508aca25e604ea2ef5f5022a287e2f76731915e72b85bf",
+     "bytes": 800000
+    },
+    {
+     "name": "c018.b85",
+     "branch": "inputs-8",
+     "sha256": "747bb99b9449e275e4438ffd37d8d3e441098107d7e4bab91164959589533bc9",
+     "bytes": 800000
+    },
+    {
+     "name": "c019.b85",
+     "branch": "inputs-9",
+     "sha256": "0ac368692d2badc6e0da5986c8e3f38bf1789a09da468ac8a96c617283c6c0ce",
+     "bytes": 800000
+    },
+    {
+     "name": "c020.b85",
+     "branch": "inputs-0",
+     "sha256": "1c389b51b4e95ca7830b09cdb3a370c4d937e0a58c1bd57f3644e79db1193119",
+     "bytes": 800000
+    },
+    {
+     "name": "c021.b85",
+     "branch": "inputs-1",
+     "sha256": "62e396a3df0e7d3d02b1c5963f57284abbb3c2708e5888d40c613b00d3309de2",
+     "bytes": 800000
+    },
+    {
+     "name": "c022.b85",
+     "branch": "inputs-2",
+     "sha256": "72d28956eac86f9e1abbf326ad48df7bcdff28f66843fcaf1247c1d87b5ca48e",
+     "bytes": 800000
+    },
+    {
+     "name": "c023.b85",
+     "branch": "inputs-3",
+     "sha256": "5a18f12d6ab2d446b5fac11c6f5030f90bece58d50927da069d505291dd66977",
+     "bytes": 800000
+    },
+    {
+     "name": "c024.b85",
+     "branch": "inputs-4",
+     "sha256": "b837c21f9ac05852bdeeeed32b8c6ebffac156ad54e4224b4a1596e81be1aa2c",
+     "bytes": 800000
+    },
+    {
+     "name": "c025.b85",
+     "branch": "inputs-5",
+     "sha256": "88c4fa948eeb5fa6b8207687253e6cf73c7b7606ada93c409369f5931629a1a5",
+     "bytes": 800000
+    },
+    {
+     "name": "c026.b85",
+     "branch": "inputs-6",
+     "sha256": "6782505e2f69eeb54c4e18c65dfac128a403e8db19030c1bdbaf7f3759d91c43",
+     "bytes": 800000
+    },
+    {
+     "name": "c027.b85",
+     "branch": "inputs-7",
+     "sha256": "cbb19d3841f8cc9db1fe33c0b3af8e0c9deb946f9990ce5118f567398d63653c",
+     "bytes": 800000
+    },
+    {
+     "name": "c028.b85",
+     "branch": "inputs-8",
+     "sha256": "a5563890146f78b359fbbab4d98ce91360e6db137b40b2f20f8e64425f421f64",
+     "bytes": 800000
+    },
+    {
+     "name": "c029.b85",
+     "branch": "inputs-9",
+     "sha256": "29ba95ca3376a524184d662a3426c4748d87e812624ad0b58689249487437b5e",
+     "bytes": 800000
+    },
+    {
+     "name": "c030.b85",
+     "branch": "inputs-0",
+     "sha256": "24bb94b097e25939c305c668a03a21803990966f680393b315f4dd4c75ebf9a4",
+     "bytes": 800000
+    },
+    {
+     "name": "c031.b85",
+     "branch": "inputs-1",
+     "sha256": "985861ca811b6fb31a1eeae41d50f1233631e4094c8cd03c03d71e397da1bc75",
+     "bytes": 800000
+    },
+    {
+     "name": "c032.b85",
+     "branch": "inputs-2",
+     "sha256": "5aa545ca1386a59b41ab3842aee2f9b609e5ddfd951d66da57bbb80bf921d757",
+     "bytes": 800000
+    },
+    {
+     "name": "c033.b85",
+     "branch": "inputs-3",
+     "sha256": "4b6488ee065f6250875623d0210740065da17f5934baa8244aa33af58b24856d",
+     "bytes": 800000
+    },
+    {
+     "name": "c034.b85",
+     "branch": "inputs-4",
+     "sha256": "60d6d33151d7088de563d468605eb99e3bcbe4b6a540858aea655987e482f454",
+     "bytes": 800000
+    },
+    {
+     "name": "c035.b85",
+     "branch": "inputs-5",
+     "sha256": "aa95336e24c144efe011bf51f19611e68f16855fc62ae3f31fbabfdc9b722edc",
+     "bytes": 800000
+    },
+    {
+     "name": "c036.b85",
+     "branch": "inputs-6",
+     "sha256": "0e274bd91d305019371f7354908e5df277d533ccc2a6ccb4607b804d9701db19",
+     "bytes": 800000
+    },
+    {
+     "name": "c037.b85",
+     "branch": "inputs-7",
+     "sha256": "032fa3389d93efd472a341052ddf796424ec089289dc3f02db20b75861aa6cc4",
+     "bytes": 800000
+    },
+    {
+     "name": "c038.b85",
+     "branch": "inputs-8",
+     "sha256": "3fe645e1d9076b42412b79571ff5f0f6b207ce44af59a6e9790f8fd87ee0d658",
+     "bytes": 800000
+    },
+    {
+     "name": "c039.b85",
+     "branch": "inputs-9",
+     "sha256": "a3b8d3d78522123aded3c89f430c0f99cbf92070495e3421c97c5a30c1a18c7d",
+     "bytes": 800000
+    },
+    {
+     "name": "c040.b85",
+     "branch": "inputs-0",
+     "sha256": "4d1077a0b3f247c7d06220b4ff3e91fb5ae53c7432d0604d0620d68ce2f4ac79",
+     "bytes": 800000
+    },
+    {
+     "name": "c041.b85",
+     "branch": "inputs-1",
+     "sha256": "e9c564aa513e5f7dca40277c696a692ce6613d6832f535bea4a91b4f7f962ba5",
+     "bytes": 800000
+    },
+    {
+     "name": "c042.b85",
+     "branch": "inputs-2",
+     "sha256": "90ba1a75774c6f58cb376672edf7c5c5fa4f55114c220b934387ed7a130fd21f",
+     "bytes": 800000
+    },
+    {
+     "name": "c043.b85",
+     "branch": "inputs-3",
+     "sha256": "e3473be22570b15d191798c1085df369320eafb0645444c8c0f61a69d6d022ae",
+     "bytes": 800000
+    },
+    {
+     "name": "c044.b85",
+     "branch": "inputs-4",
+     "sha256": "2ef5c4b7e0158e1b85beb4a903e4ac0992abde4c0f9b0058e25d30037d6a6988",
+     "bytes": 800000
+    },
+    {
+     "name": "c045.b85",
+     "branch": "inputs-5",
+     "sha256": "2f2b702cf36adccb54e369caa9aec7647a524cd9db3686688f85ecd185211dd4",
+     "bytes": 800000
+    },
+    {
+     "name": "c046.b85",
+     "branch": "inputs-6",
+     "sha256": "064b7dd55f4fb052a0256d492371a7ae34e08ad199f787d03f8ffb0b8a92a94a",
+     "bytes": 800000
+    },
+    {
+     "name": "c047.b85",
+     "branch": "inputs-7",
+     "sha256": "7c8859c1d100c37c58887020dc76217b1b9270778ac9529142a69c2f8b7637a3",
+     "bytes": 800000
+    },
+    {
+     "name": "c048.b85",
+     "branch": "inputs-8",
+     "sha256": "f979e6f701ccd425f02f85e07531e78be07732cfa877c67fd352287cfa64a7fc",
+     "bytes": 800000
+    },
+    {
+     "name": "c049.b85",
+     "branch": "inputs-9",
+     "sha256": "c2ad6f6fd01e90356fc904fea063268faf0eea2497eaf8ef67685af9305f4155",
+     "bytes": 800000
+    },
+    {
+     "name": "c050.b85",
+     "branch": "inputs-0",
+     "sha256": "581e1d2aca71ae1c4e67b2dcfc74008a255e2f19151b201ce1d27b4df23cc391",
+     "bytes": 800000
+    },
+    {
+     "name": "c051.b85",
+     "branch": "inputs-1",
+     "sha256": "0db21b83dc2606fd032c61989433620682253c80c31ee44c2f601dbfe46803ce",
+     "bytes": 140705
+    }
+   ]
+  },
+  {
+   "name": "flow_images.zip",
+   "bytes": 13560886,
+   "sha256": "b6279c9729c85969d297977e146c04d7c1a359acdf7ac08049906c09a52c6682",
+   "chunks": [
+    {
+     "name": "c052.b85",
+     "branch": "inputs-2",
+     "sha256": "eb7cdf5ca6a64b641e25b2f075424609e37278c075678c8038a16e7eeb82331e",
+     "bytes": 800000
+    },
+    {
+     "name": "c053.b85",
+     "branch": "inputs-3",
+     "sha256": "9b85456f262a60b4e028a2763e4aa961e84d8b51a221e2d061cea75a527a9af7",
+     "bytes": 800000
+    },
+    {
+     "name": "c054.b85",
+     "branch": "inputs-4",
+     "sha256": "665b30b87a179ed19433a2ce9d3921a0829b0ba3ded5a7c7cd3b1f789eaa5d74",
+     "bytes": 800000
+    },
+    {
+     "name": "c055.b85",
+     "branch": "inputs-5",
+     "sha256": "45afa8376316008a0b314adfb6edb608f7f05a908b422bd5390f7ebfe3f32df5",
+     "bytes": 800000
+    },
+    {
+     "name": "c056.b85",
+     "branch": "inputs-6",
+     "sha256": "70583765e23d680e59c88e4294a73838bb09878120afd695da58e1f060f092d5",
+     "bytes": 800000
+    },
+    {
+     "name": "c057.b85",
+     "branch": "inputs-7",
+     "sha256": "7e5f4246adc197bba719c55bc5a97c1a53d9d74630c0bad5f3c55886f0ec4b87",
+     "bytes": 800000
+    },
+    {
+     "name": "c058.b85",
+     "branch": "inputs-8",
+     "sha256": "ffe95889a7484e461e8390b684cbac409610483ef405be9426d8c80506defcd1",
+     "bytes": 800000
+    },
+    {
+     "name": "c059.b85",
+     "branch": "inputs-9",
+     "sha256": "df3a3e3a0e1cedc9c00730ed1a9d3e6b607d9799f633fc0dc5f41cb1cf04dd9a",
+     "bytes": 800000
+    },
+    {
+     "name": "c060.b85",
+     "branch": "inputs-0",
+     "sha256": "a5431ceb547cc9bdadce1456df49bd03cccc02c6cc3a6846a6d39127c8cdc601",
+     "bytes": 800000
+    },
+    {
+     "name": "c061.b85",
+     "branch": "inputs-1",
+     "sha256": "0d047b84418050c76262344e8ac9a4b95c7ee5b85e2cc8dcb98c5f100582478c",
+     "bytes": 800000
+    },
+    {
+     "name": "c062.b85",
+     "branch": "inputs-2",
+     "sha256": "af41af30cdef5d23ce8614d1088d010e646f8af9633a397bd70b07d4be1e2524",
+     "bytes": 800000
+    },
+    {
+     "name": "c063.b85",
+     "branch": "inputs-3",
+     "sha256": "67fa2b2ec3ab451905103d25abde699c254e342d3beedb9e5efad0d6b0e5e4be",
+     "bytes": 800000
+    },
+    {
+     "name": "c064.b85",
+     "branch": "inputs-4",
+     "sha256": "e1bb50829d6a1f8abcaed1966acef3888f816909f517249d42b4c0265815e7b8",
+     "bytes": 800000
+    },
+    {
+     "name": "c065.b85",
+     "branch": "inputs-5",
+     "sha256": "554e3691667c1c9b77ff3189860731b44b75037dfc2a01a8f98433264fdbbd64",
+     "bytes": 800000
+    },
+    {
+     "name": "c066.b85",
+     "branch": "inputs-6",
+     "sha256": "d2d531d81b234adeb09de567eec09741eff0db1f997761ff2e686b4ed95a8bc9",
+     "bytes": 800000
+    },
+    {
+     "name": "c067.b85",
+     "branch": "inputs-7",
+     "sha256": "b54ca9f6ef7e00f84c1072baf527784cfbecaa8d1480cbe3985e491f2ea40c3f",
+     "bytes": 800000
+    },
+    {
+     "name": "c068.b85",
+     "branch": "inputs-8",
+     "sha256": "b3fc19e2fa657c3f630235f319d6de5440a827dc261cc59f59424ffdd4bd2b0d",
+     "bytes": 760886
+    }
+   ]
+  }
+ ],
+ "flow_sha256": {
+  "Character_actions_in_grid_layout_6f48e475_2K.jpg": "c7d1f0bc57d7c46ca0d8d04b3c3ffc5c9c58c9894bace9499b5796dc4a2fed64",
+  "Character_contact_sheet_grid_adac6e46_2K.jpg": "3289e673862bcae346387e95ec38849568d137ee56e7d5954b34c4dc03a308d6",
+  "Character_contact_sheet_in_grid_23ae6350_2K.jpg": "b7304bad20cf0a9c5576e1c8bbdb8942ebde138525d6fcdb5990e81e58ab7c37",
+  "Character_daily_life_contact_sheet_8d6c4bf2_2K.jpg": "c4d81029dbaa7bbb12c582a27d94080347439d176c542bf5fe1370a3095231e8",
+  "Stickman_character_contact_sheet\u2026_10a6daf2_2K.jpg": "9a1480f8b714fddc19ae31687dda632de322bce40687ba42885030acc248fb76",
+  "Stickman_character_contact_sheet\u2026_347bb0f6_2K.jpg": "aa87645544021177ea3b74be01624e82acb5c4231082573132faabb1a15ca652",
+  "Stickman_character_contact_sheet\u2026_4bb6bddb_2K.jpg": "3cf80db1254e04c52964d3bc5b96a090bee4925551327b8f2c7cbf88668fe91a",
+  "Stickman_character_contact_sheet\u2026_9bc57afd_2K.jpg": "b4aa960f11bfd4f4f5a32a40169a539417a578494c15136e0651ea9a0a8ee9c3",
+  "Stickman_character_contact_sheet\u2026_e7744faa_2K.jpg": "122f1777749bd76ba81e3fa299c3a69e2fd2b51e4e35a07e9f81f79c7b35b43d",
+  "Stickman_character_grid_contact_\u2026_10131d66_2K.jpg": "3e1cd5bfa070decbeb7d4ea37bf9e323d6c4610d887888bc187119df2d6b4123",
+  "Stickman_character_grid_contact_\u2026_23f578d8_2K.jpg": "2bcbb1e945fbb7e8063d6e5c8b7c22ede4e06b5c1bb1eda13913f9401f51915f",
+  "Stickman_character_life_panels_grid_c9cf5f6d_2K.jpg": "630cc20c8827496f07f932ea47b9cfbe03fd31cc57d96a52a05a11997e48d545",
+  "Stickman_contact_sheet_design_8d90969a_2K.jpg": "16532ee47db0c742cf9ccafef149e4192556999a49073da72c3452fb1566d8fc",
+  "Stickman_contact_sheet_grid_b9c2261f_2K.jpg": "589cde75367ca5ffb9db81b7320d13278c489a07e3b136a6b6d2007264a2a3cf",
+  "Stickman_contact_sheet_grid_bc6196b4_2K.jpg": "90e3961d242f52c8bcc407173919871506731ead4750fb62ccb7d2968dab080b",
+  "Stickman_contact_sheet_grid_bce8450a_2K.jpg": "221f87aa6674f2f03ce0ad127abf9f9fd31c529407e66caa92837c3045d700d2",
+  "Stickman_contact_sheet_grid_layout_7236d8b9_2K.jpg": "87c40563664037f3daa0ee3e6f79af00d71aac84cd38793b6344cfdfd2b9ec71",
+  "Stickman_contact_sheet_layout_f40963cb_2K.jpg": "c632409e7f07176c1ffa3aaf5c24f2537ab598f15f087818b22ed520210e9648",
+  "Stickman_contact_sheet_series_9e38fe27_2K.jpg": "980dd2ed38f548e314dd80dd120c1d9ae9667a1ef51bb2caf8149807d7401191",
+  "Stickman_discovering_void_in_floor_9d3eb64d_2K.jpg": "e900bb5df7683bfbe7bc8bee79602719a8e3694935d5640fed88f3bec6490675",
+  "Stickman_figures_contact_sheet_i\u2026_503803ae_2K.jpg": "b842701991cd8e71ac6f4ba0e1ac420ab3eba5a39cc93840c8007d7d08c0b252",
+  "Stickman_grid_contact_sheet_actions_8b193ba1_2K.jpg": "1a9d7edca79858b17d5c8b246563626f0494eef2701a108af41da5eded711087",
+  "Stickman_grid_contact_sheet_eb5e08e9_2K.jpg": "c604dbcd9b863eb0b2db9966ea22194051fefbec4e8b888d8bdaa6e736936aba",
+  "Stickman_grid_contact_sheet_panels_46e2ecd2_2K.jpg": "6bffce06ccd0d2354896647afe2eface6d924365e8a58f61d217e874e59a5598",
+  "Stickman_holding_car_key_9cfdaf55_2K.jpg": "c710f4df864c7831d464a2a1ab6f7ae29a35415d3d15dba6488a0a0cd84b209f",
+  "Stickman_looking_at_glowing_phone_08186c3c_2K.jpg": "cfa1f12842d3fae5da8f6cf845a00ba05e482a7146bf5431a927f092a385e9c2",
+  "Stickman_looking_at_glowing_phone_3701b667_2K.jpg": "62925efc2dce36d27662b18ddebbdf5515358e94ba9979cf06db28d3caebcb12",
+  "Stickman_portrait_contact_sheet_\u2026_03f42d70_2K.jpg": "e54feb1d64b22dd578aa249e223df5397254a72122d2fc4581e44d880aecf0a1",
+  "Stickman_portrait_contact_sheet_\u2026_120fc7fa_2K.jpg": "8d8536e3bbd06e5a0941561a204ec0eb153db0fd9cd411dd45f9b570ede686e3",
+  "Stickman_portrait_contact_sheet_\u2026_ee62ba1c_2K.jpg": "8cf29d184f7abfe0535b2844159c3bc02d6ef649e2a3b0533bdf8adeffc85cc8",
+  "Stickman_pouring_water_through_cup_f2b68a47_2K.jpg": "61679389b194a88a2b37d62c11ab392901851af3f76b67c11dd06ae70527c058",
+  "Stickman_scrolling_phone_in_bed_19bf8523_2K.jpg": "fd7a71dc1a09b6a38f6c39bece5bfc913e437dbae29d4ebf643d2069bf6d9868",
+  "Stickman_scrolling_phone_in_bed_34f95fec_2K.jpg": "5243490a98458678f343a25caddaff4e4e14c4001c86aa779208ebbb20b84a51",
+  "Stickman_sprinting_towards_finis\u2026_e4966f14_2K.jpg": "a46ad8cdd26a474f9908e9ab5a72b6556d0e418b59ea7830db02da82c2a67f09",
+  "Stickman_watching_hourglass_empty_6e1d2ca4_2K.jpg": "97a189654ae42fd0b8b7e84092b42bd4d770f8c65c0507a770581666fc8f8a56"
+ },
+ "narration_pcm_s16le_sha256": "962bcb9690135587e660c6a223864897cad1323ea64e083a3feabd515b597805",
+ "narration_raw_wav_sha256": "9ee7a286b206e3d238087c3f2d4346b292bf405f4a84bbeb051874268f05b502",
+ "narration_processed_wav_sha256": "cdcbc2cb0cf3bc15dddad5d1db6c2a8f6f1d5f97f3a4316846d16980936bb606",
+ "processing_chain": [
+  "highpass=f=80",
+  "equalizer=f=220:width_type=o:width=1.2:g=2.5",
+  "equalizer=f=3500:width_type=o:width=1.5:g=-2.2",
+  "equalizer=f=10000:width_type=o:width=1.0:g=1.8",
+  "acompressor=threshold=0.12:ratio=3.2:attack=15:release=220",
+  "silenceremove=stop_periods=-1:stop_duration=0.4:stop_threshold=-45dB",
+  "loudnorm=I=-16:LRA=11:TP=-1.0"
+ ]
+}
