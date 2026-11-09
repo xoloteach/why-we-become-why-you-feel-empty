@@ -1,0 +1,5082 @@
+{
+ "schema": "wwb-plan/1",
+ "align_engine": "faster-whisper-small.en (provisional)",
+ "vo_end": 870.26,
+ "end_card": 5.0,
+ "total": 875.26,
+ "fps": 30,
+ "chapters": [
+  {
+   "n": 1,
+   "name": "The Quiet Void",
+   "start": 0.0
+  },
+  {
+   "n": 2,
+   "name": "The Endless Search",
+   "start": 93.07
+  },
+  {
+   "n": 3,
+   "name": "The Memory of Wanting",
+   "start": 165.965
+  },
+  {
+   "n": 4,
+   "name": "Hedonic Adaptation",
+   "start": 237.965
+  },
+  {
+   "n": 5,
+   "name": "The Baseline Reset",
+   "start": 326.555
+  },
+  {
+   "n": 6,
+   "name": "The Glass Screen",
+   "start": 404.205
+  },
+  {
+   "n": 7,
+   "name": "The Contrast Trap",
+   "start": 484.735
+  },
+  {
+   "n": 8,
+   "name": "The Arrival Fallacy",
+   "start": 586.48
+  },
+  {
+   "n": 9,
+   "name": "The Hollow Trophy",
+   "start": 685.975
+  },
+  {
+   "n": 10,
+   "name": "Chasing Feelings, Not Objects",
+   "start": 762.365
+  },
+  {
+   "n": 11,
+   "name": "Reclaiming Presence",
+   "start": 840.52
+  }
+ ],
+ "scenes": [
+  {
+   "key": "S01-1",
+   "anchor": "0",
+   "kind": "question",
+   "title": "The Quiet Void",
+   "labels": [
+    {
+     "text": "Have",
+     "cue_word": "have",
+     "keep": false,
+     "t": 0.02
+    },
+    {
+     "text": "Wrong",
+     "cue_word": "wrong",
+     "keep": false,
+     "t": 3.38
+    }
+   ],
+   "chapter_start": true,
+   "anchor_t": 0.08,
+   "start": 0.0,
+   "end": 7.98,
+   "chapter": 1,
+   "dark": false,
+   "layout": "right",
+   "art": "S01-1",
+   "i": 0
+  },
+  {
+   "key": "S01-2",
+   "anchor": "1",
+   "kind": "quote",
+   "title": "Have Place Sleep Food",
+   "labels": [
+    {
+     "text": "Have",
+     "cue_word": "have",
+     "keep": false,
+     "t": 8.26
+    },
+    {
+     "text": "Wanted",
+     "cue_word": "wanted",
+     "keep": false,
+     "t": 16.485
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 8.08,
+   "start": 7.98,
+   "end": 17.725,
+   "chapter": 1,
+   "dark": false,
+   "layout": "left",
+   "art": "S01-2",
+   "i": 1
+  },
+  {
+   "key": "S01-3",
+   "anchor": "2",
+   "kind": "big",
+   "title": "When Gets Quiet Feel",
+   "labels": [
+    {
+     "text": "When",
+     "cue_word": "when",
+     "keep": false,
+     "t": 18.645
+    },
+    {
+     "text": "Empty",
+     "cue_word": "empty",
+     "keep": false,
+     "t": 22.645
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 17.825,
+   "start": 17.725,
+   "end": 23.965,
+   "chapter": 1,
+   "dark": false,
+   "layout": "feature",
+   "art": "S01-3",
+   "i": 2
+  },
+  {
+   "key": "S01-4",
+   "anchor": "3",
+   "kind": "vs",
+   "title": "It'S Exactly Sadness",
+   "labels": [
+    {
+     "text": "It'S",
+     "cue_word": "it's",
+     "keep": false,
+     "t": 24.005
+    },
+    {
+     "text": "Sadness",
+     "cue_word": "sadness",
+     "keep": false,
+     "t": 25.045
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 24.065,
+   "start": 23.965,
+   "end": 26.045,
+   "chapter": 1,
+   "dark": false,
+   "layout": "right",
+   "art": "S01-4",
+   "i": 3
+  },
+  {
+   "key": "S01-5",
+   "anchor": "4",
+   "kind": "chips",
+   "title": "You'Re Necessarily Unhappy With",
+   "labels": [
+    {
+     "text": "You'Re",
+     "cue_word": "you're",
+     "keep": false,
+     "t": 26.085
+    },
+    {
+     "text": "Life",
+     "cue_word": "life",
+     "keep": false,
+     "t": 28.405
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 26.145,
+   "start": 26.045,
+   "end": 32.95,
+   "chapter": 1,
+   "dark": true,
+   "layout": "left",
+   "art": "S01-5",
+   "i": 4
+  },
+  {
+   "key": "S01-6",
+   "anchor": "6",
+   "kind": "arrow",
+   "title": "Tell Yourself Need Something",
+   "labels": [
+    {
+     "text": "Tell",
+     "cue_word": "tell",
+     "keep": false,
+     "t": 33.31
+    },
+    {
+     "text": "Goal",
+     "cue_word": "goal",
+     "keep": false,
+     "t": 41.07
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 33.05,
+   "start": 32.95,
+   "end": 42.085,
+   "chapter": 1,
+   "dark": false,
+   "layout": "left",
+   "art": "S01-6",
+   "i": 5
+  },
+  {
+   "key": "S01-7",
+   "anchor": "7",
+   "kind": "list",
+   "title": "While Thought Getting Those",
+   "labels": [
+    {
+     "text": "While",
+     "cue_word": "while",
+     "keep": false,
+     "t": 42.765
+    },
+    {
+     "text": "Energy",
+     "cue_word": "energy",
+     "keep": false,
+     "t": 44.925
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 42.185,
+   "start": 42.085,
+   "end": 46.085,
+   "chapter": 1,
+   "dark": false,
+   "layout": "right",
+   "art": "S01-7",
+   "i": 6
+  },
+  {
+   "key": "S01-8",
+   "anchor": "8",
+   "kind": "stat",
+   "title": "Here'S Uncomfortable Question",
+   "labels": [
+    {
+     "text": "Here'S",
+     "cue_word": "here's",
+     "keep": false,
+     "t": 46.285
+    },
+    {
+     "text": "Question",
+     "cue_word": "question",
+     "keep": false,
+     "t": 47.645
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 46.185,
+   "start": 46.085,
+   "end": 48.965,
+   "chapter": 1,
+   "dark": false,
+   "layout": "left",
+   "art": "S01-8",
+   "i": 7
+  },
+  {
+   "key": "S01-9",
+   "anchor": "9",
+   "kind": "scale",
+   "title": "What Thing Making Feel",
+   "labels": [
+    {
+     "text": "What",
+     "cue_word": "what",
+     "keep": false,
+     "t": 49.005
+    },
+    {
+     "text": "Have",
+     "cue_word": "have",
+     "keep": false,
+     "t": 52.765
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 49.065,
+   "start": 48.965,
+   "end": 53.685,
+   "chapter": 1,
+   "dark": false,
+   "layout": "right",
+   "art": "S01-9",
+   "i": 8
+  },
+  {
+   "key": "S02-1",
+   "anchor": "10",
+   "kind": "fx",
+   "title": "What It'S You'Ve Learned",
+   "labels": [
+    {
+     "text": "What",
+     "cue_word": "what",
+     "keep": false,
+     "t": 53.725
+    },
+    {
+     "text": "Have",
+     "cue_word": "have",
+     "keep": false,
+     "t": 57.325
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 53.785,
+   "start": 53.685,
+   "end": 67.42,
+   "chapter": 1,
+   "dark": false,
+   "layout": "left",
+   "art": "S02-1",
+   "i": 9,
+   "fx": "L-S02-1"
+  },
+  {
+   "key": "S02-2",
+   "anchor": "12",
+   "kind": "question",
+   "title": "Let'S Look That Happens",
+   "labels": [
+    {
+     "text": "Let'S",
+     "cue_word": "let's",
+     "keep": false,
+     "t": 67.46
+    },
+    {
+     "text": "Happens",
+     "cue_word": "happens",
+     "keep": false,
+     "t": 68.42
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 67.52,
+   "start": 67.42,
+   "end": 69.42,
+   "chapter": 1,
+   "dark": false,
+   "layout": "right",
+   "art": "S02-2",
+   "i": 10
+  },
+  {
+   "key": "S02-3",
+   "anchor": "13",
+   "kind": "quote",
+   "title": "Think About Last Time",
+   "labels": [
+    {
+     "text": "Think",
+     "cue_word": "think",
+     "keep": false,
+     "t": 69.46
+    },
+    {
+     "text": "Something",
+     "cue_word": "something",
+     "keep": false,
+     "t": 71.78
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 69.52,
+   "start": 69.42,
+   "end": 72.595,
+   "chapter": 1,
+   "dark": false,
+   "layout": "feature",
+   "art": "S02-3",
+   "i": 11
+  },
+  {
+   "key": "S02-4",
+   "anchor": "14",
+   "kind": "big",
+   "title": "Maybe Your First Decent",
+   "labels": [
+    {
+     "text": "Maybe",
+     "cue_word": "maybe",
+     "keep": false,
+     "t": 72.635
+    },
+    {
+     "text": "Decisions",
+     "cue_word": "decisions",
+     "keep": false,
+     "t": 80.155
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 72.695,
+   "start": 72.595,
+   "end": 81.475,
+   "chapter": 1,
+   "dark": false,
+   "layout": "left",
+   "art": "S02-4",
+   "i": 12
+  },
+  {
+   "key": "S02-5",
+   "anchor": "15",
+   "kind": "vs",
+   "title": "Probably Imagined Different Life",
+   "labels": [
+    {
+     "text": "Probably",
+     "cue_word": "probably",
+     "keep": false,
+     "t": 81.755
+    },
+    {
+     "text": "Once",
+     "cue_word": "once",
+     "keep": false,
+     "t": 84.155
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 81.575,
+   "start": 81.475,
+   "end": 85.55,
+   "chapter": 1,
+   "dark": false,
+   "layout": "right",
+   "art": "S02-5",
+   "i": 13
+  },
+  {
+   "key": "S02-6",
+   "anchor": "16",
+   "kind": "chips",
+   "title": "Thought You'D Feel More",
+   "labels": [
+    {
+     "text": "Thought",
+     "cue_word": "thought",
+     "keep": false,
+     "t": 85.91
+    },
+    {
+     "text": "Successful",
+     "cue_word": "successful",
+     "keep": false,
+     "t": 89.03
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 85.65,
+   "start": 85.55,
+   "end": 93.07,
+   "chapter": 1,
+   "dark": false,
+   "layout": "left",
+   "art": "S02-6",
+   "i": 14
+  },
+  {
+   "key": "S02-7",
+   "anchor": "18",
+   "kind": "arrow",
+   "title": "The Endless Search",
+   "labels": [
+    {
+     "text": "Little",
+     "cue_word": "little",
+     "keep": false,
+     "t": 93.51
+    },
+    {
+     "text": "Amazing",
+     "cue_word": "amazing",
+     "keep": false,
+     "t": 94.63
+    }
+   ],
+   "chapter_start": true,
+   "anchor_t": 93.17,
+   "start": 93.07,
+   "end": 95.55,
+   "chapter": 2,
+   "dark": false,
+   "layout": "right",
+   "art": "S02-7",
+   "i": 15
+  },
+  {
+   "key": "S02-8",
+   "anchor": "19",
+   "kind": "list",
+   "title": "Noticed Every Detail",
+   "labels": [
+    {
+     "text": "Noticed",
+     "cue_word": "noticed",
+     "keep": false,
+     "t": 95.83
+    },
+    {
+     "text": "Detail",
+     "cue_word": "detail",
+     "keep": false,
+     "t": 96.79
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 95.65,
+   "start": 95.55,
+   "end": 97.325,
+   "chapter": 2,
+   "dark": false,
+   "layout": "left",
+   "art": "S02-8",
+   "i": 16
+  },
+  {
+   "key": "S02-9",
+   "anchor": "20",
+   "kind": "stat",
+   "title": "Appreciated What",
+   "labels": [
+    {
+     "text": "Appreciated",
+     "cue_word": "appreciated",
+     "keep": false,
+     "t": 97.685
+    },
+    {
+     "text": "What",
+     "cue_word": "what",
+     "keep": false,
+     "t": 98.245
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 97.425,
+   "start": 97.325,
+   "end": 99.405,
+   "chapter": 2,
+   "dark": false,
+   "layout": "feature",
+   "art": "S02-9",
+   "i": 17
+  },
+  {
+   "key": "S03-1",
+   "anchor": "21",
+   "kind": "scale",
+   "title": "Probably Even Thought This",
+   "labels": [
+    {
+     "text": "Probably",
+     "cue_word": "probably",
+     "keep": false,
+     "t": 99.685
+    },
+    {
+     "text": "Wanted",
+     "cue_word": "wanted",
+     "keep": false,
+     "t": 102.565
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 99.505,
+   "start": 99.405,
+   "end": 103.885,
+   "chapter": 2,
+   "dark": false,
+   "layout": "right",
+   "art": "S03-1",
+   "i": 18
+  },
+  {
+   "key": "S03-2",
+   "anchor": "22",
+   "kind": "fx",
+   "title": "Gradually Something Changed",
+   "labels": [
+    {
+     "text": "Gradually",
+     "cue_word": "gradually",
+     "keep": false,
+     "t": 104.165
+    },
+    {
+     "text": "Changed",
+     "cue_word": "changed",
+     "keep": false,
+     "t": 105.445
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 103.985,
+   "start": 103.885,
+   "end": 108.925,
+   "chapter": 2,
+   "dark": true,
+   "layout": "left",
+   "art": "S03-2",
+   "i": 19,
+   "fx": "L-S03-2"
+  },
+  {
+   "key": "S03-3",
+   "anchor": "24",
+   "kind": "question",
+   "title": "Your Paycheck Became Normal",
+   "labels": [
+    {
+     "text": "Your",
+     "cue_word": "your",
+     "keep": false,
+     "t": 108.965
+    },
+    {
+     "text": "Normal",
+     "cue_word": "normal",
+     "keep": false,
+     "t": 110.005
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 109.025,
+   "start": 108.925,
+   "end": 110.59,
+   "chapter": 2,
+   "dark": false,
+   "layout": "feature",
+   "art": "S03-3",
+   "i": 20
+  },
+  {
+   "key": "S03-4",
+   "anchor": "25",
+   "kind": "quote",
+   "title": "Your Apartment Became Just",
+   "labels": [
+    {
+     "text": "Your",
+     "cue_word": "your",
+     "keep": false,
+     "t": 110.63
+    },
+    {
+     "text": "Lived",
+     "cue_word": "lived",
+     "keep": false,
+     "t": 113.19
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 110.69,
+   "start": 110.59,
+   "end": 114.19,
+   "chapter": 2,
+   "dark": false,
+   "layout": "left",
+   "art": "S03-4",
+   "i": 21
+  },
+  {
+   "key": "S03-5",
+   "anchor": "26",
+   "kind": "big",
+   "title": "Phone Couldn'T Wait Became",
+   "labels": [
+    {
+     "text": "Phone",
+     "cue_word": "phone",
+     "keep": false,
+     "t": 114.39
+    },
+    {
+     "text": "Thing",
+     "cue_word": "thing",
+     "keep": false,
+     "t": 120.79
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 114.29,
+   "start": 114.19,
+   "end": 121.63,
+   "chapter": 2,
+   "dark": false,
+   "layout": "right",
+   "art": "S03-5",
+   "i": 22
+  },
+  {
+   "key": "S03-6",
+   "anchor": "27",
+   "kind": "vs",
+   "title": "This Closely Related Something",
+   "labels": [
+    {
+     "text": "This",
+     "cue_word": "this",
+     "keep": false,
+     "t": 121.67
+    },
+    {
+     "text": "Adaptation",
+     "cue_word": "adaptation",
+     "keep": false,
+     "t": 125.685
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 121.73,
+   "start": 121.63,
+   "end": 127.165,
+   "chapter": 2,
+   "dark": false,
+   "layout": "left",
+   "art": "S03-6",
+   "i": 23
+  },
+  {
+   "key": "S03-7",
+   "anchor": "28",
+   "kind": "chips",
+   "title": "It'S Tendency Gradually Return",
+   "labels": [
+    {
+     "text": "It'S",
+     "cue_word": "it's",
+     "keep": false,
+     "t": 127.205
+    },
+    {
+     "text": "Lives",
+     "cue_word": "lives",
+     "keep": false,
+     "t": 133.525
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 127.265,
+   "start": 127.165,
+   "end": 140.07,
+   "chapter": 2,
+   "dark": false,
+   "layout": "right",
+   "art": "S03-7",
+   "i": 24
+  },
+  {
+   "key": "S03-8",
+   "anchor": "30",
+   "kind": "arrow",
+   "title": "This Isn'T Necessarily Personal",
+   "labels": [
+    {
+     "text": "This",
+     "cue_word": "this",
+     "keep": false,
+     "t": 140.43
+    },
+    {
+     "text": "Failure",
+     "cue_word": "failure",
+     "keep": false,
+     "t": 142.35
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 140.17,
+   "start": 140.07,
+   "end": 143.43,
+   "chapter": 2,
+   "dark": false,
+   "layout": "left",
+   "art": "S03-8",
+   "i": 25
+  },
+  {
+   "key": "S03-9",
+   "anchor": "31",
+   "kind": "list",
+   "title": "Your Brain Designed Adapt",
+   "labels": [
+    {
+     "text": "Your",
+     "cue_word": "your",
+     "keep": false,
+     "t": 143.47
+    },
+    {
+     "text": "Adapt",
+     "cue_word": "adapt",
+     "keep": false,
+     "t": 145.55
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 143.53,
+   "start": 143.43,
+   "end": 146.63,
+   "chapter": 2,
+   "dark": false,
+   "layout": "right",
+   "art": "S03-9",
+   "i": 26
+  },
+  {
+   "key": "S04-1",
+   "anchor": "32",
+   "kind": "stat",
+   "title": "Familiar Things Require Less",
+   "labels": [
+    {
+     "text": "Familiar",
+     "cue_word": "familiar",
+     "keep": false,
+     "t": 146.67
+    },
+    {
+     "text": "Ones",
+     "cue_word": "ones",
+     "keep": false,
+     "t": 149.47
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 146.73,
+   "start": 146.63,
+   "end": 150.39,
+   "chapter": 2,
+   "dark": false,
+   "layout": "feature",
+   "art": "S04-1",
+   "i": 27
+  },
+  {
+   "key": "S04-2",
+   "anchor": "33",
+   "kind": "scale",
+   "title": "That Ability Helps Function",
+   "labels": [
+    {
+     "text": "That",
+     "cue_word": "that",
+     "keep": false,
+     "t": 150.43
+    },
+    {
+     "text": "Around",
+     "cue_word": "around",
+     "keep": false,
+     "t": 154.43
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 150.49,
+   "start": 150.39,
+   "end": 155.645,
+   "chapter": 2,
+   "dark": false,
+   "layout": "left",
+   "art": "S04-2",
+   "i": 28
+  },
+  {
+   "key": "S04-3",
+   "anchor": "34",
+   "kind": "fx",
+   "title": "Also Creates Strange Problem",
+   "labels": [
+    {
+     "text": "Also",
+     "cue_word": "also",
+     "keep": false,
+     "t": 156.165
+    },
+    {
+     "text": "Problem",
+     "cue_word": "problem",
+     "keep": false,
+     "t": 158.005
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 155.745,
+   "start": 155.645,
+   "end": 165.965,
+   "chapter": 2,
+   "dark": false,
+   "layout": "right",
+   "art": "S04-3",
+   "i": 29,
+   "fx": "L-S04-3"
+  },
+  {
+   "key": "S04-4",
+   "anchor": "36",
+   "kind": "question",
+   "title": "The Memory of Wanting",
+   "labels": [
+    {
+     "text": "Don'T",
+     "cue_word": "don't",
+     "keep": false,
+     "t": 166.165
+    },
+    {
+     "text": "More",
+     "cue_word": "more",
+     "keep": false,
+     "t": 167.525
+    }
+   ],
+   "chapter_start": true,
+   "anchor_t": 166.065,
+   "start": 165.965,
+   "end": 168.28,
+   "chapter": 3,
+   "dark": false,
+   "layout": "left",
+   "art": "S04-4",
+   "i": 30
+  },
+  {
+   "key": "S04-5",
+   "anchor": "37",
+   "kind": "quote",
+   "title": "Start Feeling Like Need",
+   "labels": [
+    {
+     "text": "Start",
+     "cue_word": "start",
+     "keep": false,
+     "t": 168.64
+    },
+    {
+     "text": "Satisfaction",
+     "cue_word": "satisfaction",
+     "keep": false,
+     "t": 171.84
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 168.38,
+   "start": 168.28,
+   "end": 173.4,
+   "chapter": 3,
+   "dark": false,
+   "layout": "left",
+   "art": "S04-5",
+   "i": 31
+  },
+  {
+   "key": "S04-6",
+   "anchor": "38",
+   "kind": "big",
+   "title": "That'S Person Make Progress",
+   "labels": [
+    {
+     "text": "That'S",
+     "cue_word": "that's",
+     "keep": false,
+     "t": 173.6
+    },
+    {
+     "text": "Place",
+     "cue_word": "place",
+     "keep": false,
+     "t": 178.64
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 173.5,
+   "start": 173.4,
+   "end": 179.88,
+   "chapter": 3,
+   "dark": false,
+   "layout": "right",
+   "art": "S04-6",
+   "i": 32
+  },
+  {
+   "key": "S04-7",
+   "anchor": "39",
+   "kind": "vs",
+   "title": "Adaptation Only Part Story",
+   "labels": [
+    {
+     "text": "Adaptation",
+     "cue_word": "adaptation",
+     "keep": false,
+     "t": 180.08
+    },
+    {
+     "text": "Story",
+     "cue_word": "story",
+     "keep": false,
+     "t": 182.64
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 179.98,
+   "start": 179.88,
+   "end": 183.525,
+   "chapter": 3,
+   "dark": false,
+   "layout": "feature",
+   "art": "S04-7",
+   "i": 33
+  },
+  {
+   "key": "S04-8",
+   "anchor": "40",
+   "kind": "chips",
+   "title": "There'S Another Reason Ordinary",
+   "labels": [
+    {
+     "text": "There'S",
+     "cue_word": "there's",
+     "keep": false,
+     "t": 183.565
+    },
+    {
+     "text": "Every",
+     "cue_word": "every",
+     "keep": false,
+     "t": 190.045
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 183.625,
+   "start": 183.525,
+   "end": 194.725,
+   "chapter": 3,
+   "dark": false,
+   "layout": "right",
+   "art": "S04-8",
+   "i": 34
+  },
+  {
+   "key": "S04-9",
+   "anchor": "42",
+   "kind": "arrow",
+   "title": "Wake Late Make Some",
+   "labels": [
+    {
+     "text": "Wake",
+     "cue_word": "wake",
+     "keep": false,
+     "t": 194.925
+    },
+    {
+     "text": "Enjoy",
+     "cue_word": "enjoy",
+     "keep": false,
+     "t": 200.16
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 194.825,
+   "start": 194.725,
+   "end": 201.08,
+   "chapter": 3,
+   "dark": false,
+   "layout": "left",
+   "art": "S04-9",
+   "i": 35
+  },
+  {
+   "key": "S05-1",
+   "anchor": "43",
+   "kind": "list",
+   "title": "It'S Perfectly Decent",
+   "labels": [
+    {
+     "text": "It'S",
+     "cue_word": "it's",
+     "keep": false,
+     "t": 201.12
+    },
+    {
+     "text": "Decent",
+     "cue_word": "decent",
+     "keep": false,
+     "t": 201.92
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 201.18,
+   "start": 201.08,
+   "end": 203.4,
+   "chapter": 3,
+   "dark": false,
+   "layout": "right",
+   "art": "S05-1",
+   "i": 36
+  },
+  {
+   "key": "S05-2",
+   "anchor": "44",
+   "kind": "stat",
+   "title": "Then Open Instagram",
+   "labels": [
+    {
+     "text": "Then",
+     "cue_word": "then",
+     "keep": false,
+     "t": 203.44
+    },
+    {
+     "text": "Instagram",
+     "cue_word": "instagram",
+     "keep": false,
+     "t": 204.16
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 203.5,
+   "start": 203.4,
+   "end": 205.48,
+   "chapter": 3,
+   "dark": true,
+   "layout": "left",
+   "art": "S05-2",
+   "i": 37
+  },
+  {
+   "key": "S05-3",
+   "anchor": "45",
+   "kind": "scale",
+   "title": "Someone Having Breakfast Beautiful",
+   "labels": [
+    {
+     "text": "Someone",
+     "cue_word": "someone",
+     "keep": false,
+     "t": 205.52
+    },
+    {
+     "text": "York",
+     "cue_word": "york",
+     "keep": false,
+     "t": 208.56
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 205.58,
+   "start": 205.48,
+   "end": 209.32,
+   "chapter": 3,
+   "dark": false,
+   "layout": "feature",
+   "art": "S05-3",
+   "i": 38
+  },
+  {
+   "key": "S05-4",
+   "anchor": "46",
+   "kind": "fx",
+   "title": "Someone Else Traveling Through",
+   "labels": [
+    {
+     "text": "Someone",
+     "cue_word": "someone",
+     "keep": false,
+     "t": 209.36
+    },
+    {
+     "text": "Italy",
+     "cue_word": "italy",
+     "keep": false,
+     "t": 210.8
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 209.42,
+   "start": 209.32,
+   "end": 214.005,
+   "chapter": 3,
+   "dark": false,
+   "layout": "left",
+   "art": "S05-4",
+   "i": 39,
+   "fx": "L-S05-4"
+  },
+  {
+   "key": "S05-5",
+   "anchor": "48",
+   "kind": "question",
+   "title": "Another Announcing Business That",
+   "labels": [
+    {
+     "text": "Another",
+     "cue_word": "another",
+     "keep": false,
+     "t": 214.045
+    },
+    {
+     "text": "Smaller",
+     "cue_word": "smaller",
+     "keep": false,
+     "t": 220.365
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 214.105,
+   "start": 214.005,
+   "end": 221.845,
+   "chapter": 3,
+   "dark": false,
+   "layout": "left",
+   "art": "S05-5",
+   "i": 40
+  },
+  {
+   "key": "S05-6",
+   "anchor": "49",
+   "kind": "quote",
+   "title": "Nothing About Your Life",
+   "labels": [
+    {
+     "text": "Nothing",
+     "cue_word": "nothing",
+     "keep": false,
+     "t": 221.885
+    },
+    {
+     "text": "Changed",
+     "cue_word": "changed",
+     "keep": false,
+     "t": 223.645
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 221.945,
+   "start": 221.845,
+   "end": 224.75,
+   "chapter": 3,
+   "dark": false,
+   "layout": "right",
+   "art": "S05-6",
+   "i": 41
+  },
+  {
+   "key": "S05-7",
+   "anchor": "50",
+   "kind": "big",
+   "title": "Your Room Still Your",
+   "labels": [
+    {
+     "text": "Your",
+     "cue_word": "your",
+     "keep": false,
+     "t": 224.79
+    },
+    {
+     "text": "Room",
+     "cue_word": "room",
+     "keep": false,
+     "t": 225.11
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 224.85,
+   "start": 224.75,
+   "end": 226.43,
+   "chapter": 3,
+   "dark": false,
+   "layout": "feature",
+   "art": "S05-7",
+   "i": 42
+  },
+  {
+   "key": "S05-8",
+   "anchor": "51",
+   "kind": "vs",
+   "title": "Your Coffee Still Warm",
+   "labels": [
+    {
+     "text": "Your",
+     "cue_word": "your",
+     "keep": false,
+     "t": 226.47
+    },
+    {
+     "text": "Warm",
+     "cue_word": "warm",
+     "keep": false,
+     "t": 227.59
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 226.53,
+   "start": 226.43,
+   "end": 228.27,
+   "chapter": 3,
+   "dark": false,
+   "layout": "right",
+   "art": "S05-8",
+   "i": 43
+  },
+  {
+   "key": "S05-9",
+   "anchor": "52",
+   "kind": "chips",
+   "title": "Your Plans Still Same",
+   "labels": [
+    {
+     "text": "Your",
+     "cue_word": "your",
+     "keep": false,
+     "t": 228.31
+    },
+    {
+     "text": "Comparison",
+     "cue_word": "comparison",
+     "keep": false,
+     "t": 234.07
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 228.37,
+   "start": 228.27,
+   "end": 237.965,
+   "chapter": 3,
+   "dark": false,
+   "layout": "left",
+   "art": "S05-9",
+   "i": 44
+  },
+  {
+   "key": "S06-1",
+   "anchor": "54",
+   "kind": "arrow",
+   "title": "Hedonic Adaptation",
+   "labels": [
+    {
+     "text": "Human",
+     "cue_word": "human",
+     "keep": false,
+     "t": 238.005
+    },
+    {
+     "text": "People",
+     "cue_word": "people",
+     "keep": false,
+     "t": 242.165
+    }
+   ],
+   "chapter_start": true,
+   "anchor_t": 238.065,
+   "start": 237.965,
+   "end": 242.925,
+   "chapter": 4,
+   "dark": false,
+   "layout": "right",
+   "art": "S06-1",
+   "i": 45
+  },
+  {
+   "key": "S06-2",
+   "anchor": "55",
+   "kind": "list",
+   "title": "Other People'S Lives Reference",
+   "labels": [
+    {
+     "text": "Other",
+     "cue_word": "other",
+     "keep": false,
+     "t": 243.445
+    },
+    {
+     "text": "Possibilities",
+     "cue_word": "possibilities",
+     "keep": false,
+     "t": 248.485
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 243.025,
+   "start": 242.925,
+   "end": 249.98,
+   "chapter": 4,
+   "dark": false,
+   "layout": "left",
+   "art": "S06-2",
+   "i": 46
+  },
+  {
+   "key": "S06-3",
+   "anchor": "56",
+   "kind": "stat",
+   "title": "Problem That Social Media",
+   "labels": [
+    {
+     "text": "Problem",
+     "cue_word": "problem",
+     "keep": false,
+     "t": 250.34
+    },
+    {
+     "text": "Points",
+     "cue_word": "points",
+     "keep": false,
+     "t": 255.94
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 250.08,
+   "start": 249.98,
+   "end": 257.02,
+   "chapter": 4,
+   "dark": false,
+   "layout": "feature",
+   "art": "S06-3",
+   "i": 47
+  },
+  {
+   "key": "S06-4",
+   "anchor": "57",
+   "kind": "scale",
+   "title": "Rarely Someone'S Ordinary Tuesday",
+   "labels": [
+    {
+     "text": "Rarely",
+     "cue_word": "rarely",
+     "keep": false,
+     "t": 257.3
+    },
+    {
+     "text": "Tuesday",
+     "cue_word": "tuesday",
+     "keep": false,
+     "t": 259.06
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 257.12,
+   "start": 257.02,
+   "end": 260.3,
+   "chapter": 4,
+   "dark": false,
+   "layout": "left",
+   "art": "S06-4",
+   "i": 48
+  },
+  {
+   "key": "S06-5",
+   "anchor": "58",
+   "kind": "fx",
+   "title": "Vacation Credit Card Bill",
+   "labels": [
+    {
+     "text": "Vacation",
+     "cue_word": "vacation",
+     "keep": false,
+     "t": 260.9
+    },
+    {
+     "text": "Bill",
+     "cue_word": "bill",
+     "keep": false,
+     "t": 262.66
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 260.4,
+   "start": 260.3,
+   "end": 267.015,
+   "chapter": 4,
+   "dark": false,
+   "layout": "right",
+   "art": "S06-5",
+   "i": 49,
+   "fx": "L-S06-5"
+  },
+  {
+   "key": "S06-6",
+   "anchor": "60",
+   "kind": "question",
+   "title": "Relationship Announcement Difficult Conversations",
+   "labels": [
+    {
+     "text": "Relationship",
+     "cue_word": "relationship",
+     "keep": false,
+     "t": 267.695
+    },
+    {
+     "text": "Behind",
+     "cue_word": "behind",
+     "keep": false,
+     "t": 270.655
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 267.115,
+   "start": 267.015,
+   "end": 272.055,
+   "chapter": 4,
+   "dark": true,
+   "layout": "left",
+   "art": "S06-6",
+   "i": 50
+  },
+  {
+   "key": "S06-7",
+   "anchor": "61",
+   "kind": "quote",
+   "title": "When Repeatedly Compare Your",
+   "labels": [
+    {
+     "text": "When",
+     "cue_word": "when",
+     "keep": false,
+     "t": 272.255
+    },
+    {
+     "text": "Insignificant",
+     "cue_word": "insignificant",
+     "keep": false,
+     "t": 280.31
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 272.155,
+   "start": 272.055,
+   "end": 281.95,
+   "chapter": 4,
+   "dark": false,
+   "layout": "right",
+   "art": "S06-7",
+   "i": 51
+  },
+  {
+   "key": "S06-8",
+   "anchor": "62",
+   "kind": "big",
+   "title": "Might Doing Better Than",
+   "labels": [
+    {
+     "text": "Might",
+     "cue_word": "might",
+     "keep": false,
+     "t": 282.15
+    },
+    {
+     "text": "Irrelevant",
+     "cue_word": "irrelevant",
+     "keep": false,
+     "t": 290.23
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 282.05,
+   "start": 281.95,
+   "end": 291.445,
+   "chapter": 4,
+   "dark": false,
+   "layout": "left",
+   "art": "S06-8",
+   "i": 52
+  },
+  {
+   "key": "S06-9",
+   "anchor": "63",
+   "kind": "vs",
+   "title": "This Creates Dangerous Pattern",
+   "labels": [
+    {
+     "text": "This",
+     "cue_word": "this",
+     "keep": false,
+     "t": 291.805
+    },
+    {
+     "text": "Pattern",
+     "cue_word": "pattern",
+     "keep": false,
+     "t": 293.405
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 291.545,
+   "start": 291.445,
+   "end": 298.805,
+   "chapter": 4,
+   "dark": false,
+   "layout": "feature",
+   "art": "S06-9",
+   "i": 53
+  },
+  {
+   "key": "S07-1",
+   "anchor": "65",
+   "kind": "chips",
+   "title": "Start Asking Doesn'T Life",
+   "labels": [
+    {
+     "text": "Start",
+     "cue_word": "start",
+     "keep": false,
+     "t": 299.085
+    },
+    {
+     "text": "Theirs",
+     "cue_word": "theirs",
+     "keep": false,
+     "t": 301.485
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 298.905,
+   "start": 298.805,
+   "end": 302.725,
+   "chapter": 4,
+   "dark": false,
+   "layout": "left",
+   "art": "S07-1",
+   "i": 54
+  },
+  {
+   "key": "S07-2",
+   "anchor": "66",
+   "kind": "arrow",
+   "title": "Those Very Different Questions",
+   "labels": [
+    {
+     "text": "Those",
+     "cue_word": "those",
+     "keep": false,
+     "t": 302.765
+    },
+    {
+     "text": "Questions",
+     "cue_word": "questions",
+     "keep": false,
+     "t": 304.525
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 302.825,
+   "start": 302.725,
+   "end": 305.72,
+   "chapter": 4,
+   "dark": false,
+   "layout": "right",
+   "art": "S07-2",
+   "i": 55
+  },
+  {
+   "key": "S07-3",
+   "anchor": "67",
+   "kind": "list",
+   "title": "Helps Understand Yourself",
+   "labels": [
+    {
+     "text": "Helps",
+     "cue_word": "helps",
+     "keep": false,
+     "t": 306.08
+    },
+    {
+     "text": "Yourself",
+     "cue_word": "yourself",
+     "keep": false,
+     "t": 307.28
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 305.82,
+   "start": 305.72,
+   "end": 308.28,
+   "chapter": 4,
+   "dark": false,
+   "layout": "left",
+   "art": "S07-3",
+   "i": 56
+  },
+  {
+   "key": "S07-4",
+   "anchor": "68",
+   "kind": "stat",
+   "title": "Other Keep Chasing Life",
+   "labels": [
+    {
+     "text": "Other",
+     "cue_word": "other",
+     "keep": false,
+     "t": 308.56
+    },
+    {
+     "text": "Chose",
+     "cue_word": "chose",
+     "keep": false,
+     "t": 311.68
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 308.38,
+   "start": 308.28,
+   "end": 313.0,
+   "chapter": 4,
+   "dark": false,
+   "layout": "feature",
+   "art": "S07-4",
+   "i": 57
+  },
+  {
+   "key": "S07-5",
+   "anchor": "69",
+   "kind": "scale",
+   "title": "Sometimes Emptiness Isn'T Caused",
+   "labels": [
+    {
+     "text": "Sometimes",
+     "cue_word": "sometimes",
+     "keep": false,
+     "t": 313.28
+    },
+    {
+     "text": "Success",
+     "cue_word": "success",
+     "keep": false,
+     "t": 316.08
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 313.1,
+   "start": 313.0,
+   "end": 321.275,
+   "chapter": 4,
+   "dark": false,
+   "layout": "left",
+   "art": "S07-5",
+   "i": 58
+  },
+  {
+   "key": "S07-6",
+   "anchor": "71",
+   "kind": "fx",
+   "title": "Think About Many Decisions",
+   "labels": [
+    {
+     "text": "Think",
+     "cue_word": "think",
+     "keep": false,
+     "t": 321.315
+    },
+    {
+     "text": "Them",
+     "cue_word": "them",
+     "keep": false,
+     "t": 325.795
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 321.375,
+   "start": 321.275,
+   "end": 326.555,
+   "chapter": 4,
+   "dark": false,
+   "layout": "right",
+   "art": "S07-6",
+   "i": 59,
+   "fx": "L-S07-6"
+  },
+  {
+   "key": "S07-7",
+   "anchor": "72",
+   "kind": "question",
+   "title": "The Baseline Reset",
+   "labels": [
+    {
+     "text": "Choose",
+     "cue_word": "choose",
+     "keep": false,
+     "t": 326.595
+    },
+    {
+     "text": "Lifestyle",
+     "cue_word": "lifestyle",
+     "keep": false,
+     "t": 334.595
+    }
+   ],
+   "chapter_start": true,
+   "anchor_t": 326.655,
+   "start": 326.555,
+   "end": 335.71,
+   "chapter": 5,
+   "dark": false,
+   "layout": "right",
+   "art": "S07-7",
+   "i": 60
+  },
+  {
+   "key": "S07-8",
+   "anchor": "73",
+   "kind": "quote",
+   "title": "There'S Nothing Inherently Wrong",
+   "labels": [
+    {
+     "text": "There'S",
+     "cue_word": "there's",
+     "keep": false,
+     "t": 335.75
+    },
+    {
+     "text": "Things",
+     "cue_word": "things",
+     "keep": false,
+     "t": 338.39
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 335.81,
+   "start": 335.71,
+   "end": 339.15,
+   "chapter": 5,
+   "dark": false,
+   "layout": "left",
+   "art": "S07-8",
+   "i": 61
+  },
+  {
+   "key": "S07-9",
+   "anchor": "74",
+   "kind": "big",
+   "title": "Good Career Meaningful",
+   "labels": [
+    {
+     "text": "Good",
+     "cue_word": "good",
+     "keep": false,
+     "t": 339.35
+    },
+    {
+     "text": "Meaningful",
+     "cue_word": "meaningful",
+     "keep": false,
+     "t": 340.47
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 339.25,
+   "start": 339.15,
+   "end": 341.31,
+   "chapter": 5,
+   "dark": true,
+   "layout": "feature",
+   "art": "S07-9",
+   "i": 62
+  },
+  {
+   "key": "S08-1",
+   "anchor": "75",
+   "kind": "vs",
+   "title": "Money Create Security",
+   "labels": [
+    {
+     "text": "Money",
+     "cue_word": "money",
+     "keep": false,
+     "t": 341.35
+    },
+    {
+     "text": "Security",
+     "cue_word": "security",
+     "keep": false,
+     "t": 342.47
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 341.41,
+   "start": 341.31,
+   "end": 346.35,
+   "chapter": 5,
+   "dark": false,
+   "layout": "feature",
+   "art": "S08-1",
+   "i": 63
+  },
+  {
+   "key": "S08-2",
+   "anchor": "77",
+   "kind": "chips",
+   "title": "Problems Begin When Pursue",
+   "labels": [
+    {
+     "text": "Problems",
+     "cue_word": "problems",
+     "keep": false,
+     "t": 346.55
+    },
+    {
+     "text": "Have",
+     "cue_word": "have",
+     "keep": false,
+     "t": 352.925
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 346.45,
+   "start": 346.35,
+   "end": 353.845,
+   "chapter": 5,
+   "dark": false,
+   "layout": "left",
+   "art": "S08-2",
+   "i": 64
+  },
+  {
+   "key": "S08-3",
+   "anchor": "78",
+   "kind": "arrow",
+   "title": "Spend Years Building Life",
+   "labels": [
+    {
+     "text": "Spend",
+     "cue_word": "spend",
+     "keep": false,
+     "t": 354.125
+    },
+    {
+     "text": "Inside",
+     "cue_word": "inside",
+     "keep": false,
+     "t": 360.605
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 353.945,
+   "start": 353.845,
+   "end": 361.845,
+   "chapter": 5,
+   "dark": false,
+   "layout": "right",
+   "art": "S08-3",
+   "i": 65
+  },
+  {
+   "key": "S08-4",
+   "anchor": "79",
+   "kind": "list",
+   "title": "Eventually Reach Milestone",
+   "labels": [
+    {
+     "text": "Eventually",
+     "cue_word": "eventually",
+     "keep": false,
+     "t": 362.125
+    },
+    {
+     "text": "Milestone",
+     "cue_word": "milestone",
+     "keep": false,
+     "t": 363.325
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 361.945,
+   "start": 361.845,
+   "end": 364.12,
+   "chapter": 5,
+   "dark": false,
+   "layout": "left",
+   "art": "S08-4",
+   "i": 66
+  },
+  {
+   "key": "S08-5",
+   "anchor": "80",
+   "kind": "stat",
+   "title": "People Congratulate",
+   "labels": [
+    {
+     "text": "People",
+     "cue_word": "people",
+     "keep": false,
+     "t": 364.16
+    },
+    {
+     "text": "Congratulate",
+     "cue_word": "congratulate",
+     "keep": false,
+     "t": 364.48
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 364.22,
+   "start": 364.12,
+   "end": 365.8,
+   "chapter": 5,
+   "dark": false,
+   "layout": "right",
+   "art": "S08-5",
+   "i": 67
+  },
+  {
+   "key": "S08-6",
+   "anchor": "81",
+   "kind": "scale",
+   "title": "Your Family Feels Proud",
+   "labels": [
+    {
+     "text": "Your",
+     "cue_word": "your",
+     "keep": false,
+     "t": 365.84
+    },
+    {
+     "text": "Proud",
+     "cue_word": "proud",
+     "keep": false,
+     "t": 366.8
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 365.9,
+   "start": 365.8,
+   "end": 369.88,
+   "chapter": 5,
+   "dark": false,
+   "layout": "left",
+   "art": "S08-6",
+   "i": 68
+  },
+  {
+   "key": "S08-7",
+   "anchor": "83",
+   "kind": "fx",
+   "title": "When You'Re Alone Still",
+   "labels": [
+    {
+     "text": "When",
+     "cue_word": "when",
+     "keep": false,
+     "t": 370.16
+    },
+    {
+     "text": "Disconnected",
+     "cue_word": "disconnected",
+     "keep": false,
+     "t": 372.0
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 369.98,
+   "start": 369.88,
+   "end": 373.64,
+   "chapter": 5,
+   "dark": false,
+   "layout": "right",
+   "art": "S08-7",
+   "i": 69,
+   "fx": "L-S08-7"
+  },
+  {
+   "key": "S08-8",
+   "anchor": "84",
+   "kind": "question",
+   "title": "Because Achievement Fulfillment Aren'T",
+   "labels": [
+    {
+     "text": "Because",
+     "cue_word": "because",
+     "keep": false,
+     "t": 373.68
+    },
+    {
+     "text": "Thing",
+     "cue_word": "thing",
+     "keep": false,
+     "t": 376.48
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 373.74,
+   "start": 373.64,
+   "end": 377.585,
+   "chapter": 5,
+   "dark": false,
+   "layout": "feature",
+   "art": "S08-8",
+   "i": 70
+  },
+  {
+   "key": "S08-9",
+   "anchor": "85",
+   "kind": "quote",
+   "title": "Achievement Answers Question What",
+   "labels": [
+    {
+     "text": "Achievement",
+     "cue_word": "achievement",
+     "keep": false,
+     "t": 377.625
+    },
+    {
+     "text": "Accomplished",
+     "cue_word": "accomplished",
+     "keep": false,
+     "t": 380.105
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 377.685,
+   "start": 377.585,
+   "end": 381.185,
+   "chapter": 5,
+   "dark": true,
+   "layout": "left",
+   "art": "S08-9",
+   "i": 71
+  },
+  {
+   "key": "S09-1",
+   "anchor": "86",
+   "kind": "big",
+   "title": "Fulfillment Asks Does This",
+   "labels": [
+    {
+     "text": "Fulfillment",
+     "cue_word": "fulfillment",
+     "keep": false,
+     "t": 381.225
+    },
+    {
+     "text": "Matter",
+     "cue_word": "matter",
+     "keep": false,
+     "t": 383.625
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 381.285,
+   "start": 381.185,
+   "end": 385.025,
+   "chapter": 5,
+   "dark": false,
+   "layout": "right",
+   "art": "S09-1",
+   "i": 72
+  },
+  {
+   "key": "S09-2",
+   "anchor": "87",
+   "kind": "vs",
+   "title": "Accomplish Without Having Clear",
+   "labels": [
+    {
+     "text": "Accomplish",
+     "cue_word": "accomplish",
+     "keep": false,
+     "t": 385.545
+    },
+    {
+     "text": "Emptiness",
+     "cue_word": "emptiness",
+     "keep": false,
+     "t": 393.24
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 385.125,
+   "start": 385.025,
+   "end": 401.36,
+   "chapter": 5,
+   "dark": false,
+   "layout": "left",
+   "art": "S09-2",
+   "i": 73
+  },
+  {
+   "key": "S09-3",
+   "anchor": "89",
+   "kind": "chips",
+   "title": "There'S Another Pattern Worth",
+   "labels": [
+    {
+     "text": "There'S",
+     "cue_word": "there's",
+     "keep": false,
+     "t": 401.4
+    },
+    {
+     "text": "Understanding",
+     "cue_word": "understanding",
+     "keep": false,
+     "t": 402.76
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 401.46,
+   "start": 401.36,
+   "end": 404.205,
+   "chapter": 5,
+   "dark": false,
+   "layout": "feature",
+   "art": "S09-3",
+   "i": 74
+  },
+  {
+   "key": "S09-4",
+   "anchor": "90",
+   "kind": "arrow",
+   "title": "The Glass Screen",
+   "labels": [
+    {
+     "text": "Sometimes",
+     "cue_word": "sometimes",
+     "keep": false,
+     "t": 404.245
+    },
+    {
+     "text": "Chasing",
+     "cue_word": "chasing",
+     "keep": false,
+     "t": 407.205
+    }
+   ],
+   "chapter_start": true,
+   "anchor_t": 404.305,
+   "start": 404.205,
+   "end": 408.045,
+   "chapter": 6,
+   "dark": true,
+   "layout": "left",
+   "art": "S09-4",
+   "i": 75
+  },
+  {
+   "key": "S09-5",
+   "anchor": "91",
+   "kind": "list",
+   "title": "Want Feeling Believe Those",
+   "labels": [
+    {
+     "text": "Want",
+     "cue_word": "want",
+     "keep": false,
+     "t": 408.325
+    },
+    {
+     "text": "Give",
+     "cue_word": "give",
+     "keep": false,
+     "t": 410.565
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 408.145,
+   "start": 408.045,
+   "end": 411.645,
+   "chapter": 6,
+   "dark": false,
+   "layout": "right",
+   "art": "S09-5",
+   "i": 76
+  },
+  {
+   "key": "S09-6",
+   "anchor": "92",
+   "kind": "stat",
+   "title": "Want Because Imagine Will",
+   "labels": [
+    {
+     "text": "Want",
+     "cue_word": "want",
+     "keep": false,
+     "t": 411.845
+    },
+    {
+     "text": "Respected",
+     "cue_word": "respected",
+     "keep": false,
+     "t": 414.565
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 411.745,
+   "start": 411.645,
+   "end": 415.565,
+   "chapter": 6,
+   "dark": false,
+   "layout": "left",
+   "art": "S09-6",
+   "i": 77
+  },
+  {
+   "key": "S09-7",
+   "anchor": "93",
+   "kind": "scale",
+   "title": "Want More Followers Because",
+   "labels": [
+    {
+     "text": "Want",
+     "cue_word": "want",
+     "keep": false,
+     "t": 415.765
+    },
+    {
+     "text": "Important",
+     "cue_word": "important",
+     "keep": false,
+     "t": 419.285
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 415.665,
+   "start": 415.565,
+   "end": 426.74,
+   "chapter": 6,
+   "dark": false,
+   "layout": "right",
+   "art": "S09-7",
+   "i": 78
+  },
+  {
+   "key": "S09-8",
+   "anchor": "95",
+   "kind": "fx",
+   "title": "Want Money Because Imagine",
+   "labels": [
+    {
+     "text": "Want",
+     "cue_word": "want",
+     "keep": false,
+     "t": 427.02
+    },
+    {
+     "text": "Again",
+     "cue_word": "again",
+     "keep": false,
+     "t": 431.02
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 426.84,
+   "start": 426.74,
+   "end": 432.225,
+   "chapter": 6,
+   "dark": false,
+   "layout": "left",
+   "art": "S09-8",
+   "i": 79,
+   "fx": "L-S09-8"
+  },
+  {
+   "key": "S09-9",
+   "anchor": "96",
+   "kind": "question",
+   "title": "When Confuse Object Achievement",
+   "labels": [
+    {
+     "text": "When",
+     "cue_word": "when",
+     "keep": false,
+     "t": 432.585
+    },
+    {
+     "text": "Problem",
+     "cue_word": "problem",
+     "keep": false,
+     "t": 439.545
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 432.325,
+   "start": 432.225,
+   "end": 440.465,
+   "chapter": 6,
+   "dark": false,
+   "layout": "feature",
+   "art": "S09-9",
+   "i": 80
+  },
+  {
+   "key": "S10-1",
+   "anchor": "97",
+   "kind": "quote",
+   "title": "Might Give Excitement",
+   "labels": [
+    {
+     "text": "Might",
+     "cue_word": "might",
+     "keep": false,
+     "t": 441.225
+    },
+    {
+     "text": "Excitement",
+     "cue_word": "excitement",
+     "keep": false,
+     "t": 441.865
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 440.565,
+   "start": 440.465,
+   "end": 442.625,
+   "chapter": 6,
+   "dark": false,
+   "layout": "left",
+   "art": "S10-1",
+   "i": 81
+  },
+  {
+   "key": "S10-2",
+   "anchor": "98",
+   "kind": "big",
+   "title": "Cannot Guarantee Self Respect",
+   "labels": [
+    {
+     "text": "Cannot",
+     "cue_word": "cannot",
+     "keep": false,
+     "t": 442.905
+    },
+    {
+     "text": "Respect",
+     "cue_word": "respect",
+     "keep": false,
+     "t": 444.425
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 442.725,
+   "start": 442.625,
+   "end": 445.64,
+   "chapter": 6,
+   "dark": false,
+   "layout": "right",
+   "art": "S10-2",
+   "i": 82
+  },
+  {
+   "key": "S10-3",
+   "anchor": "99",
+   "kind": "vs",
+   "title": "More Followers Might Give",
+   "labels": [
+    {
+     "text": "More",
+     "cue_word": "more",
+     "keep": false,
+     "t": 445.68
+    },
+    {
+     "text": "Attention",
+     "cue_word": "attention",
+     "keep": false,
+     "t": 447.12
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 445.74,
+   "start": 445.64,
+   "end": 450.92,
+   "chapter": 6,
+   "dark": false,
+   "layout": "feature",
+   "art": "S10-3",
+   "i": 83
+  },
+  {
+   "key": "S10-4",
+   "anchor": "101",
+   "kind": "chips",
+   "title": "Relationship Offer Love Companionship",
+   "labels": [
+    {
+     "text": "Relationship",
+     "cue_word": "relationship",
+     "keep": false,
+     "t": 451.2
+    },
+    {
+     "text": "Identity",
+     "cue_word": "identity",
+     "keep": false,
+     "t": 456.16
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 451.02,
+   "start": 450.92,
+   "end": 457.495,
+   "chapter": 6,
+   "dark": false,
+   "layout": "left",
+   "art": "S10-4",
+   "i": 84
+  },
+  {
+   "key": "S10-5",
+   "anchor": "102",
+   "kind": "arrow",
+   "title": "This Doesn'T Mean Those",
+   "labels": [
+    {
+     "text": "This",
+     "cue_word": "this",
+     "keep": false,
+     "t": 457.535
+    },
+    {
+     "text": "Meaningless",
+     "cue_word": "meaningless",
+     "keep": false,
+     "t": 459.055
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 457.595,
+   "start": 457.495,
+   "end": 460.135,
+   "chapter": 6,
+   "dark": false,
+   "layout": "right",
+   "art": "S10-5",
+   "i": 85
+  },
+  {
+   "key": "S10-6",
+   "anchor": "103",
+   "kind": "list",
+   "title": "Means They Have Limits",
+   "labels": [
+    {
+     "text": "Means",
+     "cue_word": "means",
+     "keep": false,
+     "t": 460.335
+    },
+    {
+     "text": "Limits",
+     "cue_word": "limits",
+     "keep": false,
+     "t": 461.215
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 460.235,
+   "start": 460.135,
+   "end": 462.295,
+   "chapter": 6,
+   "dark": false,
+   "layout": "left",
+   "art": "S10-6",
+   "i": 86
+  },
+  {
+   "key": "S10-7",
+   "anchor": "104",
+   "kind": "stat",
+   "title": "When Expect Something External",
+   "labels": [
+    {
+     "text": "When",
+     "cue_word": "when",
+     "keep": false,
+     "t": 462.495
+    },
+    {
+     "text": "Inevitable",
+     "cue_word": "inevitable",
+     "keep": false,
+     "t": 468.895
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 462.395,
+   "start": 462.295,
+   "end": 469.89,
+   "chapter": 6,
+   "dark": false,
+   "layout": "right",
+   "art": "S10-7",
+   "i": 87
+  },
+  {
+   "key": "S10-8",
+   "anchor": "105",
+   "kind": "scale",
+   "title": "What Wanted Feeling Were",
+   "labels": [
+    {
+     "text": "What",
+     "cue_word": "what",
+     "keep": false,
+     "t": 470.41
+    },
+    {
+     "text": "Last",
+     "cue_word": "last",
+     "keep": false,
+     "t": 473.05
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 469.99,
+   "start": 469.89,
+   "end": 482.575,
+   "chapter": 6,
+   "dark": false,
+   "layout": "feature",
+   "art": "S10-8",
+   "i": 88
+  },
+  {
+   "key": "S10-9",
+   "anchor": "107",
+   "kind": "fx",
+   "title": "Here'S Something Important",
+   "labels": [
+    {
+     "text": "Here'S",
+     "cue_word": "here's",
+     "keep": false,
+     "t": 482.935
+    },
+    {
+     "text": "Important",
+     "cue_word": "important",
+     "keep": false,
+     "t": 483.655
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 482.675,
+   "start": 482.575,
+   "end": 484.735,
+   "chapter": 6,
+   "dark": false,
+   "layout": "left",
+   "art": "S10-9",
+   "i": 89,
+   "fx": "L-S10-9"
+  },
+  {
+   "key": "S11-1",
+   "anchor": "108",
+   "kind": "question",
+   "title": "The Contrast Trap",
+   "labels": [
+    {
+     "text": "Feeling",
+     "cue_word": "feeling",
+     "keep": false,
+     "t": 484.775
+    },
+    {
+     "text": "Wrong",
+     "cue_word": "wrong",
+     "keep": false,
+     "t": 489.815
+    }
+   ],
+   "chapter_start": true,
+   "anchor_t": 484.835,
+   "start": 484.735,
+   "end": 490.735,
+   "chapter": 7,
+   "dark": false,
+   "layout": "right",
+   "art": "S11-1",
+   "i": 90
+  },
+  {
+   "key": "S11-2",
+   "anchor": "109",
+   "kind": "quote",
+   "title": "Sometimes It'S Signal That",
+   "labels": [
+    {
+     "text": "Sometimes",
+     "cue_word": "sometimes",
+     "keep": false,
+     "t": 490.775
+    },
+    {
+     "text": "Matters",
+     "cue_word": "matters",
+     "keep": false,
+     "t": 495.175
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 490.835,
+   "start": 490.735,
+   "end": 496.48,
+   "chapter": 7,
+   "dark": true,
+   "layout": "left",
+   "art": "S11-2",
+   "i": 91
+  },
+  {
+   "key": "S11-3",
+   "anchor": "110",
+   "kind": "big",
+   "title": "Maybe Spend Most Your",
+   "labels": [
+    {
+     "text": "Maybe",
+     "cue_word": "maybe",
+     "keep": false,
+     "t": 496.52
+    },
+    {
+     "text": "About",
+     "cue_word": "about",
+     "keep": false,
+     "t": 499.88
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 496.58,
+   "start": 496.48,
+   "end": 500.8,
+   "chapter": 7,
+   "dark": false,
+   "layout": "feature",
+   "art": "S11-3",
+   "i": 92
+  },
+  {
+   "key": "S11-4",
+   "anchor": "111",
+   "kind": "vs",
+   "title": "Maybe Your Days Filled",
+   "labels": [
+    {
+     "text": "Maybe",
+     "cue_word": "maybe",
+     "keep": false,
+     "t": 500.84
+    },
+    {
+     "text": "Connection",
+     "cue_word": "connection",
+     "keep": false,
+     "t": 504.76
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 500.9,
+   "start": 500.8,
+   "end": 514.115,
+   "chapter": 7,
+   "dark": false,
+   "layout": "left",
+   "art": "S11-4",
+   "i": 93
+  },
+  {
+   "key": "S11-5",
+   "anchor": "113",
+   "kind": "chips",
+   "title": "Maybe You'Re Simply Exhausted",
+   "labels": [
+    {
+     "text": "Maybe",
+     "cue_word": "maybe",
+     "keep": false,
+     "t": 514.395
+    },
+    {
+     "text": "Exhausted",
+     "cue_word": "exhausted",
+     "keep": false,
+     "t": 515.515
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 514.215,
+   "start": 514.115,
+   "end": 516.995,
+   "chapter": 7,
+   "dark": false,
+   "layout": "left",
+   "art": "S11-5",
+   "i": 94
+  },
+  {
+   "key": "S11-6",
+   "anchor": "114",
+   "kind": "arrow",
+   "title": "When Every Becomes Cycle",
+   "labels": [
+    {
+     "text": "When",
+     "cue_word": "when",
+     "keep": false,
+     "t": 517.035
+    },
+    {
+     "text": "Personal",
+     "cue_word": "personal",
+     "keep": false,
+     "t": 527.53
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 517.095,
+   "start": 516.995,
+   "end": 528.85,
+   "chapter": 7,
+   "dark": false,
+   "layout": "right",
+   "art": "S11-6",
+   "i": 95
+  },
+  {
+   "key": "S11-7",
+   "anchor": "115",
+   "kind": "list",
+   "title": "Busy Still Feel Like",
+   "labels": [
+    {
+     "text": "Busy",
+     "cue_word": "busy",
+     "keep": false,
+     "t": 529.45
+    },
+    {
+     "text": "Lived",
+     "cue_word": "lived",
+     "keep": false,
+     "t": 532.09
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 528.95,
+   "start": 528.85,
+   "end": 532.93,
+   "chapter": 7,
+   "dark": false,
+   "layout": "right",
+   "art": "S11-7",
+   "i": 96
+  },
+  {
+   "key": "S11-8",
+   "anchor": "116",
+   "kind": "stat",
+   "title": "Communicate With Dozens People",
+   "labels": [
+    {
+     "text": "Communicate",
+     "cue_word": "communicate",
+     "keep": false,
+     "t": 533.37
+    },
+    {
+     "text": "Unknown",
+     "cue_word": "unknown",
+     "keep": false,
+     "t": 536.09
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 533.03,
+   "start": 532.93,
+   "end": 537.155,
+   "chapter": 7,
+   "dark": false,
+   "layout": "feature",
+   "art": "S11-8",
+   "i": 97
+  },
+  {
+   "key": "S11-9",
+   "anchor": "117",
+   "kind": "scale",
+   "title": "Achieve Something Important Have",
+   "labels": [
+    {
+     "text": "Achieve",
+     "cue_word": "achieve",
+     "keep": false,
+     "t": 537.675
+    },
+    {
+     "text": "Enjoy",
+     "cue_word": "enjoy",
+     "keep": false,
+     "t": 540.555
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 537.255,
+   "start": 537.155,
+   "end": 546.915,
+   "chapter": 7,
+   "dark": false,
+   "layout": "left",
+   "art": "S11-9",
+   "i": 98
+  },
+  {
+   "key": "S12-1",
+   "anchor": "119",
+   "kind": "fx",
+   "title": "Sometimes Don'T Need More",
+   "labels": [
+    {
+     "text": "Sometimes",
+     "cue_word": "sometimes",
+     "keep": false,
+     "t": 546.955
+    },
+    {
+     "text": "Stimulation",
+     "cue_word": "stimulation",
+     "keep": false,
+     "t": 548.635
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 547.015,
+   "start": 546.915,
+   "end": 549.79,
+   "chapter": 7,
+   "dark": false,
+   "layout": "right",
+   "art": "S12-1",
+   "i": 99,
+   "fx": "L-S12-1"
+  },
+  {
+   "key": "S12-2",
+   "anchor": "120",
+   "kind": "question",
+   "title": "Need More Connection With",
+   "labels": [
+    {
+     "text": "Need",
+     "cue_word": "need",
+     "keep": false,
+     "t": 550.15
+    },
+    {
+     "text": "Doing",
+     "cue_word": "doing",
+     "keep": false,
+     "t": 552.71
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 549.89,
+   "start": 549.79,
+   "end": 553.79,
+   "chapter": 7,
+   "dark": false,
+   "layout": "left",
+   "art": "S12-2",
+   "i": 100
+  },
+  {
+   "key": "S12-3",
+   "anchor": "121",
+   "kind": "quote",
+   "title": "What Actually About This",
+   "labels": [
+    {
+     "text": "What",
+     "cue_word": "what",
+     "keep": false,
+     "t": 554.07
+    },
+    {
+     "text": "This",
+     "cue_word": "this",
+     "keep": false,
+     "t": 555.51
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 553.89,
+   "start": 553.79,
+   "end": 556.43,
+   "chapter": 7,
+   "dark": false,
+   "layout": "feature",
+   "art": "S12-3",
+   "i": 101
+  },
+  {
+   "key": "S12-4",
+   "anchor": "122",
+   "kind": "big",
+   "title": "With Five Motivational Tricks",
+   "labels": [
+    {
+     "text": "With",
+     "cue_word": "with",
+     "keep": false,
+     "t": 556.79
+    },
+    {
+     "text": "Life",
+     "cue_word": "life",
+     "keep": false,
+     "t": 561.99
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 556.53,
+   "start": 556.43,
+   "end": 568.995,
+   "chapter": 7,
+   "dark": false,
+   "layout": "left",
+   "art": "S12-4",
+   "i": 102
+  },
+  {
+   "key": "S12-5",
+   "anchor": "124",
+   "kind": "vs",
+   "title": "When Feel Restless Your",
+   "labels": [
+    {
+     "text": "When",
+     "cue_word": "when",
+     "keep": false,
+     "t": 569.035
+    },
+    {
+     "text": "Project",
+     "cue_word": "project",
+     "keep": false,
+     "t": 577.835
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 569.095,
+   "start": 568.995,
+   "end": 578.8,
+   "chapter": 7,
+   "dark": false,
+   "layout": "right",
+   "art": "S12-5",
+   "i": 103
+  },
+  {
+   "key": "S12-6",
+   "anchor": "125",
+   "kind": "chips",
+   "title": "Sometimes Change Necessary Sometimes",
+   "labels": [
+    {
+     "text": "Sometimes",
+     "cue_word": "sometimes",
+     "keep": false,
+     "t": 578.84
+    },
+    {
+     "text": "Where",
+     "cue_word": "where",
+     "keep": false,
+     "t": 585.08
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 578.9,
+   "start": 578.8,
+   "end": 586.48,
+   "chapter": 7,
+   "dark": false,
+   "layout": "left",
+   "art": "S12-6",
+   "i": 104
+  },
+  {
+   "key": "S12-7",
+   "anchor": "126",
+   "kind": "arrow",
+   "title": "The Arrival Fallacy",
+   "labels": [
+    {
+     "text": "Before",
+     "cue_word": "before",
+     "keep": false,
+     "t": 586.52
+    },
+    {
+     "text": "Question",
+     "cue_word": "question",
+     "keep": false,
+     "t": 590.04
+    }
+   ],
+   "chapter_start": true,
+   "anchor_t": 586.58,
+   "start": 586.48,
+   "end": 591.115,
+   "chapter": 8,
+   "dark": false,
+   "layout": "right",
+   "art": "S12-7",
+   "i": 105
+  },
+  {
+   "key": "S12-8",
+   "anchor": "127",
+   "kind": "list",
+   "title": "Moving Towards Something Genuinely",
+   "labels": [
+    {
+     "text": "Moving",
+     "cue_word": "moving",
+     "keep": false,
+     "t": 591.635
+    },
+    {
+     "text": "Right",
+     "cue_word": "right",
+     "keep": false,
+     "t": 597.955
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 591.215,
+   "start": 591.115,
+   "end": 599.115,
+   "chapter": 8,
+   "dark": false,
+   "layout": "feature",
+   "art": "S12-8",
+   "i": 106
+  },
+  {
+   "key": "S12-9",
+   "anchor": "128",
+   "kind": "stat",
+   "title": "That Distinction Matters",
+   "labels": [
+    {
+     "text": "That",
+     "cue_word": "that",
+     "keep": false,
+     "t": 599.155
+    },
+    {
+     "text": "Matters",
+     "cue_word": "matters",
+     "keep": false,
+     "t": 599.955
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 599.215,
+   "start": 599.115,
+   "end": 608.68,
+   "chapter": 8,
+   "dark": false,
+   "layout": "left",
+   "art": "S12-9",
+   "i": 107
+  },
+  {
+   "key": "S13-1",
+   "anchor": "130",
+   "kind": "scale",
+   "title": "Second Become More Selective",
+   "labels": [
+    {
+     "text": "Second",
+     "cue_word": "second",
+     "keep": false,
+     "t": 608.72
+    },
+    {
+     "text": "Expectations",
+     "cue_word": "expectations",
+     "keep": false,
+     "t": 612.88
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 608.78,
+   "start": 608.68,
+   "end": 614.12,
+   "chapter": 8,
+   "dark": false,
+   "layout": "right",
+   "art": "S13-1",
+   "i": 108
+  },
+  {
+   "key": "S13-2",
+   "anchor": "131",
+   "kind": "fx",
+   "title": "Don'T Have Delete Every",
+   "labels": [
+    {
+     "text": "Don'T",
+     "cue_word": "don't",
+     "keep": false,
+     "t": 614.32
+    },
+    {
+     "text": "Media",
+     "cue_word": "media",
+     "keep": false,
+     "t": 616.0
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 614.22,
+   "start": 614.12,
+   "end": 617.08,
+   "chapter": 8,
+   "dark": false,
+   "layout": "left",
+   "art": "S13-2",
+   "i": 109,
+   "fx": "L-S13-2"
+  },
+  {
+   "key": "S13-3",
+   "anchor": "132",
+   "kind": "question",
+   "title": "Don'T Have Pretend That",
+   "labels": [
+    {
+     "text": "Don'T",
+     "cue_word": "don't",
+     "keep": false,
+     "t": 617.28
+    },
+    {
+     "text": "Matter",
+     "cue_word": "matter",
+     "keep": false,
+     "t": 620.0
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 617.18,
+   "start": 617.08,
+   "end": 620.735,
+   "chapter": 8,
+   "dark": false,
+   "layout": "feature",
+   "art": "S13-3",
+   "i": 110
+  },
+  {
+   "key": "S13-4",
+   "anchor": "133",
+   "kind": "quote",
+   "title": "Attention Certain Content Changes",
+   "labels": [
+    {
+     "text": "Attention",
+     "cue_word": "attention",
+     "keep": false,
+     "t": 621.415
+    },
+    {
+     "text": "Life",
+     "cue_word": "life",
+     "keep": false,
+     "t": 625.335
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 620.835,
+   "start": 620.735,
+   "end": 626.415,
+   "chapter": 8,
+   "dark": false,
+   "layout": "left",
+   "art": "S13-4",
+   "i": 111
+  },
+  {
+   "key": "S13-5",
+   "anchor": "134",
+   "kind": "big",
+   "title": "Regularly Leave Feeling Behind",
+   "labels": [
+    {
+     "text": "Regularly",
+     "cue_word": "regularly",
+     "keep": false,
+     "t": 626.855
+    },
+    {
+     "text": "Examining",
+     "cue_word": "examining",
+     "keep": false,
+     "t": 632.535
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 626.515,
+   "start": 626.415,
+   "end": 640.28,
+   "chapter": 8,
+   "dark": false,
+   "layout": "right",
+   "art": "S13-5",
+   "i": 112
+  },
+  {
+   "key": "S13-6",
+   "anchor": "136",
+   "kind": "vs",
+   "title": "Your Attention Limited Whatever",
+   "labels": [
+    {
+     "text": "Your",
+     "cue_word": "your",
+     "keep": false,
+     "t": 640.32
+    },
+    {
+     "text": "Necessary",
+     "cue_word": "necessary",
+     "keep": false,
+     "t": 650.365
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 640.38,
+   "start": 640.28,
+   "end": 652.165,
+   "chapter": 8,
+   "dark": false,
+   "layout": "left",
+   "art": "S13-6",
+   "i": 113
+  },
+  {
+   "key": "S13-7",
+   "anchor": "137",
+   "kind": "chips",
+   "title": "Choose Carefully",
+   "labels": [
+    {
+     "text": "Choose",
+     "cue_word": "choose",
+     "keep": false,
+     "t": 652.205
+    },
+    {
+     "text": "Carefully",
+     "cue_word": "carefully",
+     "keep": false,
+     "t": 652.525
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 652.265,
+   "start": 652.165,
+   "end": 654.325,
+   "chapter": 8,
+   "dark": false,
+   "layout": "right",
+   "art": "S13-7",
+   "i": 114
+  },
+  {
+   "key": "S13-8",
+   "anchor": "138",
+   "kind": "arrow",
+   "title": "Third Practice Noticing Progress",
+   "labels": [
+    {
+     "text": "Third",
+     "cue_word": "third",
+     "keep": false,
+     "t": 654.365
+    },
+    {
+     "text": "Target",
+     "cue_word": "target",
+     "keep": false,
+     "t": 659.805
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 654.425,
+   "start": 654.325,
+   "end": 660.98,
+   "chapter": 8,
+   "dark": false,
+   "layout": "feature",
+   "art": "S13-8",
+   "i": 115
+  },
+  {
+   "key": "S13-9",
+   "anchor": "139",
+   "kind": "list",
+   "title": "This Doesn'T Mean Abandoning",
+   "labels": [
+    {
+     "text": "This",
+     "cue_word": "this",
+     "keep": false,
+     "t": 661.02
+    },
+    {
+     "text": "Ambition",
+     "cue_word": "ambition",
+     "keep": false,
+     "t": 662.38
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 661.08,
+   "start": 660.98,
+   "end": 663.54,
+   "chapter": 8,
+   "dark": false,
+   "layout": "left",
+   "art": "S13-9",
+   "i": 116
+  },
+  {
+   "key": "S14-1",
+   "anchor": "140",
+   "kind": "stat",
+   "title": "Means Allowing Yourself Recognize",
+   "labels": [
+    {
+     "text": "Means",
+     "cue_word": "means",
+     "keep": false,
+     "t": 663.74
+    },
+    {
+     "text": "Improved",
+     "cue_word": "improved",
+     "keep": false,
+     "t": 666.86
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 663.64,
+   "start": 663.54,
+   "end": 672.5,
+   "chapter": 8,
+   "dark": false,
+   "layout": "right",
+   "art": "S14-1",
+   "i": 117
+  },
+  {
+   "key": "S14-2",
+   "anchor": "142",
+   "kind": "scale",
+   "title": "Finally Developed Healthy Routine",
+   "labels": [
+    {
+     "text": "Finally",
+     "cue_word": "finally",
+     "keep": false,
+     "t": 672.94
+    },
+    {
+     "text": "Consistency",
+     "cue_word": "consistency",
+     "keep": false,
+     "t": 676.175
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 672.6,
+   "start": 672.5,
+   "end": 677.735,
+   "chapter": 8,
+   "dark": false,
+   "layout": "left",
+   "art": "S14-2",
+   "i": 118
+  },
+  {
+   "key": "S14-3",
+   "anchor": "143",
+   "kind": "fx",
+   "title": "Built Meaningful Friendship Don'T",
+   "labels": [
+    {
+     "text": "Built",
+     "cue_word": "built",
+     "keep": false,
+     "t": 678.095
+    },
+    {
+     "text": "Online",
+     "cue_word": "online",
+     "keep": false,
+     "t": 684.655
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 677.835,
+   "start": 677.735,
+   "end": 685.975,
+   "chapter": 8,
+   "dark": false,
+   "layout": "feature",
+   "art": "S14-3",
+   "i": 119,
+   "fx": "L-S14-3"
+  },
+  {
+   "key": "S14-4",
+   "anchor": "144",
+   "kind": "question",
+   "title": "The Hollow Trophy",
+   "labels": [
+    {
+     "text": "Grateful",
+     "cue_word": "grateful",
+     "keep": false,
+     "t": 686.575
+    },
+    {
+     "text": "Life",
+     "cue_word": "life",
+     "keep": false,
+     "t": 689.695
+    }
+   ],
+   "chapter_start": true,
+   "anchor_t": 686.075,
+   "start": 685.975,
+   "end": 690.43,
+   "chapter": 9,
+   "dark": false,
+   "layout": "left",
+   "art": "S14-4",
+   "i": 120
+  },
+  {
+   "key": "S14-5",
+   "anchor": "145",
+   "kind": "quote",
+   "title": "Those Things Opposites",
+   "labels": [
+    {
+     "text": "Those",
+     "cue_word": "those",
+     "keep": false,
+     "t": 690.47
+    },
+    {
+     "text": "Opposites",
+     "cue_word": "opposites",
+     "keep": false,
+     "t": 691.59
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 690.53,
+   "start": 690.43,
+   "end": 692.67,
+   "chapter": 9,
+   "dark": false,
+   "layout": "right",
+   "art": "S14-5",
+   "i": 121
+  },
+  {
+   "key": "S14-6",
+   "anchor": "146",
+   "kind": "big",
+   "title": "Fact They Work Together",
+   "labels": [
+    {
+     "text": "Fact",
+     "cue_word": "fact",
+     "keep": false,
+     "t": 692.95
+    },
+    {
+     "text": "Together",
+     "cue_word": "together",
+     "keep": false,
+     "t": 693.99
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 692.77,
+   "start": 692.67,
+   "end": 698.19,
+   "chapter": 9,
+   "dark": false,
+   "layout": "left",
+   "art": "S14-6",
+   "i": 122
+  },
+  {
+   "key": "S14-7",
+   "anchor": "148",
+   "kind": "vs",
+   "title": "Helps Grow Without Constantly",
+   "labels": [
+    {
+     "text": "Helps",
+     "cue_word": "helps",
+     "keep": false,
+     "t": 698.47
+    },
+    {
+     "text": "Deprived",
+     "cue_word": "deprived",
+     "keep": false,
+     "t": 700.63
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 698.29,
+   "start": 698.19,
+   "end": 702.11,
+   "chapter": 9,
+   "dark": false,
+   "layout": "right",
+   "art": "S14-7",
+   "i": 123
+  },
+  {
+   "key": "S14-8",
+   "anchor": "149",
+   "kind": "chips",
+   "title": "Finally Build Life Around",
+   "labels": [
+    {
+     "text": "Finally",
+     "cue_word": "finally",
+     "keep": false,
+     "t": 702.39
+    },
+    {
+     "text": "Outcomes",
+     "cue_word": "outcomes",
+     "keep": false,
+     "t": 707.135
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 702.21,
+   "start": 702.11,
+   "end": 708.535,
+   "chapter": 9,
+   "dark": false,
+   "layout": "feature",
+   "art": "S14-8",
+   "i": 124
+  },
+  {
+   "key": "S14-9",
+   "anchor": "150",
+   "kind": "arrow",
+   "title": "Think About What Makes",
+   "labels": [
+    {
+     "text": "Think",
+     "cue_word": "think",
+     "keep": false,
+     "t": 708.575
+    },
+    {
+     "text": "Watching",
+     "cue_word": "watching",
+     "keep": false,
+     "t": 711.695
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 708.635,
+   "start": 708.535,
+   "end": 712.695,
+   "chapter": 9,
+   "dark": false,
+   "layout": "left",
+   "art": "S14-9",
+   "i": 125
+  },
+  {
+   "key": "S15-1",
+   "anchor": "151",
+   "kind": "list",
+   "title": "Maybe It'S Learning Something",
+   "labels": [
+    {
+     "text": "Maybe",
+     "cue_word": "maybe",
+     "keep": false,
+     "t": 712.735
+    },
+    {
+     "text": "Difficult",
+     "cue_word": "difficult",
+     "keep": false,
+     "t": 714.015
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 712.795,
+   "start": 712.695,
+   "end": 714.935,
+   "chapter": 9,
+   "dark": false,
+   "layout": "feature",
+   "art": "S15-1",
+   "i": 126
+  },
+  {
+   "key": "S15-2",
+   "anchor": "152",
+   "kind": "stat",
+   "title": "Maybe It'S Having Genuinely",
+   "labels": [
+    {
+     "text": "Maybe",
+     "cue_word": "maybe",
+     "keep": false,
+     "t": 714.975
+    },
+    {
+     "text": "Conversation",
+     "cue_word": "conversation",
+     "keep": false,
+     "t": 716.735
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 715.035,
+   "start": 714.935,
+   "end": 724.92,
+   "chapter": 9,
+   "dark": false,
+   "layout": "right",
+   "art": "S15-2",
+   "i": 127
+  },
+  {
+   "key": "S15-3",
+   "anchor": "154",
+   "kind": "scale",
+   "title": "These Experiences Might Make",
+   "labels": [
+    {
+     "text": "These",
+     "cue_word": "these",
+     "keep": false,
+     "t": 724.96
+    },
+    {
+     "text": "Connected",
+     "cue_word": "connected",
+     "keep": false,
+     "t": 730.88
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 725.02,
+   "start": 724.92,
+   "end": 732.825,
+   "chapter": 9,
+   "dark": false,
+   "layout": "left",
+   "art": "S15-3",
+   "i": 128
+  },
+  {
+   "key": "S15-4",
+   "anchor": "155",
+   "kind": "fx",
+   "title": "That Connection Matters Because",
+   "labels": [
+    {
+     "text": "That",
+     "cue_word": "that",
+     "keep": false,
+     "t": 733.185
+    },
+    {
+     "text": "Exciting",
+     "cue_word": "exciting",
+     "keep": false,
+     "t": 738.865
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 732.925,
+   "start": 732.825,
+   "end": 739.945,
+   "chapter": 9,
+   "dark": false,
+   "layout": "left",
+   "art": "S15-4",
+   "i": 129,
+   "fx": "L-S15-4"
+  },
+  {
+   "key": "S15-5",
+   "anchor": "156",
+   "kind": "question",
+   "title": "It'S Life Where Even",
+   "labels": [
+    {
+     "text": "It'S",
+     "cue_word": "it's",
+     "keep": false,
+     "t": 739.985
+    },
+    {
+     "text": "Present",
+     "cue_word": "present",
+     "keep": false,
+     "t": 743.425
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 740.045,
+   "start": 739.945,
+   "end": 744.8,
+   "chapter": 9,
+   "dark": false,
+   "layout": "right",
+   "art": "S15-5",
+   "i": 130
+  },
+  {
+   "key": "S15-6",
+   "anchor": "157",
+   "kind": "quote",
+   "title": "There'S Final Idea Want",
+   "labels": [
+    {
+     "text": "There'S",
+     "cue_word": "there's",
+     "keep": false,
+     "t": 744.84
+    },
+    {
+     "text": "Consider",
+     "cue_word": "consider",
+     "keep": false,
+     "t": 747.0
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 744.9,
+   "start": 744.8,
+   "end": 748.08,
+   "chapter": 9,
+   "dark": false,
+   "layout": "left",
+   "art": "S15-6",
+   "i": 131
+  },
+  {
+   "key": "S15-7",
+   "anchor": "158",
+   "kind": "big",
+   "title": "Maybe Goal Isn'T Reach",
+   "labels": [
+    {
+     "text": "Maybe",
+     "cue_word": "maybe",
+     "keep": false,
+     "t": 748.12
+    },
+    {
+     "text": "More",
+     "cue_word": "more",
+     "keep": false,
+     "t": 751.48
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 748.18,
+   "start": 748.08,
+   "end": 755.2,
+   "chapter": 9,
+   "dark": false,
+   "layout": "right",
+   "art": "S15-7",
+   "i": 132
+  },
+  {
+   "key": "S15-8",
+   "anchor": "160",
+   "kind": "vs",
+   "title": "You'Ll Always Have Interests",
+   "labels": [
+    {
+     "text": "You'Ll",
+     "cue_word": "you'll",
+     "keep": false,
+     "t": 755.24
+    },
+    {
+     "text": "Experience",
+     "cue_word": "experience",
+     "keep": false,
+     "t": 759.4
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 755.3,
+   "start": 755.2,
+   "end": 760.445,
+   "chapter": 9,
+   "dark": false,
+   "layout": "feature",
+   "art": "S15-8",
+   "i": 133
+  },
+  {
+   "key": "S15-9",
+   "anchor": "161",
+   "kind": "chips",
+   "title": "There'S Nothing Wrong With",
+   "labels": [
+    {
+     "text": "There'S",
+     "cue_word": "there's",
+     "keep": false,
+     "t": 760.485
+    },
+    {
+     "text": "That",
+     "cue_word": "that",
+     "keep": false,
+     "t": 761.525
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 760.545,
+   "start": 760.445,
+   "end": 762.365,
+   "chapter": 9,
+   "dark": false,
+   "layout": "left",
+   "art": "S15-9",
+   "i": 134
+  },
+  {
+   "key": "S16-1",
+   "anchor": "162",
+   "kind": "arrow",
+   "title": "Chasing Feelings, Not Objects",
+   "labels": [
+    {
+     "text": "Problem",
+     "cue_word": "problem",
+     "keep": false,
+     "t": 762.565
+    },
+    {
+     "text": "Tomorrow",
+     "cue_word": "tomorrow",
+     "keep": false,
+     "t": 767.925
+    }
+   ],
+   "chapter_start": true,
+   "anchor_t": 762.465,
+   "start": 762.365,
+   "end": 769.005,
+   "chapter": 10,
+   "dark": false,
+   "layout": "right",
+   "art": "S16-1",
+   "i": 135
+  },
+  {
+   "key": "S16-2",
+   "anchor": "163",
+   "kind": "list",
+   "title": "Keep Postponing Satisfaction After",
+   "labels": [
+    {
+     "text": "Keep",
+     "cue_word": "keep",
+     "keep": false,
+     "t": 769.205
+    },
+    {
+     "text": "Should",
+     "cue_word": "should",
+     "keep": false,
+     "t": 784.59
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 769.105,
+   "start": 769.005,
+   "end": 786.195,
+   "chapter": 10,
+   "dark": false,
+   "layout": "left",
+   "art": "S16-2",
+   "i": 136
+  },
+  {
+   "key": "S16-3",
+   "anchor": "164",
+   "kind": "stat",
+   "title": "While You'Re Waiting That",
+   "labels": [
+    {
+     "text": "While",
+     "cue_word": "while",
+     "keep": false,
+     "t": 786.555
+    },
+    {
+     "text": "Passing",
+     "cue_word": "passing",
+     "keep": false,
+     "t": 790.875
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 786.295,
+   "start": 786.195,
+   "end": 794.915,
+   "chapter": 10,
+   "dark": false,
+   "layout": "feature",
+   "art": "S16-3",
+   "i": 137
+  },
+  {
+   "key": "S16-4",
+   "anchor": "166",
+   "kind": "scale",
+   "title": "Just Have Stop Making",
+   "labels": [
+    {
+     "text": "Just",
+     "cue_word": "just",
+     "keep": false,
+     "t": 795.195
+    },
+    {
+     "text": "Reality",
+     "cue_word": "reality",
+     "keep": false,
+     "t": 800.555
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 795.015,
+   "start": 794.915,
+   "end": 802.25,
+   "chapter": 10,
+   "dark": false,
+   "layout": "left",
+   "art": "S16-4",
+   "i": 138
+  },
+  {
+   "key": "S16-5",
+   "anchor": "167",
+   "kind": "fx",
+   "title": "Because Want More Without",
+   "labels": [
+    {
+     "text": "Because",
+     "cue_word": "because",
+     "keep": false,
+     "t": 802.29
+    },
+    {
+     "text": "Nothing",
+     "cue_word": "nothing",
+     "keep": false,
+     "t": 806.61
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 802.35,
+   "start": 802.25,
+   "end": 807.69,
+   "chapter": 10,
+   "dark": false,
+   "layout": "right",
+   "art": "S16-5",
+   "i": 139,
+   "fx": "L-S16-5"
+  },
+  {
+   "key": "S16-6",
+   "anchor": "168",
+   "kind": "question",
+   "title": "Work Toward Better Future",
+   "labels": [
+    {
+     "text": "Work",
+     "cue_word": "work",
+     "keep": false,
+     "t": 808.05
+    },
+    {
+     "text": "Today",
+     "cue_word": "today",
+     "keep": false,
+     "t": 813.09
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 807.79,
+   "start": 807.69,
+   "end": 814.525,
+   "chapter": 10,
+   "dark": false,
+   "layout": "left",
+   "art": "S16-6",
+   "i": 140
+  },
+  {
+   "key": "S16-7",
+   "anchor": "169",
+   "kind": "quote",
+   "title": "Perhaps That'S Real Difference",
+   "labels": [
+    {
+     "text": "Perhaps",
+     "cue_word": "perhaps",
+     "keep": false,
+     "t": 814.885
+    },
+    {
+     "text": "Dissatisfaction",
+     "cue_word": "dissatisfaction",
+     "keep": false,
+     "t": 818.965
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 814.625,
+   "start": 814.525,
+   "end": 820.845,
+   "chapter": 10,
+   "dark": false,
+   "layout": "right",
+   "art": "S16-7",
+   "i": 141
+  },
+  {
+   "key": "S16-8",
+   "anchor": "170",
+   "kind": "big",
+   "title": "Ambition Gives Direction",
+   "labels": [
+    {
+     "text": "Ambition",
+     "cue_word": "ambition",
+     "keep": false,
+     "t": 820.885
+    },
+    {
+     "text": "Direction",
+     "cue_word": "direction",
+     "keep": false,
+     "t": 822.085
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 820.945,
+   "start": 820.845,
+   "end": 827.8,
+   "chapter": 10,
+   "dark": false,
+   "layout": "feature",
+   "art": "S16-8",
+   "i": 142
+  },
+  {
+   "key": "S16-9",
+   "anchor": "172",
+   "kind": "vs",
+   "title": "Next Time Feel Empty",
+   "labels": [
+    {
+     "text": "Next",
+     "cue_word": "next",
+     "keep": false,
+     "t": 828.32
+    },
+    {
+     "text": "Become",
+     "cue_word": "become",
+     "keep": false,
+     "t": 834.96
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 827.9,
+   "start": 827.8,
+   "end": 836.36,
+   "chapter": 10,
+   "dark": false,
+   "layout": "left",
+   "art": "S16-9",
+   "i": 143
+  },
+  {
+   "key": "S17-1",
+   "anchor": "173",
+   "kind": "chips",
+   "title": "Take Moment",
+   "labels": [
+    {
+     "text": "Take",
+     "cue_word": "take",
+     "keep": false,
+     "t": 836.4
+    },
+    {
+     "text": "Moment",
+     "cue_word": "moment",
+     "keep": false,
+     "t": 836.8
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 836.46,
+   "start": 836.36,
+   "end": 837.8,
+   "chapter": 10,
+   "dark": false,
+   "layout": "right",
+   "art": "S17-1",
+   "i": 144
+  },
+  {
+   "key": "S17-2",
+   "anchor": "174",
+   "kind": "arrow",
+   "title": "Yourself What You'Ve Been",
+   "labels": [
+    {
+     "text": "Yourself",
+     "cue_word": "yourself",
+     "keep": false,
+     "t": 838.24
+    },
+    {
+     "text": "Overlooking",
+     "cue_word": "overlooking",
+     "keep": false,
+     "t": 839.28
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 837.9,
+   "start": 837.8,
+   "end": 840.52,
+   "chapter": 10,
+   "dark": false,
+   "layout": "left",
+   "art": "S17-2",
+   "i": 145
+  },
+  {
+   "key": "S17-3",
+   "anchor": "175",
+   "kind": "list",
+   "title": "Reclaiming Presence",
+   "labels": [
+    {
+     "text": "What",
+     "cue_word": "what",
+     "keep": false,
+     "t": 840.56
+    },
+    {
+     "text": "Comparing",
+     "cue_word": "comparing",
+     "keep": false,
+     "t": 841.2
+    }
+   ],
+   "chapter_start": true,
+   "anchor_t": 840.62,
+   "start": 840.52,
+   "end": 842.255,
+   "chapter": 11,
+   "dark": false,
+   "layout": "feature",
+   "art": "S17-3",
+   "i": 146
+  },
+  {
+   "key": "S17-4",
+   "anchor": "176",
+   "kind": "stat",
+   "title": "What Chasing Whose Definition",
+   "labels": [
+    {
+     "text": "What",
+     "cue_word": "what",
+     "keep": false,
+     "t": 842.295
+    },
+    {
+     "text": "Following",
+     "cue_word": "following",
+     "keep": false,
+     "t": 845.895
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 842.355,
+   "start": 842.255,
+   "end": 853.215,
+   "chapter": 11,
+   "dark": false,
+   "layout": "left",
+   "art": "S17-4",
+   "i": 147
+  },
+  {
+   "key": "S17-5",
+   "anchor": "178",
+   "kind": "scale",
+   "title": "Might Discover That Don'T",
+   "labels": [
+    {
+     "text": "Might",
+     "cue_word": "might",
+     "keep": false,
+     "t": 853.495
+    },
+    {
+     "text": "Person",
+     "cue_word": "person",
+     "keep": false,
+     "t": 856.535
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 853.315,
+   "start": 853.215,
+   "end": 857.56,
+   "chapter": 11,
+   "dark": false,
+   "layout": "right",
+   "art": "S17-5",
+   "i": 148
+  },
+  {
+   "key": "S17-6",
+   "anchor": "179",
+   "kind": "fx",
+   "title": "Might Just Need Reconnect",
+   "labels": [
+    {
+     "text": "Might",
+     "cue_word": "might",
+     "keep": false,
+     "t": 857.84
+    },
+    {
+     "text": "Improve",
+     "cue_word": "improve",
+     "keep": false,
+     "t": 861.28
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 857.66,
+   "start": 857.56,
+   "end": 862.92,
+   "chapter": 11,
+   "dark": false,
+   "layout": "left",
+   "art": "S17-6",
+   "i": 149,
+   "fx": "L-S17-6"
+  },
+  {
+   "key": "S17-7",
+   "anchor": "180",
+   "kind": "question",
+   "title": "Think Deeper",
+   "labels": [
+    {
+     "text": "Think",
+     "cue_word": "think",
+     "keep": false,
+     "t": 862.96
+    },
+    {
+     "text": "Deeper",
+     "cue_word": "deeper",
+     "keep": false,
+     "t": 863.36
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 863.02,
+   "start": 862.92,
+   "end": 864.44,
+   "chapter": 11,
+   "dark": false,
+   "layout": "right",
+   "art": "S17-7",
+   "i": 150
+  },
+  {
+   "key": "S17-8",
+   "anchor": "181",
+   "kind": "quote",
+   "title": "Live Better",
+   "labels": [
+    {
+     "text": "Live",
+     "cue_word": "live",
+     "keep": false,
+     "t": 864.48
+    },
+    {
+     "text": "Better",
+     "cue_word": "better",
+     "keep": false,
+     "t": 864.8
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 864.54,
+   "start": 864.44,
+   "end": 867.88,
+   "chapter": 11,
+   "dark": false,
+   "layout": "feature",
+   "art": "S17-8",
+   "i": 151
+  },
+  {
+   "key": "S17-9",
+   "anchor": "183",
+   "kind": "big",
+   "title": "This Become",
+   "labels": [
+    {
+     "text": "This",
+     "cue_word": "this",
+     "keep": false,
+     "t": 867.92
+    },
+    {
+     "text": "Become",
+     "cue_word": "become",
+     "keep": false,
+     "t": 869.68
+    }
+   ],
+   "chapter_start": false,
+   "anchor_t": 867.98,
+   "start": 867.88,
+   "end": 870.26,
+   "chapter": 11,
+   "dark": false,
+   "layout": "left",
+   "art": "S17-9",
+   "i": 152
+  }
+ ],
+ "shorts": [
+  {
+   "id": "SH1",
+   "title": "The Arrival Fallacy",
+   "topic": "The Finish Line Lie",
+   "start": 381.0,
+   "end": 428.0,
+   "t0": 380.965,
+   "t1": 428.02,
+   "vo_dur": 47.055,
+   "end_card": 2.5,
+   "total": 49.555,
+   "scenes": [
+    {
+     "key": "SH1A-1",
+     "anchor": "86",
+     "kind": "question",
+     "title": "Achievement vs Fulfillment",
+     "labels": [
+      {
+       "text": "Fulfillment",
+       "cue_word": "fulfillment",
+       "keep": false,
+       "t": 381.225
+      },
+      {
+       "text": "Matter",
+       "cue_word": "matter",
+       "keep": false,
+       "t": 383.625
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 381.285,
+     "start": 380.965,
+     "end": 385.025,
+     "dark": false,
+     "art": "SH1A-1",
+     "i": 0,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH1A-2",
+     "anchor": "87",
+     "kind": "quote",
+     "title": "Success Without Answers",
+     "labels": [
+      {
+       "text": "Accomplish",
+       "cue_word": "accomplish",
+       "keep": false,
+       "t": 385.545
+      },
+      {
+       "text": "Emptiness",
+       "cue_word": "emptiness",
+       "keep": false,
+       "t": 393.24
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 385.125,
+     "start": 385.025,
+     "end": 394.24,
+     "dark": false,
+     "art": "SH1A-2",
+     "i": 1,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH1A-3",
+     "anchor": "88",
+     "kind": "vs",
+     "title": "Reaching Their Destination",
+     "labels": [
+      {
+       "text": "Destination",
+       "cue_word": "destination",
+       "keep": false,
+       "t": 395.4
+      },
+      {
+       "text": "Wanted",
+       "cue_word": "wanted",
+       "keep": false,
+       "t": 399.8
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 394.34,
+     "start": 394.24,
+     "end": 404.205,
+     "dark": false,
+     "art": "SH1A-3",
+     "i": 2,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH1A-4",
+     "anchor": "90",
+     "kind": "chips",
+     "title": "Chasing The Feeling",
+     "labels": [
+      {
+       "text": "Things",
+       "cue_word": "things",
+       "keep": false,
+       "t": 406.645
+      },
+      {
+       "text": "Chasing",
+       "cue_word": "chasing",
+       "keep": false,
+       "t": 407.205
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 404.305,
+     "start": 404.205,
+     "end": 408.045,
+     "dark": false,
+     "art": "SH1A-4",
+     "i": 3,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH1B-1",
+     "anchor": "91",
+     "kind": "stat",
+     "title": "We Want The Emotion",
+     "labels": [
+      {
+       "text": "Feeling",
+       "cue_word": "feeling",
+       "keep": false,
+       "t": 408.725
+      },
+      {
+       "text": "Believe",
+       "cue_word": "believe",
+       "keep": false,
+       "t": 409.365
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 408.145,
+     "start": 408.045,
+     "end": 411.645,
+     "dark": false,
+     "art": "SH1B-1",
+     "i": 4,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH1B-2",
+     "anchor": "92",
+     "kind": "arrow",
+     "title": "The Status Illusion",
+     "labels": [
+      {
+       "text": "Respected",
+       "cue_word": "respected",
+       "keep": false,
+       "t": 414.565
+      },
+      {
+       "text": "Attention",
+       "cue_word": "attention",
+       "keep": false,
+       "t": 417.925
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 411.745,
+     "start": 411.645,
+     "end": 428.02,
+     "dark": false,
+     "art": "SH1B-2",
+     "i": 5,
+     "layout": "portrait"
+    }
+   ]
+  },
+  {
+   "id": "SH2",
+   "title": "Hedonic Adaptation",
+   "topic": "The Baseline Reset",
+   "start": 104.0,
+   "end": 142.0,
+   "t0": 103.9,
+   "t1": 142.15,
+   "vo_dur": 38.25,
+   "end_card": 2.5,
+   "total": 40.75,
+   "scenes": [
+    {
+     "key": "SH2A-1",
+     "anchor": "22",
+     "kind": "question",
+     "title": "Gradually Something Changed",
+     "labels": [
+      {
+       "text": "Gradually",
+       "cue_word": "gradually",
+       "keep": false,
+       "t": 104.165
+      },
+      {
+       "text": "Changed",
+       "cue_word": "changed",
+       "keep": false,
+       "t": 105.445
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 103.985,
+     "start": 103.9,
+     "end": 106.605,
+     "dark": false,
+     "art": "SH2A-1",
+     "i": 0,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH2A-2",
+     "anchor": "23",
+     "kind": "quote",
+     "title": "The New Becomes Familiar",
+     "labels": [
+      {
+       "text": "Familiar",
+       "cue_word": "familiar",
+       "keep": false,
+       "t": 107.765
+      },
+      {
+       "text": "Normal",
+       "cue_word": "normal",
+       "keep": false,
+       "t": 110.005
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 106.705,
+     "start": 106.605,
+     "end": 110.59,
+     "dark": false,
+     "art": "SH2A-2",
+     "i": 1,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH2A-3",
+     "anchor": "25",
+     "kind": "vs",
+     "title": "Your Apartment Becomes Ordinary",
+     "labels": [
+      {
+       "text": "Apartment",
+       "cue_word": "apartment",
+       "keep": false,
+       "t": 110.95
+      },
+      {
+       "text": "Another",
+       "cue_word": "another",
+       "keep": false,
+       "t": 112.39
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 110.69,
+     "start": 110.59,
+     "end": 114.19,
+     "dark": false,
+     "art": "SH2A-3",
+     "i": 2,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH2A-4",
+     "anchor": "26",
+     "kind": "big",
+     "title": "Barely Noticed",
+     "labels": [
+      {
+       "text": "Noticed",
+       "cue_word": "noticed",
+       "keep": false,
+       "t": 117.51
+      },
+      {
+       "text": "Attention",
+       "cue_word": "attention",
+       "keep": false,
+       "t": 119.03
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 114.29,
+     "start": 114.19,
+     "end": 121.63,
+     "dark": false,
+     "art": "SH2A-4",
+     "i": 3,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH2B-1",
+     "anchor": "27",
+     "kind": "stat",
+     "title": "Hedonic Adaptation",
+     "labels": [
+      {
+       "text": "Psychologists",
+       "cue_word": "psychologists",
+       "keep": false,
+       "t": 123.51
+      },
+      {
+       "text": "Adaptation",
+       "cue_word": "adaptation",
+       "keep": false,
+       "t": 125.685
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 121.73,
+     "start": 121.63,
+     "end": 134.445,
+     "dark": false,
+     "art": "SH2B-1",
+     "i": 4,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH2B-2",
+     "anchor": "29",
+     "kind": "arrow",
+     "title": "Special Turns Ordinary",
+     "labels": [
+      {
+       "text": "Special",
+       "cue_word": "special",
+       "keep": false,
+       "t": 137.045
+      },
+      {
+       "text": "Ordinary",
+       "cue_word": "ordinary",
+       "keep": false,
+       "t": 138.965
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 134.545,
+     "start": 134.445,
+     "end": 142.15,
+     "dark": false,
+     "art": "SH2B-2",
+     "i": 5,
+     "layout": "portrait"
+    }
+   ]
+  },
+  {
+   "id": "SH3",
+   "title": "The Contrast Trap",
+   "topic": "Stop Comparing Behind-The-Scenes",
+   "start": 203.0,
+   "end": 245.0,
+   "t0": 202.9,
+   "t1": 245.005,
+   "vo_dur": 42.105,
+   "end_card": 2.5,
+   "total": 44.605,
+   "scenes": [
+    {
+     "key": "SH3A-1",
+     "anchor": "44",
+     "kind": "big",
+     "title": "Then You Open The Screen",
+     "labels": [
+      {
+       "text": "Open",
+       "cue_word": "open",
+       "keep": false,
+       "t": 203.92
+      },
+      {
+       "text": "Instagram",
+       "cue_word": "instagram",
+       "keep": false,
+       "t": 204.16
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 203.5,
+     "start": 202.9,
+     "end": 205.48,
+     "dark": false,
+     "art": "SH3A-1",
+     "i": 0,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH3A-2",
+     "anchor": "45",
+     "kind": "chips",
+     "title": "Highlights From Everywhere",
+     "labels": [
+      {
+       "text": "Apartment",
+       "cue_word": "apartment",
+       "keep": false,
+       "t": 207.76
+      },
+      {
+       "text": "Italy",
+       "cue_word": "italy",
+       "keep": false,
+       "t": 210.8
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 205.58,
+     "start": 205.48,
+     "end": 211.525,
+     "dark": false,
+     "art": "SH3A-2",
+     "i": 1,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH3A-3",
+     "anchor": "47",
+     "kind": "vs",
+     "title": "A Person Your Age",
+     "labels": [
+      {
+       "text": "Bought",
+       "cue_word": "bought",
+       "keep": false,
+       "t": 212.925
+      },
+      {
+       "text": "House",
+       "cue_word": "house",
+       "keep": false,
+       "t": 213.325
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 211.625,
+     "start": 211.525,
+     "end": 214.005,
+     "dark": false,
+     "art": "SH3A-3",
+     "i": 2,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH3A-4",
+     "anchor": "48",
+     "kind": "stat",
+     "title": "Suddenly Life Feels Smaller",
+     "labels": [
+      {
+       "text": "Saturday",
+       "cue_word": "saturday",
+       "keep": false,
+       "t": 219.325
+      },
+      {
+       "text": "Smaller",
+       "cue_word": "smaller",
+       "keep": false,
+       "t": 220.365
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 214.105,
+     "start": 214.005,
+     "end": 221.845,
+     "dark": false,
+     "art": "SH3A-4",
+     "i": 3,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH3B-1",
+     "anchor": "49",
+     "kind": "quote",
+     "title": "Nothing Actually Changed",
+     "labels": [
+      {
+       "text": "Nothing",
+       "cue_word": "nothing",
+       "keep": false,
+       "t": 221.885
+      },
+      {
+       "text": "Changed",
+       "cue_word": "changed",
+       "keep": false,
+       "t": 223.645
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 221.945,
+     "start": 221.845,
+     "end": 226.43,
+     "dark": false,
+     "art": "SH3B-1",
+     "i": 4,
+     "layout": "portrait"
+    },
+    {
+     "key": "SH3B-2",
+     "anchor": "51",
+     "kind": "arrow",
+     "title": "Your Coffee Is Still Warm",
+     "labels": [
+      {
+       "text": "Coffee",
+       "cue_word": "coffee",
+       "keep": false,
+       "t": 226.79
+      },
+      {
+       "text": "Warm",
+       "cue_word": "warm",
+       "keep": false,
+       "t": 227.59
+      }
+     ],
+     "chapter_start": false,
+     "anchor_t": 226.53,
+     "start": 226.43,
+     "end": 245.005,
+     "dark": false,
+     "art": "SH3B-2",
+     "i": 5,
+     "layout": "portrait"
+    }
+   ]
+  }
+ ],
+ "fx_summary": {
+  "landscape": 15,
+  "thirds": [
+   5,
+   5,
+   5
+  ],
+  "max_run": 1,
+  "shorts": {
+   "SH1": 0,
+   "SH2": 0,
+   "SH3": 0
+  }
+ },
+ "warnings": []
+}

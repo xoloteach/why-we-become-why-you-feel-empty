@@ -1,0 +1,6197 @@
+{
+ "S01-1": {
+  "source": "Character_actions_in_grid_layout_6f48e475_2K.jpg",
+  "cell": [
+   15,
+   15,
+   857,
+   514
+  ],
+  "native": [
+   822,
+   479
+  ],
+  "upscaled": [
+   3288,
+   1916
+  ],
+  "layer": [
+   1644,
+   958
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   914,
+   110,
+   1598,
+   915
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S01-2": {
+  "source": "Character_actions_in_grid_layout_6f48e475_2K.jpg",
+  "cell": [
+   913,
+   15,
+   1839,
+   514
+  ],
+  "native": [
+   922,
+   489
+  ],
+  "upscaled": [
+   3688,
+   1956
+  ],
+  "layer": [
+   1844,
+   978
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   212,
+   4,
+   1079,
+   951
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S01-3": {
+  "source": "Character_actions_in_grid_layout_6f48e475_2K.jpg",
+  "cell": [
+   1896,
+   15,
+   2737,
+   514
+  ],
+  "native": [
+   822,
+   479
+  ],
+  "upscaled": [
+   3288,
+   1916
+  ],
+  "layer": [
+   1644,
+   958
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   657,
+   28,
+   1640,
+   936
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S01-4": {
+  "source": "Character_actions_in_grid_layout_6f48e475_2K.jpg",
+  "cell": [
+   15,
+   573,
+   857,
+   1027
+  ],
+  "native": [
+   822,
+   450
+  ],
+  "upscaled": [
+   3288,
+   1800
+  ],
+  "layer": [
+   1644,
+   900
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   59,
+   4,
+   785,
+   873
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S01-5": {
+  "source": "Character_actions_in_grid_layout_6f48e475_2K.jpg",
+  "cell": [
+   913,
+   573,
+   1839,
+   1027
+  ],
+  "native": [
+   922,
+   450
+  ],
+  "upscaled": [
+   3688,
+   1800
+  ],
+  "layer": [
+   1844,
+   900
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   917,
+   209,
+   1756,
+   813
+  ],
+  "dark": true,
+  "paper_bgr": [
+   239.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S01-6": {
+  "source": "Character_actions_in_grid_layout_6f48e475_2K.jpg",
+  "cell": [
+   1896,
+   573,
+   2737,
+   1027
+  ],
+  "native": [
+   821,
+   437
+  ],
+  "upscaled": [
+   3284,
+   1748
+  ],
+  "layer": [
+   1642,
+   874
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   75,
+   3,
+   591,
+   842
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S01-7": {
+  "source": "Character_actions_in_grid_layout_6f48e475_2K.jpg",
+  "cell": [
+   15,
+   1085,
+   857,
+   1521
+  ],
+  "native": [
+   806,
+   411
+  ],
+  "upscaled": [
+   3224,
+   1644
+  ],
+  "layer": [
+   1612,
+   822
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1100,
+   2,
+   1602,
+   820
+  ],
+  "dark": false,
+  "paper_bgr": [
+   237.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S01-8": {
+  "source": "Character_actions_in_grid_layout_6f48e475_2K.jpg",
+  "cell": [
+   913,
+   1085,
+   1839,
+   1521
+  ],
+  "native": [
+   922,
+   432
+  ],
+  "upscaled": [
+   3688,
+   1728
+  ],
+  "layer": [
+   1844,
+   864
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   105,
+   3,
+   794,
+   763
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S01-9": {
+  "source": "Character_actions_in_grid_layout_6f48e475_2K.jpg",
+  "cell": [
+   1896,
+   1085,
+   2737,
+   1521
+  ],
+  "native": [
+   805,
+   404
+  ],
+  "upscaled": [
+   3220,
+   1616
+  ],
+  "layer": [
+   1610,
+   808
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   933,
+   72,
+   1593,
+   806
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S02-1": {
+  "source": "Stickman_character_contact_sheet\u2026_347bb0f6_2K.jpg",
+  "cell": [
+   1,
+   4,
+   857,
+   466
+  ],
+  "native": [
+   836,
+   442
+  ],
+  "upscaled": [
+   3344,
+   1768
+  ],
+  "layer": [
+   1672,
+   884
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   742,
+   60,
+   1653,
+   881
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S02-2": {
+  "source": "Stickman_character_contact_sheet\u2026_347bb0f6_2K.jpg",
+  "cell": [
+   914,
+   4,
+   1775,
+   466
+  ],
+  "native": [
+   845,
+   458
+  ],
+  "upscaled": [
+   3380,
+   1832
+  ],
+  "layer": [
+   1690,
+   916
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   160,
+   239,
+   1687,
+   895
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S02-3": {
+  "source": "Stickman_character_contact_sheet\u2026_347bb0f6_2K.jpg",
+  "cell": [
+   1830,
+   4,
+   2751,
+   466
+  ],
+  "native": [
+   901,
+   458
+  ],
+  "upscaled": [
+   3604,
+   1832
+  ],
+  "layer": [
+   1802,
+   916
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   878,
+   77,
+   1623,
+   913
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S02-4": {
+  "source": "Stickman_character_contact_sheet\u2026_347bb0f6_2K.jpg",
+  "cell": [
+   1,
+   508,
+   857,
+   1027
+  ],
+  "native": [
+   852,
+   514
+  ],
+  "upscaled": [
+   3408,
+   2056
+  ],
+  "layer": [
+   1704,
+   1028
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   603,
+   207,
+   1210,
+   635
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S02-5": {
+  "source": "Stickman_character_contact_sheet\u2026_347bb0f6_2K.jpg",
+  "cell": [
+   914,
+   508,
+   1775,
+   1027
+  ],
+  "native": [
+   857,
+   515
+  ],
+  "upscaled": [
+   3428,
+   2060
+  ],
+  "layer": [
+   1714,
+   1030
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   697,
+   93,
+   1653,
+   964
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S02-6": {
+  "source": "Stickman_character_contact_sheet\u2026_347bb0f6_2K.jpg",
+  "cell": [
+   1830,
+   508,
+   2751,
+   1027
+  ],
+  "native": [
+   917,
+   515
+  ],
+  "upscaled": [
+   3668,
+   2060
+  ],
+  "layer": [
+   1834,
+   1030
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   67,
+   69,
+   1162,
+   985
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S02-7": {
+  "source": "Stickman_character_contact_sheet\u2026_347bb0f6_2K.jpg",
+  "cell": [
+   1,
+   1066,
+   857,
+   1534
+  ],
+  "native": [
+   820,
+   432
+  ],
+  "upscaled": [
+   3280,
+   1728
+  ],
+  "layer": [
+   1640,
+   864
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   526,
+   46,
+   1638,
+   716
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S02-8": {
+  "source": "Stickman_character_contact_sheet\u2026_347bb0f6_2K.jpg",
+  "cell": [
+   914,
+   1066,
+   1775,
+   1534
+  ],
+  "native": [
+   841,
+   464
+  ],
+  "upscaled": [
+   3364,
+   1856
+  ],
+  "layer": [
+   1682,
+   928
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   199,
+   3,
+   1578,
+   896
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S02-9": {
+  "source": "Stickman_character_contact_sheet\u2026_347bb0f6_2K.jpg",
+  "cell": [
+   1830,
+   1066,
+   2751,
+   1534
+  ],
+  "native": [
+   901,
+   464
+  ],
+  "upscaled": [
+   3604,
+   1856
+  ],
+  "layer": [
+   1802,
+   928
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   521,
+   44,
+   1589,
+   864
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S03-1": {
+  "source": "Stickman_character_contact_sheet\u2026_4bb6bddb_2K.jpg",
+  "cell": [
+   15,
+   15,
+   922,
+   503
+  ],
+  "native": [
+   891,
+   481
+  ],
+  "upscaled": [
+   3564,
+   1924
+  ],
+  "layer": [
+   1782,
+   962
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1123,
+   232,
+   1679,
+   905
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S03-2": {
+  "source": "Stickman_character_contact_sheet\u2026_4bb6bddb_2K.jpg",
+  "cell": [
+   932,
+   15,
+   1821,
+   503
+  ],
+  "native": [
+   885,
+   481
+  ],
+  "upscaled": [
+   3540,
+   1924
+  ],
+  "layer": [
+   1770,
+   962
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   131,
+   168,
+   806,
+   920
+  ],
+  "dark": true,
+  "paper_bgr": [
+   239.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S03-3": {
+  "source": "Stickman_character_contact_sheet\u2026_4bb6bddb_2K.jpg",
+  "cell": [
+   1834,
+   15,
+   2737,
+   503
+  ],
+  "native": [
+   884,
+   478
+  ],
+  "upscaled": [
+   3536,
+   1912
+  ],
+  "layer": [
+   1768,
+   956
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   878,
+   114,
+   1621,
+   935
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S03-4": {
+  "source": "Stickman_character_contact_sheet\u2026_4bb6bddb_2K.jpg",
+  "cell": [
+   15,
+   513,
+   922,
+   1006
+  ],
+  "native": [
+   890,
+   489
+  ],
+  "upscaled": [
+   3560,
+   1956
+  ],
+  "layer": [
+   1780,
+   978
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   19,
+   113,
+   1776,
+   974
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S03-5": {
+  "source": "Stickman_character_contact_sheet\u2026_4bb6bddb_2K.jpg",
+  "cell": [
+   932,
+   513,
+   1821,
+   1006
+  ],
+  "native": [
+   884,
+   488
+  ],
+  "upscaled": [
+   3536,
+   1952
+  ],
+  "layer": [
+   1768,
+   976
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   944,
+   76,
+   1742,
+   902
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S03-6": {
+  "source": "Stickman_character_contact_sheet\u2026_4bb6bddb_2K.jpg",
+  "cell": [
+   1834,
+   513,
+   2737,
+   1006
+  ],
+  "native": [
+   884,
+   489
+  ],
+  "upscaled": [
+   3536,
+   1956
+  ],
+  "layer": [
+   1768,
+   978
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   8,
+   26,
+   1000,
+   932
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S03-7": {
+  "source": "Stickman_character_contact_sheet\u2026_4bb6bddb_2K.jpg",
+  "cell": [
+   15,
+   1016,
+   922,
+   1535
+  ],
+  "native": [
+   887,
+   515
+  ],
+  "upscaled": [
+   3548,
+   2060
+  ],
+  "layer": [
+   1774,
+   1030
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1092,
+   367,
+   1705,
+   992
+  ],
+  "dark": false,
+  "paper_bgr": [
+   237.0,
+   247.0,
+   254.0
+  ]
+ },
+ "S03-8": {
+  "source": "Stickman_character_contact_sheet\u2026_4bb6bddb_2K.jpg",
+  "cell": [
+   932,
+   1016,
+   1821,
+   1535
+  ],
+  "native": [
+   885,
+   515
+  ],
+  "upscaled": [
+   3540,
+   2060
+  ],
+  "layer": [
+   1770,
+   1030
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   361,
+   69,
+   1381,
+   1004
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S03-9": {
+  "source": "Stickman_character_contact_sheet\u2026_4bb6bddb_2K.jpg",
+  "cell": [
+   1834,
+   1016,
+   2737,
+   1535
+  ],
+  "native": [
+   888,
+   514
+  ],
+  "upscaled": [
+   3552,
+   2056
+  ],
+  "layer": [
+   1776,
+   1028
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   132,
+   5,
+   1693,
+   1023
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S04-1": {
+  "source": "Stickman_character_grid_contact_\u2026_10131d66_2K.jpg",
+  "cell": [
+   15,
+   10,
+   857,
+   511
+  ],
+  "native": [
+   838,
+   481
+  ],
+  "upscaled": [
+   3352,
+   1924
+  ],
+  "layer": [
+   1676,
+   962
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   973,
+   27,
+   1651,
+   910
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S04-2": {
+  "source": "Stickman_character_grid_contact_\u2026_10131d66_2K.jpg",
+  "cell": [
+   914,
+   10,
+   1839,
+   511
+  ],
+  "native": [
+   921,
+   497
+  ],
+  "upscaled": [
+   3684,
+   1988
+  ],
+  "layer": [
+   1842,
+   994
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   84,
+   218,
+   1062,
+   926
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S04-3": {
+  "source": "Stickman_character_grid_contact_\u2026_10131d66_2K.jpg",
+  "cell": [
+   1896,
+   10,
+   2744,
+   511
+  ],
+  "native": [
+   844,
+   480
+  ],
+  "upscaled": [
+   3376,
+   1920
+  ],
+  "layer": [
+   1688,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   316,
+   128,
+   1684,
+   845
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S04-4": {
+  "source": "Stickman_character_grid_contact_\u2026_10131d66_2K.jpg",
+  "cell": [
+   15,
+   573,
+   857,
+   1032
+  ],
+  "native": [
+   827,
+   455
+  ],
+  "upscaled": [
+   3308,
+   1820
+  ],
+  "layer": [
+   1654,
+   910
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   34,
+   3,
+   1019,
+   573
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S04-5": {
+  "source": "Stickman_character_grid_contact_\u2026_10131d66_2K.jpg",
+  "cell": [
+   914,
+   573,
+   1839,
+   1032
+  ],
+  "native": [
+   921,
+   455
+  ],
+  "upscaled": [
+   3684,
+   1820
+  ],
+  "layer": [
+   1842,
+   910
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1108,
+   3,
+   1769,
+   825
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S04-6": {
+  "source": "Stickman_character_grid_contact_\u2026_10131d66_2K.jpg",
+  "cell": [
+   1896,
+   573,
+   2744,
+   1032
+  ],
+  "native": [
+   830,
+   455
+  ],
+  "upscaled": [
+   3320,
+   1820
+  ],
+  "layer": [
+   1660,
+   910
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   3,
+   4,
+   1065,
+   733
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S04-7": {
+  "source": "Stickman_character_grid_contact_\u2026_10131d66_2K.jpg",
+  "cell": [
+   15,
+   1081,
+   857,
+   1523
+  ],
+  "native": [
+   822,
+   422
+  ],
+  "upscaled": [
+   3288,
+   1688
+  ],
+  "layer": [
+   1644,
+   844
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   234,
+   2,
+   1642,
+   842
+  ],
+  "dark": false,
+  "paper_bgr": [
+   236.0,
+   246.0,
+   253.0
+  ]
+ },
+ "S04-8": {
+  "source": "Stickman_character_grid_contact_\u2026_10131d66_2K.jpg",
+  "cell": [
+   914,
+   1081,
+   1839,
+   1523
+  ],
+  "native": [
+   921,
+   438
+  ],
+  "upscaled": [
+   3684,
+   1752
+  ],
+  "layer": [
+   1842,
+   876
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   14,
+   299,
+   1815,
+   753
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S04-9": {
+  "source": "Stickman_character_grid_contact_\u2026_10131d66_2K.jpg",
+  "cell": [
+   1896,
+   1081,
+   2744,
+   1523
+  ],
+  "native": [
+   812,
+   406
+  ],
+  "upscaled": [
+   3248,
+   1624
+  ],
+  "layer": [
+   1624,
+   812
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1182,
+   126,
+   1461,
+   810
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S05-1": {
+  "source": "Stickman_character_grid_contact_\u2026_23f578d8_2K.jpg",
+  "cell": [
+   15,
+   15,
+   910,
+   516
+  ],
+  "native": [
+   875,
+   481
+  ],
+  "upscaled": [
+   3500,
+   1924
+  ],
+  "layer": [
+   1750,
+   962
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1087,
+   221,
+   1611,
+   753
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S05-2": {
+  "source": "Stickman_character_grid_contact_\u2026_23f578d8_2K.jpg",
+  "cell": [
+   939,
+   15,
+   1815,
+   516
+  ],
+  "native": [
+   871,
+   481
+  ],
+  "upscaled": [
+   3484,
+   1924
+  ],
+  "layer": [
+   1742,
+   962
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   51,
+   132,
+   1738,
+   790
+  ],
+  "dark": true,
+  "paper_bgr": [
+   240.0,
+   252.0,
+   254.0
+  ]
+ },
+ "S05-3": {
+  "source": "Stickman_character_grid_contact_\u2026_23f578d8_2K.jpg",
+  "cell": [
+   1842,
+   15,
+   2737,
+   516
+  ],
+  "native": [
+   874,
+   481
+  ],
+  "upscaled": [
+   3496,
+   1924
+  ],
+  "layer": [
+   1748,
+   962
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   4,
+   164,
+   1744,
+   871
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S05-4": {
+  "source": "Stickman_character_grid_contact_\u2026_23f578d8_2K.jpg",
+  "cell": [
+   15,
+   535,
+   910,
+   1000
+  ],
+  "native": [
+   875,
+   461
+  ],
+  "upscaled": [
+   3500,
+   1844
+  ],
+  "layer": [
+   1750,
+   922
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   107,
+   97,
+   1747,
+   811
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S05-5": {
+  "source": "Stickman_character_grid_contact_\u2026_23f578d8_2K.jpg",
+  "cell": [
+   939,
+   535,
+   1815,
+   1000
+  ],
+  "native": [
+   872,
+   461
+  ],
+  "upscaled": [
+   3488,
+   1844
+  ],
+  "layer": [
+   1744,
+   922
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   4,
+   86,
+   1679,
+   773
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   252.0,
+   254.0
+  ]
+ },
+ "S05-6": {
+  "source": "Stickman_character_grid_contact_\u2026_23f578d8_2K.jpg",
+  "cell": [
+   1842,
+   535,
+   2737,
+   1000
+  ],
+  "native": [
+   874,
+   461
+  ],
+  "upscaled": [
+   3496,
+   1844
+  ],
+  "layer": [
+   1748,
+   922
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   3,
+   137,
+   1745,
+   919
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   253.0
+  ]
+ },
+ "S05-7": {
+  "source": "Stickman_character_grid_contact_\u2026_23f578d8_2K.jpg",
+  "cell": [
+   15,
+   1021,
+   910,
+   1521
+  ],
+  "native": [
+   874,
+   487
+  ],
+  "upscaled": [
+   3496,
+   1948
+  ],
+  "layer": [
+   1748,
+   974
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   499,
+   231,
+   1664,
+   838
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S05-8": {
+  "source": "Stickman_character_grid_contact_\u2026_23f578d8_2K.jpg",
+  "cell": [
+   939,
+   1021,
+   1815,
+   1521
+  ],
+  "native": [
+   871,
+   487
+  ],
+  "upscaled": [
+   3484,
+   1948
+  ],
+  "layer": [
+   1742,
+   974
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   4,
+   52,
+   1732,
+   843
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S05-9": {
+  "source": "Stickman_character_grid_contact_\u2026_23f578d8_2K.jpg",
+  "cell": [
+   1842,
+   1021,
+   2737,
+   1521
+  ],
+  "native": [
+   875,
+   487
+  ],
+  "upscaled": [
+   3500,
+   1948
+  ],
+  "layer": [
+   1750,
+   974
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1037,
+   222,
+   1714,
+   970
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S06-1": {
+  "source": "Stickman_character_life_panels_grid_c9cf5f6d_2K.jpg",
+  "cell": [
+   15,
+   15,
+   857,
+   514
+  ],
+  "native": [
+   833,
+   488
+  ],
+  "upscaled": [
+   3332,
+   1952
+  ],
+  "layer": [
+   1666,
+   976
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   697,
+   4,
+   1656,
+   782
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S06-2": {
+  "source": "Stickman_character_life_panels_grid_c9cf5f6d_2K.jpg",
+  "cell": [
+   915,
+   15,
+   1775,
+   514
+  ],
+  "native": [
+   856,
+   495
+  ],
+  "upscaled": [
+   3424,
+   1980
+  ],
+  "layer": [
+   1712,
+   990
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   143,
+   112,
+   719,
+   945
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S06-3": {
+  "source": "Stickman_character_life_panels_grid_c9cf5f6d_2K.jpg",
+  "cell": [
+   1832,
+   15,
+   2737,
+   514
+  ],
+  "native": [
+   901,
+   495
+  ],
+  "upscaled": [
+   3604,
+   1980
+  ],
+  "layer": [
+   1802,
+   990
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   110,
+   129,
+   1700,
+   794
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S06-4": {
+  "source": "Stickman_character_life_panels_grid_c9cf5f6d_2K.jpg",
+  "cell": [
+   15,
+   573,
+   857,
+   982
+  ],
+  "native": [
+   821,
+   389
+  ],
+  "upscaled": [
+   3284,
+   1556
+  ],
+  "layer": [
+   1642,
+   778
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   90,
+   1,
+   680,
+   718
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S06-5": {
+  "source": "Stickman_character_life_panels_grid_c9cf5f6d_2K.jpg",
+  "cell": [
+   915,
+   573,
+   1775,
+   982
+  ],
+  "native": [
+   856,
+   405
+  ],
+  "upscaled": [
+   3424,
+   1620
+  ],
+  "layer": [
+   1712,
+   810
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1116,
+   2,
+   1710,
+   703
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S06-6": {
+  "source": "Stickman_character_life_panels_grid_c9cf5f6d_2K.jpg",
+  "cell": [
+   1832,
+   573,
+   2737,
+   982
+  ],
+  "native": [
+   885,
+   405
+  ],
+  "upscaled": [
+   3540,
+   1620
+  ],
+  "layer": [
+   1770,
+   810
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   216,
+   4,
+   851,
+   808
+  ],
+  "dark": true,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S06-7": {
+  "source": "Stickman_character_life_panels_grid_c9cf5f6d_2K.jpg",
+  "cell": [
+   15,
+   1026,
+   857,
+   1521
+  ],
+  "native": [
+   834,
+   475
+  ],
+  "upscaled": [
+   3336,
+   1900
+  ],
+  "layer": [
+   1668,
+   950
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   669,
+   200,
+   1616,
+   938
+  ],
+  "dark": false,
+  "paper_bgr": [
+   237.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S06-8": {
+  "source": "Stickman_character_life_panels_grid_c9cf5f6d_2K.jpg",
+  "cell": [
+   915,
+   1026,
+   1775,
+   1521
+  ],
+  "native": [
+   856,
+   491
+  ],
+  "upscaled": [
+   3424,
+   1964
+  ],
+  "layer": [
+   1712,
+   982
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   731,
+   203,
+   1063,
+   973
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S06-9": {
+  "source": "Stickman_character_life_panels_grid_c9cf5f6d_2K.jpg",
+  "cell": [
+   1832,
+   1026,
+   2737,
+   1521
+  ],
+  "native": [
+   892,
+   491
+  ],
+  "upscaled": [
+   3568,
+   1964
+  ],
+  "layer": [
+   1784,
+   982
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   189,
+   277,
+   1614,
+   971
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S07-1": {
+  "source": "Stickman_contact_sheet_design_8d90969a_2K.jpg",
+  "cell": [
+   4,
+   15,
+   922,
+   458
+  ],
+  "native": [
+   897,
+   439
+  ],
+  "upscaled": [
+   3588,
+   1756
+  ],
+  "layer": [
+   1794,
+   878
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1251,
+   357,
+   1725,
+   875
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S07-2": {
+  "source": "Stickman_contact_sheet_design_8d90969a_2K.jpg",
+  "cell": [
+   978,
+   15,
+   1775,
+   458
+  ],
+  "native": [
+   761,
+   423
+  ],
+  "upscaled": [
+   3044,
+   1692
+  ],
+  "layer": [
+   1522,
+   846
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   54,
+   114,
+   868,
+   844
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S07-3": {
+  "source": "Stickman_contact_sheet_design_8d90969a_2K.jpg",
+  "cell": [
+   1831,
+   15,
+   2751,
+   458
+  ],
+  "native": [
+   899,
+   439
+  ],
+  "upscaled": [
+   3596,
+   1756
+  ],
+  "layer": [
+   1798,
+   878
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   136,
+   248,
+   1676,
+   875
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S07-4": {
+  "source": "Stickman_contact_sheet_design_8d90969a_2K.jpg",
+  "cell": [
+   4,
+   504,
+   922,
+   1033
+  ],
+  "native": [
+   914,
+   525
+  ],
+  "upscaled": [
+   3656,
+   2100
+  ],
+  "layer": [
+   1828,
+   1050
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   5,
+   147,
+   1823,
+   1045
+  ],
+  "dark": false,
+  "paper_bgr": [
+   236.0,
+   245.0,
+   252.0
+  ]
+ },
+ "S07-5": {
+  "source": "Stickman_contact_sheet_design_8d90969a_2K.jpg",
+  "cell": [
+   978,
+   504,
+   1775,
+   1033
+  ],
+  "native": [
+   793,
+   525
+  ],
+  "upscaled": [
+   3172,
+   2100
+  ],
+  "layer": [
+   1586,
+   1050
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   259,
+   78,
+   1581,
+   1045
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   249.0,
+   253.0
+  ]
+ },
+ "S07-6": {
+  "source": "Stickman_contact_sheet_design_8d90969a_2K.jpg",
+  "cell": [
+   1831,
+   504,
+   2751,
+   1033
+  ],
+  "native": [
+   916,
+   525
+  ],
+  "upscaled": [
+   3664,
+   2100
+  ],
+  "layer": [
+   1832,
+   1050
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   5,
+   217,
+   1827,
+   1045
+  ],
+  "dark": false,
+  "paper_bgr": [
+   237.0,
+   247.0,
+   252.0
+  ]
+ },
+ "S07-7": {
+  "source": "Stickman_contact_sheet_design_8d90969a_2K.jpg",
+  "cell": [
+   4,
+   1085,
+   922,
+   1535
+  ],
+  "native": [
+   898,
+   446
+  ],
+  "upscaled": [
+   3592,
+   1784
+  ],
+  "layer": [
+   1796,
+   892
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   648,
+   9,
+   1638,
+   851
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S07-8": {
+  "source": "Stickman_contact_sheet_design_8d90969a_2K.jpg",
+  "cell": [
+   978,
+   1085,
+   1775,
+   1535
+  ],
+  "native": [
+   761,
+   414
+  ],
+  "upscaled": [
+   3044,
+   1656
+  ],
+  "layer": [
+   1522,
+   828
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   26,
+   31,
+   735,
+   800
+  ],
+  "dark": false,
+  "paper_bgr": [
+   241.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S07-9": {
+  "source": "Stickman_contact_sheet_design_8d90969a_2K.jpg",
+  "cell": [
+   1831,
+   1085,
+   2751,
+   1535
+  ],
+  "native": [
+   900,
+   446
+  ],
+  "upscaled": [
+   3600,
+   1784
+  ],
+  "layer": [
+   1800,
+   892
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   637,
+   154,
+   1612,
+   846
+  ],
+  "dark": true,
+  "paper_bgr": [
+   240.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S08-1": {
+  "source": "Stickman_contact_sheet_grid_b9c2261f_2K.jpg",
+  "cell": [
+   15,
+   15,
+   920,
+   515
+  ],
+  "native": [
+   898,
+   494
+  ],
+  "upscaled": [
+   3592,
+   1976
+  ],
+  "layer": [
+   1796,
+   988
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   736,
+   84,
+   1752,
+   951
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S08-2": {
+  "source": "Stickman_contact_sheet_grid_b9c2261f_2K.jpg",
+  "cell": [
+   978,
+   15,
+   1775,
+   515
+  ],
+  "native": [
+   793,
+   487
+  ],
+  "upscaled": [
+   3172,
+   1948
+  ],
+  "layer": [
+   1586,
+   974
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   4,
+   5,
+   1059,
+   934
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S08-3": {
+  "source": "Stickman_contact_sheet_grid_b9c2261f_2K.jpg",
+  "cell": [
+   1833,
+   15,
+   2737,
+   515
+  ],
+  "native": [
+   900,
+   490
+  ],
+  "upscaled": [
+   3600,
+   1960
+  ],
+  "layer": [
+   1800,
+   980
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   731,
+   80,
+   1718,
+   949
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S08-4": {
+  "source": "Stickman_contact_sheet_grid_b9c2261f_2K.jpg",
+  "cell": [
+   15,
+   573,
+   920,
+   1026
+  ],
+  "native": [
+   885,
+   446
+  ],
+  "upscaled": [
+   3540,
+   1784
+  ],
+  "layer": [
+   1770,
+   892
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   106,
+   3,
+   882,
+   861
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S08-5": {
+  "source": "Stickman_contact_sheet_grid_b9c2261f_2K.jpg",
+  "cell": [
+   978,
+   573,
+   1775,
+   1026
+  ],
+  "native": [
+   793,
+   445
+  ],
+  "upscaled": [
+   3172,
+   1780
+  ],
+  "layer": [
+   1586,
+   890
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   841,
+   3,
+   1583,
+   855
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S08-6": {
+  "source": "Stickman_contact_sheet_grid_b9c2261f_2K.jpg",
+  "cell": [
+   1833,
+   573,
+   2737,
+   1026
+  ],
+  "native": [
+   899,
+   445
+  ],
+  "upscaled": [
+   3596,
+   1780
+  ],
+  "layer": [
+   1798,
+   890
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   131,
+   96,
+   954,
+   763
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S08-7": {
+  "source": "Stickman_contact_sheet_grid_b9c2261f_2K.jpg",
+  "cell": [
+   15,
+   1085,
+   920,
+   1521
+  ],
+  "native": [
+   885,
+   424
+  ],
+  "upscaled": [
+   3540,
+   1696
+  ],
+  "layer": [
+   1770,
+   848
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1043,
+   9,
+   1667,
+   846
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S08-8": {
+  "source": "Stickman_contact_sheet_grid_b9c2261f_2K.jpg",
+  "cell": [
+   978,
+   1085,
+   1775,
+   1521
+  ],
+  "native": [
+   761,
+   400
+  ],
+  "upscaled": [
+   3044,
+   1600
+  ],
+  "layer": [
+   1522,
+   800
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   209,
+   33,
+   757,
+   798
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S08-9": {
+  "source": "Stickman_contact_sheet_grid_b9c2261f_2K.jpg",
+  "cell": [
+   1833,
+   1085,
+   2737,
+   1521
+  ],
+  "native": [
+   884,
+   431
+  ],
+  "upscaled": [
+   3536,
+   1724
+  ],
+  "layer": [
+   1768,
+   862
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1107,
+   4,
+   1600,
+   852
+  ],
+  "dark": true,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S09-1": {
+  "source": "Stickman_contact_sheet_grid_bc6196b4_2K.jpg",
+  "cell": [
+   15,
+   15,
+   910,
+   502
+  ],
+  "native": [
+   879,
+   480
+  ],
+  "upscaled": [
+   3516,
+   1920
+  ],
+  "layer": [
+   1758,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   859,
+   95,
+   1752,
+   937
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S09-2": {
+  "source": "Stickman_contact_sheet_grid_bc6196b4_2K.jpg",
+  "cell": [
+   936,
+   15,
+   1818,
+   502
+  ],
+  "native": [
+   877,
+   480
+  ],
+  "upscaled": [
+   3508,
+   1920
+  ],
+  "layer": [
+   1754,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   136,
+   227,
+   813,
+   912
+  ],
+  "dark": false,
+  "paper_bgr": [
+   242.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S09-3": {
+  "source": "Stickman_contact_sheet_grid_bc6196b4_2K.jpg",
+  "cell": [
+   1843,
+   15,
+   2737,
+   502
+  ],
+  "native": [
+   878,
+   480
+  ],
+  "upscaled": [
+   3512,
+   1920
+  ],
+  "layer": [
+   1756,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   840,
+   177,
+   1627,
+   956
+  ],
+  "dark": false,
+  "paper_bgr": [
+   241.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S09-4": {
+  "source": "Stickman_contact_sheet_grid_bc6196b4_2K.jpg",
+  "cell": [
+   15,
+   526,
+   910,
+   1010
+  ],
+  "native": [
+   878,
+   480
+  ],
+  "upscaled": [
+   3512,
+   1920
+  ],
+  "layer": [
+   1756,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   84,
+   307,
+   1117,
+   890
+  ],
+  "dark": true,
+  "paper_bgr": [
+   240.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S09-5": {
+  "source": "Stickman_contact_sheet_grid_bc6196b4_2K.jpg",
+  "cell": [
+   936,
+   526,
+   1818,
+   1010
+  ],
+  "native": [
+   877,
+   480
+  ],
+  "upscaled": [
+   3508,
+   1920
+  ],
+  "layer": [
+   1754,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1046,
+   105,
+   1604,
+   956
+  ],
+  "dark": false,
+  "paper_bgr": [
+   242.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S09-6": {
+  "source": "Stickman_contact_sheet_grid_bc6196b4_2K.jpg",
+  "cell": [
+   1843,
+   526,
+   2737,
+   1010
+  ],
+  "native": [
+   879,
+   480
+  ],
+  "upscaled": [
+   3516,
+   1920
+  ],
+  "layer": [
+   1758,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   42,
+   208,
+   938,
+   924
+  ],
+  "dark": false,
+  "paper_bgr": [
+   241.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S09-7": {
+  "source": "Stickman_contact_sheet_grid_bc6196b4_2K.jpg",
+  "cell": [
+   15,
+   1034,
+   910,
+   1521
+  ],
+  "native": [
+   878,
+   480
+  ],
+  "upscaled": [
+   3512,
+   1920
+  ],
+  "layer": [
+   1756,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   703,
+   159,
+   1716,
+   874
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S09-8": {
+  "source": "Stickman_contact_sheet_grid_bc6196b4_2K.jpg",
+  "cell": [
+   936,
+   1034,
+   1818,
+   1521
+  ],
+  "native": [
+   877,
+   480
+  ],
+  "upscaled": [
+   3508,
+   1920
+  ],
+  "layer": [
+   1754,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   320,
+   47,
+   836,
+   937
+  ],
+  "dark": false,
+  "paper_bgr": [
+   243.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S09-9": {
+  "source": "Stickman_contact_sheet_grid_bc6196b4_2K.jpg",
+  "cell": [
+   1843,
+   1034,
+   2737,
+   1521
+  ],
+  "native": [
+   878,
+   480
+  ],
+  "upscaled": [
+   3512,
+   1920
+  ],
+  "layer": [
+   1756,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   754,
+   118,
+   1576,
+   944
+  ],
+  "dark": false,
+  "paper_bgr": [
+   242.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S10-1": {
+  "source": "Stickman_contact_sheet_grid_bce8450a_2K.jpg",
+  "cell": [
+   15,
+   15,
+   857,
+   452
+  ],
+  "native": [
+   822,
+   408
+  ],
+  "upscaled": [
+   3288,
+   1632
+  ],
+  "layer": [
+   1644,
+   816
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   406,
+   85,
+   1642,
+   814
+  ],
+  "dark": false,
+  "paper_bgr": [
+   237.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S10-2": {
+  "source": "Stickman_contact_sheet_grid_bce8450a_2K.jpg",
+  "cell": [
+   913,
+   15,
+   1841,
+   452
+  ],
+  "native": [
+   924,
+   428
+  ],
+  "upscaled": [
+   3696,
+   1712
+  ],
+  "layer": [
+   1848,
+   856
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   180,
+   90,
+   1236,
+   854
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S10-3": {
+  "source": "Stickman_contact_sheet_grid_bce8450a_2K.jpg",
+  "cell": [
+   1896,
+   15,
+   2737,
+   452
+  ],
+  "native": [
+   805,
+   418
+  ],
+  "upscaled": [
+   3220,
+   1672
+  ],
+  "layer": [
+   1610,
+   836
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   751,
+   2,
+   1607,
+   834
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S10-4": {
+  "source": "Stickman_contact_sheet_grid_bce8450a_2K.jpg",
+  "cell": [
+   15,
+   479,
+   857,
+   964
+  ],
+  "native": [
+   823,
+   480
+  ],
+  "upscaled": [
+   3292,
+   1920
+  ],
+  "layer": [
+   1646,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   4,
+   9,
+   849,
+   956
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S10-5": {
+  "source": "Stickman_contact_sheet_grid_bce8450a_2K.jpg",
+  "cell": [
+   913,
+   479,
+   1841,
+   964
+  ],
+  "native": [
+   924,
+   481
+  ],
+  "upscaled": [
+   3696,
+   1924
+  ],
+  "layer": [
+   1848,
+   962
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   834,
+   4,
+   1728,
+   958
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S10-6": {
+  "source": "Stickman_contact_sheet_grid_bce8450a_2K.jpg",
+  "cell": [
+   1896,
+   479,
+   2737,
+   964
+  ],
+  "native": [
+   822,
+   481
+  ],
+  "upscaled": [
+   3288,
+   1924
+  ],
+  "layer": [
+   1644,
+   962
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   70,
+   63,
+   568,
+   958
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S10-7": {
+  "source": "Stickman_contact_sheet_grid_bce8450a_2K.jpg",
+  "cell": [
+   15,
+   1009,
+   857,
+   1521
+  ],
+  "native": [
+   822,
+   502
+  ],
+  "upscaled": [
+   3288,
+   2008
+  ],
+  "layer": [
+   1644,
+   1004
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1133,
+   99,
+   1623,
+   999
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S10-8": {
+  "source": "Stickman_contact_sheet_grid_bce8450a_2K.jpg",
+  "cell": [
+   913,
+   1009,
+   1841,
+   1521
+  ],
+  "native": [
+   924,
+   505
+  ],
+  "upscaled": [
+   3696,
+   2020
+  ],
+  "layer": [
+   1848,
+   1010
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   5,
+   247,
+   1824,
+   1005
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   250.0,
+   253.0
+  ]
+ },
+ "S10-9": {
+  "source": "Stickman_contact_sheet_grid_bce8450a_2K.jpg",
+  "cell": [
+   1896,
+   1009,
+   2737,
+   1521
+  ],
+  "native": [
+   823,
+   492
+  ],
+  "upscaled": [
+   3292,
+   1968
+  ],
+  "layer": [
+   1646,
+   984
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   395,
+   308,
+   1515,
+   980
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   253.0
+  ]
+ },
+ "S11-1": {
+  "source": "Stickman_contact_sheet_grid_layout_7236d8b9_2K.jpg",
+  "cell": [
+   15,
+   15,
+   910,
+   508
+  ],
+  "native": [
+   870,
+   472
+  ],
+  "upscaled": [
+   3480,
+   1888
+  ],
+  "layer": [
+   1740,
+   944
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   20,
+   214,
+   1736,
+   940
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S11-2": {
+  "source": "Stickman_contact_sheet_grid_layout_7236d8b9_2K.jpg",
+  "cell": [
+   938,
+   15,
+   1818,
+   508
+  ],
+  "native": [
+   876,
+   471
+  ],
+  "upscaled": [
+   3504,
+   1884
+  ],
+  "layer": [
+   1752,
+   942
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   129,
+   228,
+   1651,
+   880
+  ],
+  "dark": true,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S11-3": {
+  "source": "Stickman_contact_sheet_grid_layout_7236d8b9_2K.jpg",
+  "cell": [
+   1845,
+   15,
+   2737,
+   508
+  ],
+  "native": [
+   872,
+   472
+  ],
+  "upscaled": [
+   3488,
+   1888
+  ],
+  "layer": [
+   1744,
+   944
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1206,
+   170,
+   1599,
+   933
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S11-4": {
+  "source": "Stickman_contact_sheet_grid_layout_7236d8b9_2K.jpg",
+  "cell": [
+   15,
+   533,
+   910,
+   1013
+  ],
+  "native": [
+   875,
+   472
+  ],
+  "upscaled": [
+   3500,
+   1888
+  ],
+  "layer": [
+   1750,
+   944
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   100,
+   288,
+   1403,
+   940
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S11-5": {
+  "source": "Stickman_contact_sheet_grid_layout_7236d8b9_2K.jpg",
+  "cell": [
+   938,
+   533,
+   1818,
+   1013
+  ],
+  "native": [
+   876,
+   472
+  ],
+  "upscaled": [
+   3504,
+   1888
+  ],
+  "layer": [
+   1752,
+   944
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   893,
+   189,
+   1748,
+   940
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   253.0
+  ]
+ },
+ "S11-6": {
+  "source": "Stickman_contact_sheet_grid_layout_7236d8b9_2K.jpg",
+  "cell": [
+   1845,
+   533,
+   2737,
+   1013
+  ],
+  "native": [
+   872,
+   472
+  ],
+  "upscaled": [
+   3488,
+   1888
+  ],
+  "layer": [
+   1744,
+   944
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   14,
+   32,
+   835,
+   940
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S11-7": {
+  "source": "Stickman_contact_sheet_grid_layout_7236d8b9_2K.jpg",
+  "cell": [
+   15,
+   1035,
+   910,
+   1521
+  ],
+  "native": [
+   875,
+   474
+  ],
+  "upscaled": [
+   3500,
+   1896
+  ],
+  "layer": [
+   1750,
+   948
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1047,
+   355,
+   1649,
+   912
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   247.0,
+   254.0
+  ]
+ },
+ "S11-8": {
+  "source": "Stickman_contact_sheet_grid_layout_7236d8b9_2K.jpg",
+  "cell": [
+   938,
+   1035,
+   1818,
+   1521
+  ],
+  "native": [
+   876,
+   474
+  ],
+  "upscaled": [
+   3504,
+   1896
+  ],
+  "layer": [
+   1752,
+   948
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   192,
+   179,
+   729,
+   931
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S11-9": {
+  "source": "Stickman_contact_sheet_grid_layout_7236d8b9_2K.jpg",
+  "cell": [
+   1845,
+   1035,
+   2737,
+   1521
+  ],
+  "native": [
+   872,
+   474
+  ],
+  "upscaled": [
+   3488,
+   1896
+  ],
+  "layer": [
+   1744,
+   948
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   963,
+   313,
+   1739,
+   905
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   250.0,
+   253.0
+  ]
+ },
+ "S12-1": {
+  "source": "Stickman_contact_sheet_layout_f40963cb_2K.jpg",
+  "cell": [
+   12,
+   15,
+   922,
+   514
+  ],
+  "native": [
+   906,
+   491
+  ],
+  "upscaled": [
+   3624,
+   1964
+  ],
+  "layer": [
+   1812,
+   982
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   698,
+   18,
+   1807,
+   940
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S12-2": {
+  "source": "Stickman_contact_sheet_layout_f40963cb_2K.jpg",
+  "cell": [
+   978,
+   15,
+   1775,
+   514
+  ],
+  "native": [
+   793,
+   479
+  ],
+  "upscaled": [
+   3172,
+   1916
+  ],
+  "layer": [
+   1586,
+   958
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   4,
+   85,
+   1582,
+   883
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   252.0,
+   254.0
+  ]
+ },
+ "S12-3": {
+  "source": "Stickman_contact_sheet_layout_f40963cb_2K.jpg",
+  "cell": [
+   1831,
+   15,
+   2743,
+   514
+  ],
+  "native": [
+   908,
+   491
+  ],
+  "upscaled": [
+   3632,
+   1964
+  ],
+  "layer": [
+   1816,
+   982
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   151,
+   158,
+   1744,
+   908
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S12-4": {
+  "source": "Stickman_contact_sheet_layout_f40963cb_2K.jpg",
+  "cell": [
+   12,
+   556,
+   922,
+   1029
+  ],
+  "native": [
+   906,
+   469
+  ],
+  "upscaled": [
+   3624,
+   1876
+  ],
+  "layer": [
+   1812,
+   938
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   35,
+   7,
+   1729,
+   845
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S12-5": {
+  "source": "Stickman_contact_sheet_layout_f40963cb_2K.jpg",
+  "cell": [
+   978,
+   556,
+   1775,
+   1029
+  ],
+  "native": [
+   793,
+   468
+  ],
+  "upscaled": [
+   3172,
+   1872
+  ],
+  "layer": [
+   1586,
+   936
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   468,
+   4,
+   1582,
+   821
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   253.0
+  ]
+ },
+ "S12-6": {
+  "source": "Stickman_contact_sheet_layout_f40963cb_2K.jpg",
+  "cell": [
+   1831,
+   556,
+   2743,
+   1029
+  ],
+  "native": [
+   908,
+   469
+  ],
+  "upscaled": [
+   3632,
+   1876
+  ],
+  "layer": [
+   1816,
+   938
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   73,
+   142,
+   1734,
+   870
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S12-7": {
+  "source": "Stickman_contact_sheet_layout_f40963cb_2K.jpg",
+  "cell": [
+   12,
+   1085,
+   922,
+   1521
+  ],
+  "native": [
+   890,
+   432
+  ],
+  "upscaled": [
+   3560,
+   1728
+  ],
+  "layer": [
+   1780,
+   864
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   93,
+   2,
+   1729,
+   853
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S12-8": {
+  "source": "Stickman_contact_sheet_layout_f40963cb_2K.jpg",
+  "cell": [
+   978,
+   1085,
+   1775,
+   1521
+  ],
+  "native": [
+   785,
+   416
+  ],
+  "upscaled": [
+   3140,
+   1664
+  ],
+  "layer": [
+   1570,
+   832
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   35,
+   2,
+   1508,
+   827
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S12-9": {
+  "source": "Stickman_contact_sheet_layout_f40963cb_2K.jpg",
+  "cell": [
+   1831,
+   1085,
+   2743,
+   1521
+  ],
+  "native": [
+   892,
+   426
+  ],
+  "upscaled": [
+   3568,
+   1704
+  ],
+  "layer": [
+   1784,
+   852
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   111,
+   153,
+   1781,
+   836
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S13-1": {
+  "source": "Stickman_contact_sheet_series_9e38fe27_2K.jpg",
+  "cell": [
+   15,
+   15,
+   914,
+   500
+  ],
+  "native": [
+   879,
+   470
+  ],
+  "upscaled": [
+   3516,
+   1880
+  ],
+  "layer": [
+   1758,
+   940
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   722,
+   280,
+   1754,
+   885
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S13-2": {
+  "source": "Stickman_contact_sheet_series_9e38fe27_2K.jpg",
+  "cell": [
+   933,
+   15,
+   1816,
+   500
+  ],
+  "native": [
+   874,
+   470
+  ],
+  "upscaled": [
+   3496,
+   1880
+  ],
+  "layer": [
+   1748,
+   940
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   104,
+   131,
+   569,
+   900
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S13-3": {
+  "source": "Stickman_contact_sheet_series_9e38fe27_2K.jpg",
+  "cell": [
+   1835,
+   15,
+   2737,
+   500
+  ],
+  "native": [
+   876,
+   470
+  ],
+  "upscaled": [
+   3504,
+   1880
+  ],
+  "layer": [
+   1752,
+   940
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   235,
+   99,
+   1748,
+   867
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S13-4": {
+  "source": "Stickman_contact_sheet_series_9e38fe27_2K.jpg",
+  "cell": [
+   15,
+   523,
+   914,
+   1005
+  ],
+  "native": [
+   879,
+   473
+  ],
+  "upscaled": [
+   3516,
+   1892
+  ],
+  "layer": [
+   1758,
+   946
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   120,
+   31,
+   1386,
+   908
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S13-5": {
+  "source": "Stickman_contact_sheet_series_9e38fe27_2K.jpg",
+  "cell": [
+   933,
+   523,
+   1816,
+   1005
+  ],
+  "native": [
+   875,
+   477
+  ],
+  "upscaled": [
+   3500,
+   1908
+  ],
+  "layer": [
+   1750,
+   954
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   444,
+   49,
+   1640,
+   909
+  ],
+  "dark": false,
+  "paper_bgr": [
+   241.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S13-6": {
+  "source": "Stickman_contact_sheet_series_9e38fe27_2K.jpg",
+  "cell": [
+   1835,
+   523,
+   2737,
+   1005
+  ],
+  "native": [
+   877,
+   474
+  ],
+  "upscaled": [
+   3508,
+   1896
+  ],
+  "layer": [
+   1754,
+   948
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   114,
+   39,
+   1078,
+   911
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S13-7": {
+  "source": "Stickman_contact_sheet_series_9e38fe27_2K.jpg",
+  "cell": [
+   15,
+   1030,
+   914,
+   1521
+  ],
+  "native": [
+   879,
+   481
+  ],
+  "upscaled": [
+   3516,
+   1924
+  ],
+  "layer": [
+   1758,
+   962
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   206,
+   107,
+   1713,
+   921
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S13-8": {
+  "source": "Stickman_contact_sheet_series_9e38fe27_2K.jpg",
+  "cell": [
+   933,
+   1030,
+   1816,
+   1521
+  ],
+  "native": [
+   879,
+   487
+  ],
+  "upscaled": [
+   3516,
+   1948
+  ],
+  "layer": [
+   1758,
+   974
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   4,
+   4,
+   1754,
+   970
+  ],
+  "dark": false,
+  "paper_bgr": [
+   62.0,
+   68.0,
+   75.0
+  ]
+ },
+ "S13-9": {
+  "source": "Stickman_contact_sheet_series_9e38fe27_2K.jpg",
+  "cell": [
+   1835,
+   1030,
+   2737,
+   1521
+  ],
+  "native": [
+   882,
+   486
+  ],
+  "upscaled": [
+   3528,
+   1944
+  ],
+  "layer": [
+   1764,
+   972
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   4,
+   4,
+   1760,
+   968
+  ],
+  "dark": false,
+  "paper_bgr": [
+   97.0,
+   104.0,
+   112.0
+  ]
+ },
+ "S14-1": {
+  "source": "Stickman_discovering_void_in_floor_9d3eb64d_2K.jpg",
+  "cell": [
+   1,
+   15,
+   857,
+   452
+  ],
+  "native": [
+   820,
+   417
+  ],
+  "upscaled": [
+   3280,
+   1668
+  ],
+  "layer": [
+   1640,
+   834
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   360,
+   2,
+   1638,
+   832
+  ],
+  "dark": false,
+  "paper_bgr": [
+   14.0,
+   19.0,
+   22.0
+  ]
+ },
+ "S14-2": {
+  "source": "Stickman_discovering_void_in_floor_9d3eb64d_2K.jpg",
+  "cell": [
+   978,
+   15,
+   1775,
+   452
+  ],
+  "native": [
+   766,
+   401
+  ],
+  "upscaled": [
+   3064,
+   1604
+  ],
+  "layer": [
+   1532,
+   802
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   49,
+   38,
+   1530,
+   800
+  ],
+  "dark": false,
+  "paper_bgr": [
+   14.0,
+   19.0,
+   22.0
+  ]
+ },
+ "S14-3": {
+  "source": "Stickman_discovering_void_in_floor_9d3eb64d_2K.jpg",
+  "cell": [
+   1896,
+   15,
+   2737,
+   452
+  ],
+  "native": [
+   805,
+   401
+  ],
+  "upscaled": [
+   3220,
+   1604
+  ],
+  "layer": [
+   1610,
+   802
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   0,
+   0,
+   1610,
+   802
+  ],
+  "dark": false,
+  "paper_bgr": [
+   15.0,
+   20.0,
+   23.0
+  ]
+ },
+ "S14-4": {
+  "source": "Stickman_discovering_void_in_floor_9d3eb64d_2K.jpg",
+  "cell": [
+   1,
+   573,
+   857,
+   964
+  ],
+  "native": [
+   836,
+   387
+  ],
+  "upscaled": [
+   3344,
+   1548
+  ],
+  "layer": [
+   1672,
+   774
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1,
+   1,
+   1671,
+   773
+  ],
+  "dark": false,
+  "paper_bgr": [
+   15.0,
+   20.0,
+   23.0
+  ]
+ },
+ "S14-5": {
+  "source": "Stickman_discovering_void_in_floor_9d3eb64d_2K.jpg",
+  "cell": [
+   978,
+   573,
+   1775,
+   964
+  ],
+  "native": [
+   766,
+   355
+  ],
+  "upscaled": [
+   3064,
+   1420
+  ],
+  "layer": [
+   1532,
+   710
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   0,
+   0,
+   1481,
+   710
+  ],
+  "dark": false,
+  "paper_bgr": [
+   14.0,
+   19.0,
+   22.0
+  ]
+ },
+ "S14-6": {
+  "source": "Stickman_discovering_void_in_floor_9d3eb64d_2K.jpg",
+  "cell": [
+   1896,
+   573,
+   2737,
+   964
+  ],
+  "native": [
+   805,
+   355
+  ],
+  "upscaled": [
+   3220,
+   1420
+  ],
+  "layer": [
+   1610,
+   710
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   0,
+   0,
+   1610,
+   710
+  ],
+  "dark": false,
+  "paper_bgr": [
+   15.0,
+   20.0,
+   23.0
+  ]
+ },
+ "S14-7": {
+  "source": "Stickman_discovering_void_in_floor_9d3eb64d_2K.jpg",
+  "cell": [
+   1,
+   1085,
+   857,
+   1521
+  ],
+  "native": [
+   820,
+   400
+  ],
+  "upscaled": [
+   3280,
+   1600
+  ],
+  "layer": [
+   1640,
+   800
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   874,
+   2,
+   1638,
+   681
+  ],
+  "dark": false,
+  "paper_bgr": [
+   14.0,
+   19.0,
+   22.0
+  ]
+ },
+ "S14-8": {
+  "source": "Stickman_discovering_void_in_floor_9d3eb64d_2K.jpg",
+  "cell": [
+   978,
+   1085,
+   1775,
+   1521
+  ],
+  "native": [
+   761,
+   415
+  ],
+  "upscaled": [
+   3044,
+   1660
+  ],
+  "layer": [
+   1522,
+   830
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   2,
+   2,
+   1301,
+   639
+  ],
+  "dark": false,
+  "paper_bgr": [
+   14.0,
+   19.0,
+   22.0
+  ]
+ },
+ "S14-9": {
+  "source": "Stickman_discovering_void_in_floor_9d3eb64d_2K.jpg",
+  "cell": [
+   1896,
+   1085,
+   2737,
+   1521
+  ],
+  "native": [
+   805,
+   400
+  ],
+  "upscaled": [
+   3220,
+   1600
+  ],
+  "layer": [
+   1610,
+   800
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1397,
+   590,
+   1503,
+   690
+  ],
+  "dark": false,
+  "paper_bgr": [
+   15.0,
+   20.0,
+   23.0
+  ]
+ },
+ "S15-1": {
+  "source": "Stickman_grid_contact_sheet_actions_8b193ba1_2K.jpg",
+  "cell": [
+   15,
+   15,
+   857,
+   516
+  ],
+  "native": [
+   830,
+   486
+  ],
+  "upscaled": [
+   3320,
+   1944
+  ],
+  "layer": [
+   1660,
+   972
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   933,
+   27,
+   1656,
+   945
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S15-2": {
+  "source": "Stickman_grid_contact_sheet_actions_8b193ba1_2K.jpg",
+  "cell": [
+   913,
+   15,
+   1840,
+   516
+  ],
+  "native": [
+   923,
+   497
+  ],
+  "upscaled": [
+   3692,
+   1988
+  ],
+  "layer": [
+   1846,
+   994
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   101,
+   235,
+   1103,
+   947
+  ],
+  "dark": false,
+  "paper_bgr": [
+   242.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S15-3": {
+  "source": "Stickman_grid_contact_sheet_actions_8b193ba1_2K.jpg",
+  "cell": [
+   1896,
+   15,
+   2737,
+   516
+  ],
+  "native": [
+   827,
+   481
+  ],
+  "upscaled": [
+   3308,
+   1924
+  ],
+  "layer": [
+   1654,
+   962
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1060,
+   34,
+   1569,
+   912
+  ],
+  "dark": false,
+  "paper_bgr": [
+   241.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S15-4": {
+  "source": "Stickman_grid_contact_sheet_actions_8b193ba1_2K.jpg",
+  "cell": [
+   15,
+   563,
+   857,
+   995
+  ],
+  "native": [
+   806,
+   428
+  ],
+  "upscaled": [
+   3224,
+   1712
+  ],
+  "layer": [
+   1612,
+   856
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   50,
+   2,
+   1029,
+   854
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S15-5": {
+  "source": "Stickman_grid_contact_sheet_actions_8b193ba1_2K.jpg",
+  "cell": [
+   913,
+   563,
+   1840,
+   995
+  ],
+  "native": [
+   923,
+   428
+  ],
+  "upscaled": [
+   3692,
+   1712
+  ],
+  "layer": [
+   1846,
+   856
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1143,
+   35,
+   1789,
+   849
+  ],
+  "dark": false,
+  "paper_bgr": [
+   241.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S15-6": {
+  "source": "Stickman_grid_contact_sheet_actions_8b193ba1_2K.jpg",
+  "cell": [
+   1896,
+   563,
+   2737,
+   995
+  ],
+  "native": [
+   805,
+   424
+  ],
+  "upscaled": [
+   3220,
+   1696
+  ],
+  "layer": [
+   1610,
+   848
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   2,
+   2,
+   677,
+   846
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   249.0,
+   253.0
+  ]
+ },
+ "S15-7": {
+  "source": "Stickman_grid_contact_sheet_actions_8b193ba1_2K.jpg",
+  "cell": [
+   15,
+   1031,
+   857,
+   1535
+  ],
+  "native": [
+   822,
+   482
+  ],
+  "upscaled": [
+   3288,
+   1928
+  ],
+  "layer": [
+   1644,
+   964
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   922,
+   134,
+   1586,
+   960
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S15-8": {
+  "source": "Stickman_grid_contact_sheet_actions_8b193ba1_2K.jpg",
+  "cell": [
+   913,
+   1031,
+   1840,
+   1535
+  ],
+  "native": [
+   923,
+   500
+  ],
+  "upscaled": [
+   3692,
+   2000
+  ],
+  "layer": [
+   1846,
+   1000
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   5,
+   5,
+   1841,
+   995
+  ],
+  "dark": false,
+  "paper_bgr": [
+   147.0,
+   158.0,
+   168.0
+  ]
+ },
+ "S15-9": {
+  "source": "Stickman_grid_contact_sheet_actions_8b193ba1_2K.jpg",
+  "cell": [
+   1896,
+   1031,
+   2737,
+   1535
+  ],
+  "native": [
+   821,
+   484
+  ],
+  "upscaled": [
+   3284,
+   1936
+  ],
+  "layer": [
+   1642,
+   968
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   8,
+   97,
+   1606,
+   955
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   250.0,
+   253.0
+  ]
+ },
+ "S16-1": {
+  "source": "Stickman_grid_contact_sheet_eb5e08e9_2K.jpg",
+  "cell": [
+   15,
+   1,
+   857,
+   458
+  ],
+  "native": [
+   822,
+   427
+  ],
+  "upscaled": [
+   3288,
+   1708
+  ],
+  "layer": [
+   1644,
+   854
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   49,
+   5,
+   1595,
+   852
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S16-2": {
+  "source": "Stickman_grid_contact_sheet_eb5e08e9_2K.jpg",
+  "cell": [
+   913,
+   1,
+   1775,
+   458
+  ],
+  "native": [
+   858,
+   442
+  ],
+  "upscaled": [
+   3432,
+   1768
+  ],
+  "layer": [
+   1716,
+   884
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   68,
+   204,
+   1708,
+   881
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S16-3": {
+  "source": "Stickman_grid_contact_sheet_eb5e08e9_2K.jpg",
+  "cell": [
+   1832,
+   1,
+   2737,
+   458
+  ],
+  "native": [
+   885,
+   453
+  ],
+  "upscaled": [
+   3540,
+   1812
+  ],
+  "layer": [
+   1770,
+   906
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   3,
+   3,
+   1751,
+   903
+  ],
+  "dark": false,
+  "paper_bgr": [
+   237.0,
+   248.0,
+   253.0
+  ]
+ },
+ "S16-4": {
+  "source": "Stickman_grid_contact_sheet_eb5e08e9_2K.jpg",
+  "cell": [
+   15,
+   505,
+   857,
+   972
+  ],
+  "native": [
+   831,
+   447
+  ],
+  "upscaled": [
+   3324,
+   1788
+  ],
+  "layer": [
+   1662,
+   894
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   124,
+   144,
+   1072,
+   787
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S16-5": {
+  "source": "Stickman_grid_contact_sheet_eb5e08e9_2K.jpg",
+  "cell": [
+   913,
+   505,
+   1775,
+   972
+  ],
+  "native": [
+   858,
+   463
+  ],
+  "upscaled": [
+   3432,
+   1852
+  ],
+  "layer": [
+   1716,
+   926
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   125,
+   97,
+   1713,
+   923
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S16-6": {
+  "source": "Stickman_grid_contact_sheet_eb5e08e9_2K.jpg",
+  "cell": [
+   1832,
+   505,
+   2737,
+   972
+  ],
+  "native": [
+   895,
+   463
+  ],
+  "upscaled": [
+   3580,
+   1852
+  ],
+  "layer": [
+   1790,
+   926
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   3,
+   3,
+   1787,
+   840
+  ],
+  "dark": false,
+  "paper_bgr": [
+   237.0,
+   247.0,
+   253.0
+  ]
+ },
+ "S16-7": {
+  "source": "Stickman_grid_contact_sheet_eb5e08e9_2K.jpg",
+  "cell": [
+   15,
+   1023,
+   857,
+   1534
+  ],
+  "native": [
+   826,
+   505
+  ],
+  "upscaled": [
+   3304,
+   2020
+  ],
+  "layer": [
+   1652,
+   1010
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   55,
+   68,
+   1647,
+   1005
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S16-8": {
+  "source": "Stickman_grid_contact_sheet_eb5e08e9_2K.jpg",
+  "cell": [
+   913,
+   1023,
+   1775,
+   1534
+  ],
+  "native": [
+   858,
+   494
+  ],
+  "upscaled": [
+   3432,
+   1976
+  ],
+  "layer": [
+   1716,
+   988
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   133,
+   281,
+   1686,
+   941
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S16-9": {
+  "source": "Stickman_grid_contact_sheet_eb5e08e9_2K.jpg",
+  "cell": [
+   1832,
+   1023,
+   2737,
+   1534
+  ],
+  "native": [
+   885,
+   491
+  ],
+  "upscaled": [
+   3540,
+   1964
+  ],
+  "layer": [
+   1770,
+   982
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   64,
+   81,
+   1766,
+   978
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S17-1": {
+  "source": "Stickman_grid_contact_sheet_panels_46e2ecd2_2K.jpg",
+  "cell": [
+   15,
+   15,
+   894,
+   515
+  ],
+  "native": [
+   859,
+   487
+  ],
+  "upscaled": [
+   3436,
+   1948
+  ],
+  "layer": [
+   1718,
+   974
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   706,
+   4,
+   1676,
+   943
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "S17-2": {
+  "source": "Stickman_grid_contact_sheet_panels_46e2ecd2_2K.jpg",
+  "cell": [
+   916,
+   15,
+   1836,
+   515
+  ],
+  "native": [
+   916,
+   484
+  ],
+  "upscaled": [
+   3664,
+   1936
+  ],
+  "layer": [
+   1832,
+   968
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   157,
+   177,
+   1123,
+   940
+  ],
+  "dark": false,
+  "paper_bgr": [
+   241.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S17-3": {
+  "source": "Stickman_grid_contact_sheet_panels_46e2ecd2_2K.jpg",
+  "cell": [
+   1896,
+   15,
+   2745,
+   515
+  ],
+  "native": [
+   845,
+   480
+  ],
+  "upscaled": [
+   3380,
+   1920
+  ],
+  "layer": [
+   1690,
+   960
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   528,
+   80,
+   1686,
+   944
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   250.0,
+   253.0
+  ]
+ },
+ "S17-4": {
+  "source": "Stickman_grid_contact_sheet_panels_46e2ecd2_2K.jpg",
+  "cell": [
+   15,
+   545,
+   894,
+   1004
+  ],
+  "native": [
+   875,
+   455
+  ],
+  "upscaled": [
+   3500,
+   1820
+  ],
+  "layer": [
+   1750,
+   910
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   4,
+   3,
+   1747,
+   907
+  ],
+  "dark": false,
+  "paper_bgr": [
+   208.0,
+   217.0,
+   228.0
+  ]
+ },
+ "S17-5": {
+  "source": "Stickman_grid_contact_sheet_panels_46e2ecd2_2K.jpg",
+  "cell": [
+   916,
+   545,
+   1836,
+   1004
+  ],
+  "native": [
+   916,
+   455
+  ],
+  "upscaled": [
+   3664,
+   1820
+  ],
+  "layer": [
+   1832,
+   910
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   940,
+   23,
+   1692,
+   889
+  ],
+  "dark": false,
+  "paper_bgr": [
+   241.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S17-6": {
+  "source": "Stickman_grid_contact_sheet_panels_46e2ecd2_2K.jpg",
+  "cell": [
+   1896,
+   545,
+   2745,
+   1004
+  ],
+  "native": [
+   829,
+   439
+  ],
+  "upscaled": [
+   3316,
+   1756
+  ],
+  "layer": [
+   1658,
+   878
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   3,
+   187,
+   833,
+   875
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   250.0,
+   254.0
+  ]
+ },
+ "S17-7": {
+  "source": "Stickman_grid_contact_sheet_panels_46e2ecd2_2K.jpg",
+  "cell": [
+   15,
+   1031,
+   894,
+   1521
+  ],
+  "native": [
+   859,
+   470
+  ],
+  "upscaled": [
+   3436,
+   1880
+  ],
+  "layer": [
+   1718,
+   940
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   632,
+   86,
+   1645,
+   936
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "S17-8": {
+  "source": "Stickman_grid_contact_sheet_panels_46e2ecd2_2K.jpg",
+  "cell": [
+   916,
+   1031,
+   1836,
+   1521
+  ],
+  "native": [
+   916,
+   470
+  ],
+  "upscaled": [
+   3664,
+   1880
+  ],
+  "layer": [
+   1832,
+   940
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   54,
+   239,
+   786,
+   936
+  ],
+  "dark": false,
+  "paper_bgr": [
+   241.0,
+   251.0,
+   254.0
+  ]
+ },
+ "S17-9": {
+  "source": "Stickman_grid_contact_sheet_panels_46e2ecd2_2K.jpg",
+  "cell": [
+   1896,
+   1031,
+   2745,
+   1521
+  ],
+  "native": [
+   829,
+   470
+  ],
+  "upscaled": [
+   3316,
+   1880
+  ],
+  "layer": [
+   1658,
+   940
+  ],
+  "scale_vs_native": 2.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   645,
+   4,
+   1654,
+   936
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   249.0,
+   253.0
+  ]
+ },
+ "SH1A-1": {
+  "source": "Character_contact_sheet_grid_adac6e46_2K.jpg",
+  "cell": [
+   15,
+   15,
+   775,
+   1316
+  ],
+  "native": [
+   751,
+   1282
+  ],
+  "upscaled": [
+   3004,
+   5128
+  ],
+  "layer": [
+   2253,
+   3846
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   24,
+   1154,
+   2131,
+   3191
+  ],
+  "dark": false,
+  "paper_bgr": [
+   236.0,
+   248.0,
+   253.0
+  ]
+ },
+ "SH1A-2": {
+  "source": "Character_contact_sheet_grid_adac6e46_2K.jpg",
+  "cell": [
+   809,
+   15,
+   1521,
+   1316
+  ],
+  "native": [
+   692,
+   1265
+  ],
+  "upscaled": [
+   2768,
+   5060
+  ],
+  "layer": [
+   2076,
+   3795
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   21,
+   1477,
+   1522,
+   3121
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   253.0
+  ]
+ },
+ "SH1A-3": {
+  "source": "Character_contact_sheet_grid_adac6e46_2K.jpg",
+  "cell": [
+   15,
+   1369,
+   775,
+   2737
+  ],
+  "native": [
+   754,
+   1348
+  ],
+  "upscaled": [
+   3016,
+   5392
+  ],
+  "layer": [
+   2262,
+   4044
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   24,
+   1257,
+   2227,
+   3103
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   253.0
+  ]
+ },
+ "SH1A-4": {
+  "source": "Character_contact_sheet_grid_adac6e46_2K.jpg",
+  "cell": [
+   809,
+   1369,
+   1521,
+   2737
+  ],
+  "native": [
+   676,
+   1348
+  ],
+  "upscaled": [
+   2704,
+   5392
+  ],
+  "layer": [
+   2028,
+   4044
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   277,
+   1601,
+   1583,
+   3188
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "SH1B-1": {
+  "source": "Character_contact_sheet_in_grid_23ae6350_2K.jpg",
+  "cell": [
+   15,
+   15,
+   772,
+   1380
+  ],
+  "native": [
+   750,
+   1347
+  ],
+  "upscaled": [
+   3000,
+   5388
+  ],
+  "layer": [
+   2250,
+   4041
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   1061,
+   1681,
+   2074,
+   3754
+  ],
+  "dark": false,
+  "paper_bgr": [
+   237.0,
+   248.0,
+   254.0
+  ]
+ },
+ "SH1B-2": {
+  "source": "Character_contact_sheet_in_grid_23ae6350_2K.jpg",
+  "cell": [
+   829,
+   15,
+   1521,
+   1380
+  ],
+  "native": [
+   678,
+   1345
+  ],
+  "upscaled": [
+   2712,
+   5380
+  ],
+  "layer": [
+   2034,
+   4035
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   20,
+   1595,
+   1227,
+   3160
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "SH1B-3": {
+  "source": "Character_contact_sheet_in_grid_23ae6350_2K.jpg",
+  "cell": [
+   15,
+   1437,
+   772,
+   2737
+  ],
+  "native": [
+   744,
+   1289
+  ],
+  "upscaled": [
+   2976,
+   5156
+  ],
+  "layer": [
+   2232,
+   3867
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   69,
+   1180,
+   2097,
+   3035
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "SH1B-4": {
+  "source": "Character_contact_sheet_in_grid_23ae6350_2K.jpg",
+  "cell": [
+   829,
+   1437,
+   1521,
+   2737
+  ],
+  "native": [
+   656,
+   1264
+  ],
+  "upscaled": [
+   2624,
+   5056
+  ],
+  "layer": [
+   1968,
+   3792
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   325,
+   1516,
+   1536,
+   2879
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "SH2A-1": {
+  "source": "Character_daily_life_contact_sheet_8d6c4bf2_2K.jpg",
+  "cell": [
+   1,
+   15,
+   771,
+   1316
+  ],
+  "native": [
+   750,
+   1297
+  ],
+  "upscaled": [
+   3000,
+   5188
+  ],
+  "layer": [
+   2250,
+   3891
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   322,
+   1182,
+   2226,
+   3203
+  ],
+  "dark": false,
+  "paper_bgr": [
+   237.0,
+   248.0,
+   254.0
+  ]
+ },
+ "SH2A-2": {
+  "source": "Character_daily_life_contact_sheet_8d6c4bf2_2K.jpg",
+  "cell": [
+   823,
+   15,
+   1521,
+   1316
+  ],
+  "native": [
+   678,
+   1265
+  ],
+  "upscaled": [
+   2712,
+   5060
+  ],
+  "layer": [
+   2034,
+   3795
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   20,
+   1562,
+   1044,
+   3237
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   249.0,
+   254.0
+  ]
+ },
+ "SH2A-3": {
+  "source": "Character_daily_life_contact_sheet_8d6c4bf2_2K.jpg",
+  "cell": [
+   1,
+   1373,
+   771,
+   2737
+  ],
+  "native": [
+   766,
+   1360
+  ],
+  "upscaled": [
+   3064,
+   5440
+  ],
+  "layer": [
+   2298,
+   4080
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   24,
+   824,
+   1723,
+   3264
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "SH2A-4": {
+  "source": "Character_daily_life_contact_sheet_8d6c4bf2_2K.jpg",
+  "cell": [
+   823,
+   1373,
+   1521,
+   2737
+  ],
+  "native": [
+   694,
+   1344
+  ],
+  "upscaled": [
+   2776,
+   5376
+  ],
+  "layer": [
+   2082,
+   4032
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   21,
+   1229,
+   2040,
+   3122
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "SH2B-1": {
+  "source": "Stickman_character_contact_sheet\u2026_10a6daf2_2K.jpg",
+  "cell": [
+   15,
+   3,
+   724,
+   1382
+  ],
+  "native": [
+   705,
+   1359
+  ],
+  "upscaled": [
+   2820,
+   5436
+  ],
+  "layer": [
+   2115,
+   4077
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   0,
+   0,
+   2115,
+   4077
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   249.0,
+   254.0
+  ]
+ },
+ "SH2B-2": {
+  "source": "Stickman_character_contact_sheet\u2026_10a6daf2_2K.jpg",
+  "cell": [
+   764,
+   3,
+   1521,
+   1382
+  ],
+  "native": [
+   753,
+   1375
+  ],
+  "upscaled": [
+   3012,
+   5500
+  ],
+  "layer": [
+   2259,
+   4125
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   0,
+   0,
+   2259,
+   4125
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "SH2B-3": {
+  "source": "Stickman_character_contact_sheet\u2026_10a6daf2_2K.jpg",
+  "cell": [
+   15,
+   1437,
+   724,
+   2751
+  ],
+  "native": [
+   689,
+   1278
+  ],
+  "upscaled": [
+   2756,
+   5112
+  ],
+  "layer": [
+   2067,
+   3834
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   144,
+   1463,
+   2046,
+   3195
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "SH2B-4": {
+  "source": "Stickman_character_contact_sheet\u2026_10a6daf2_2K.jpg",
+  "cell": [
+   764,
+   1437,
+   1521,
+   2751
+  ],
+  "native": [
+   737,
+   1310
+  ],
+  "upscaled": [
+   2948,
+   5240
+  ],
+  "layer": [
+   2211,
+   3930
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   285,
+   1846,
+   2167,
+   3117
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   251.0,
+   254.0
+  ]
+ },
+ "SH3A-1": {
+  "source": "Stickman_character_contact_sheet\u2026_9bc57afd_2K.jpg",
+  "cell": [
+   15,
+   15,
+   726,
+   1380
+  ],
+  "native": [
+   691,
+   1345
+  ],
+  "upscaled": [
+   2764,
+   5380
+  ],
+  "layer": [
+   2073,
+   4035
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   452,
+   1770,
+   2052,
+   3082
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "SH3A-2": {
+  "source": "Stickman_character_contact_sheet\u2026_9bc57afd_2K.jpg",
+  "cell": [
+   761,
+   15,
+   1521,
+   1380
+  ],
+  "native": [
+   740,
+   1348
+  ],
+  "upscaled": [
+   2960,
+   5392
+  ],
+  "layer": [
+   2220,
+   4044
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   46,
+   1229,
+   1151,
+   3099
+  ],
+  "dark": false,
+  "paper_bgr": [
+   240.0,
+   250.0,
+   254.0
+  ]
+ },
+ "SH3A-3": {
+  "source": "Stickman_character_contact_sheet\u2026_9bc57afd_2K.jpg",
+  "cell": [
+   15,
+   1437,
+   726,
+   2737
+  ],
+  "native": [
+   692,
+   1264
+  ],
+  "upscaled": [
+   2768,
+   5056
+  ],
+  "layer": [
+   2076,
+   3792
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   21,
+   1185,
+   2040,
+   3070
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "SH3A-4": {
+  "source": "Stickman_character_contact_sheet\u2026_9bc57afd_2K.jpg",
+  "cell": [
+   761,
+   1437,
+   1521,
+   2737
+  ],
+  "native": [
+   740,
+   1280
+  ],
+  "upscaled": [
+   2960,
+   5120
+  ],
+  "layer": [
+   2220,
+   3840
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   558,
+   1312,
+   1852,
+   2953
+  ],
+  "dark": false,
+  "paper_bgr": [
+   241.0,
+   250.0,
+   254.0
+  ]
+ },
+ "SH3B-1": {
+  "source": "Stickman_character_contact_sheet\u2026_e7744faa_2K.jpg",
+  "cell": [
+   15,
+   15,
+   773,
+   1382
+  ],
+  "native": [
+   743,
+   1349
+  ],
+  "upscaled": [
+   2972,
+   5396
+  ],
+  "layer": [
+   2229,
+   4047
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   106,
+   1513,
+   2089,
+   3217
+  ],
+  "dark": false,
+  "paper_bgr": [
+   237.0,
+   248.0,
+   254.0
+  ]
+ },
+ "SH3B-2": {
+  "source": "Stickman_character_contact_sheet\u2026_e7744faa_2K.jpg",
+  "cell": [
+   817,
+   15,
+   1521,
+   1382
+  ],
+  "native": [
+   687,
+   1346
+  ],
+  "upscaled": [
+   2748,
+   5384
+  ],
+  "layer": [
+   2061,
+   4038
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   21,
+   1283,
+   2004,
+   3427
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ },
+ "SH3B-3": {
+  "source": "Stickman_character_contact_sheet\u2026_e7744faa_2K.jpg",
+  "cell": [
+   15,
+   1437,
+   773,
+   2737
+  ],
+  "native": [
+   738,
+   1283
+  ],
+  "upscaled": [
+   2952,
+   5132
+  ],
+  "layer": [
+   2214,
+   3849
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   63,
+   1012,
+   1977,
+   3019
+  ],
+  "dark": false,
+  "paper_bgr": [
+   238.0,
+   248.0,
+   254.0
+  ]
+ },
+ "SH3B-4": {
+  "source": "Stickman_character_contact_sheet\u2026_e7744faa_2K.jpg",
+  "cell": [
+   817,
+   1437,
+   1521,
+   2737
+  ],
+  "native": [
+   668,
+   1264
+  ],
+  "upscaled": [
+   2672,
+   5056
+  ],
+  "layer": [
+   2004,
+   3792
+  ],
+  "scale_vs_native": 3.0,
+  "method": "fsrcnn-x4",
+  "bbox": [
+   20,
+   1273,
+   1858,
+   3044
+  ],
+  "dark": false,
+  "paper_bgr": [
+   239.0,
+   250.0,
+   254.0
+  ]
+ }
+}
